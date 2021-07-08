@@ -1,0 +1,577 @@
+P4:
+  Accession id: 'BioProject: PRJEB28370'
+  Accession reference: https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28370
+  Contact: http://medweb.md.biu.ac.il/research/meital-gal-tanamy/
+  Genotype Detections:
+    tcr_genotype:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype
+      Pre-processing: presto
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+  Institute: Bar-Ilan University, Safed
+  Number of Samples: 31
+  Number of Subjects: 31
+  Project: P4
+  Reference: https://dx.doi.org/10.3389/fimmu.2018.03004
+  Researcher: Meital Gal Tanamy
+  Samples:
+    P4_I10_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I10_S1
+      Reads: 8565
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I10
+      Tissue Processing Name: P4_pbmc
+    P4_I11_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I11_S1
+      Reads: 90574
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I11
+      Tissue Processing Name: P4_pbmc
+    P4_I12_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I12_S1
+      Reads: 40709
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I12
+      Tissue Processing Name: P4_pbmc
+    P4_I13_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I13_S1
+      Reads: 109827
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I13
+      Tissue Processing Name: P4_pbmc
+    P4_I14_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I14_S1
+      Reads: 99222
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I14
+      Tissue Processing Name: P4_pbmc
+    P4_I15_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I15_S1
+      Reads: 79268
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I15
+      Tissue Processing Name: P4_pbmc
+    P4_I16_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I16_S1
+      Reads: 65202
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I16
+      Tissue Processing Name: P4_pbmc
+    P4_I17_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I17_S1
+      Reads: 64489
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I17
+      Tissue Processing Name: P4_pbmc
+    P4_I18_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I18_S1
+      Reads: 39528
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I18
+      Tissue Processing Name: P4_pbmc
+    P4_I19_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I19_S1
+      Reads: 109307
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I19
+      Tissue Processing Name: P4_pbmc
+    P4_I1_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I1_S1
+      Reads: 105496
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I1
+      Tissue Processing Name: P4_pbmc
+    P4_I21_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I21_S1
+      Reads: 44394
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I21
+      Tissue Processing Name: P4_pbmc
+    P4_I22_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I22_S1
+      Reads: 12460
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I22
+      Tissue Processing Name: P4_pbmc
+    P4_I23_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I23_S1
+      Reads: 28005
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I23
+      Tissue Processing Name: P4_pbmc
+    P4_I24_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I24_S1
+      Reads: 51277
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I24
+      Tissue Processing Name: P4_pbmc
+    P4_I25_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I25_S1
+      Reads: 23899
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I25
+      Tissue Processing Name: P4_pbmc
+    P4_I26_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I26_S1
+      Reads: 50853
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I26
+      Tissue Processing Name: P4_pbmc
+    P4_I27_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I27_S1
+      Reads: 27093
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I27
+      Tissue Processing Name: P4_pbmc
+    P4_I28_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I28_S1
+      Reads: 39332
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I28
+      Tissue Processing Name: P4_pbmc
+    P4_I29_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I29_S1
+      Reads: 45325
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I29
+      Tissue Processing Name: P4_pbmc
+    P4_I2_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I2_S1
+      Reads: 156469
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I2
+      Tissue Processing Name: P4_pbmc
+    P4_I30_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I30_S1
+      Reads: 52705
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I30
+      Tissue Processing Name: P4_pbmc
+    P4_I31_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I31_S1
+      Reads: 30635
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I31
+      Tissue Processing Name: P4_pbmc
+    P4_I4_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I4_S1
+      Reads: 130369
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I4
+      Tissue Processing Name: P4_pbmc
+    P4_I5_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I5_S1
+      Reads: 126415
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I5
+      Tissue Processing Name: P4_pbmc
+    P4_I7_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I7_S1
+      Reads: 51207
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I7
+      Tissue Processing Name: P4_pbmc
+    P4_I8_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I8_S1
+      Reads: 28780
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I8
+      Tissue Processing Name: P4_pbmc
+    P4_I9_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype
+      Name: P4_I9_S1
+      Reads: 35502
+      Sample Group: '1'
+      Sequence Protocol Name: P4_Sequence_protocol
+      Subject Name: P4_I9
+      Tissue Processing Name: P4_pbmc
+  Sequence Protocol:
+    P4_Sequence_protocol:
+      Helix: RNA
+      Name: P4_Sequence_protocol
+      Primer 3 location: Constant region
+      Primer 5 location: "5\u2019 utr"
+      Sequencing_length: Full
+      Sequencing_platform: MiSeq 2x300
+      UMI: true
+  Subjects:
+    P4_I1:
+      Age: 45
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I1
+      Original name: C10
+      Sex: M
+    P4_I10:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I10
+      Original name: CI10
+      Sex: F
+    P4_I11:
+      Age: 37
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I11
+      Original name: CI11
+      Sex: M
+    P4_I12:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I12
+      Original name: CI13
+      Sex: M
+    P4_I13:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I13
+      Original name: CI15
+      Sex: M
+    P4_I14:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I14
+      Original name: CI16
+      Sex: F
+    P4_I15:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I15
+      Original name: CI20
+      Sex: F
+    P4_I16:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I16
+      Original name: CI21
+      Sex: M
+    P4_I17:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I17
+      Original name: CI22
+      Sex: M
+    P4_I18:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I18
+      Original name: CI26
+      Sex: M
+    P4_I19:
+      Age: 43
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: HCV-chronically infected
+      Name: P4_I19
+      Original name: CI4
+      Sex: F
+    P4_I2:
+      Age: 36
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I2
+      Original name: C4
+      Sex: F
+    P4_I21:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I21
+      Original name: SC1
+      Sex: F
+    P4_I22:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I22
+      Original name: SC10
+      Sex: M
+    P4_I23:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I23
+      Original name: SC11
+      Sex: F
+    P4_I24:
+      Age: 45
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I24
+      Original name: SC12
+      Sex: F
+    P4_I25:
+      Age: 42
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I25
+      Original name: SC14
+      Sex: F
+    P4_I26:
+      Age: 50
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I26
+      Original name: SC15
+      Sex: F
+    P4_I27:
+      Age: 50
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I27
+      Original name: SC2
+      Sex: F
+    P4_I28:
+      Age: 51
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I28
+      Original name: SC3
+      Sex: M
+    P4_I29:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I29
+      Original name: SC7
+      Sex: M
+    P4_I30:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I30
+      Original name: SC8
+      Sex: M
+    P4_I31:
+      Age: ''
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Spontaneously cured from HCV
+      Name: P4_I31
+      Original name: SC9
+      Sex: F
+    P4_I4:
+      Age: 37
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I4
+      Original name: C5
+      Sex: F
+    P4_I5:
+      Age: 28
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I5
+      Original name: C6
+      Sex: M
+    P4_I7:
+      Age: 45
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I7
+      Original name: C7
+      Sex: M
+    P4_I8:
+      Age: 31
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I8
+      Original name: C8
+      Sex: F
+    P4_I9:
+      Age: 37
+      Cohort: HCV
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P4_I9
+      Original name: C9
+      Sex: M
+  Tissue Processing:
+    P4_pbmc:
+      Cell Type: T cell
+      Isotype: Mixed
+      Name: P4_pbmc
+      Species: Human
+      Sub Cell Type: PBMC
+      Tissue: Blood

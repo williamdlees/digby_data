@@ -1,0 +1,163 @@
+P18:
+  Accession id: 'BioProject: PRJNA608742'
+  Accession reference: https://pubmed.ncbi.nlm.nih.gov/32398875/
+  Contact: zhangzheng1975@aliyun.com, zhangshuye@shphc.org.cn, liulei3322@aliyun.com
+  Genotype Detections:
+    tcr_genotype_ranger_3.0.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_3.0.0
+      Pre-processing: Cell Ranger 3.0.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_3.0.2:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_3.0.2
+      Pre-processing: Cell Ranger 3.0.2
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_3.1.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_3.1.0
+      Pre-processing: Cell Ranger 3.1.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_4.0.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_4.0.0
+      Pre-processing: Cell Ranger 4.0.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_5.0.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_5.0.0
+      Pre-processing: Cell Ranger 5.0.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+  Institute: Institute for Hepatology, National Clinical Research Center for Infectious
+    Disease, Shenzhen Third People's Hospital
+  Number of Samples: 3
+  Number of Subjects: 3
+  Project: P18
+  Reference: https://doi.org/10.1038/s41591-020-0901-9
+  Researcher: ''
+  Samples:
+    P18_I1_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.1.0
+      Name: P18_I1_S1
+      Reads: 879
+      Sample Group: '1'
+      Sequence Protocol Name: P18_Sequence_protocol
+      Subject Name: P18_I1
+      Tissue Processing Name: P18_PBMC
+    P18_I2_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.1.0
+      Name: P18_I2_S1
+      Reads: 1189
+      Sample Group: '1'
+      Sequence Protocol Name: P18_Sequence_protocol
+      Subject Name: P18_I2
+      Tissue Processing Name: P18_PBMC
+    P18_I3_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.1.0
+      Name: P18_I3_S1
+      Reads: 2203
+      Sample Group: '1'
+      Sequence Protocol Name: P18_Sequence_protocol
+      Subject Name: P18_I3
+      Tissue Processing Name: P18_PBMC
+  Sequence Protocol:
+    P18_Sequence_protocol:
+      Helix: RNA
+      Name: P18_Sequence_protocol
+      Primer 3 location: Constant region
+      Primer 5 location: "5\u2019 utr"
+      Sequencing_length: Full
+      Sequencing_platform: BGI MGISEQ-2000
+      UMI: true
+  Subjects:
+    P18_I1:
+      Age: 36
+      Cohort: COVID-19
+      Country: ''
+      Ethnic: ''
+      Health Status: COVID-19
+      Name: P18_I1
+      Original name: C141
+      Sex: M
+    P18_I2:
+      Age: 37
+      Cohort: COVID-19
+      Country: ''
+      Ethnic: ''
+      Health Status: COVID-19
+      Name: P18_I2
+      Original name: C142
+      Sex: F
+    P18_I3:
+      Age: 66
+      Cohort: COVID-19
+      Country: ''
+      Ethnic: ''
+      Health Status: COVID-19
+      Name: P18_I3
+      Original name: C143
+      Sex: M
+  Tissue Processing:
+    P18_PBMC:
+      Cell Type: T cell
+      Isotype: ''
+      Name: P18_PBMC
+      Species: Human
+      Sub Cell Type: ''
+      Tissue: peripheral blood

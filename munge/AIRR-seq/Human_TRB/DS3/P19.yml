@@ -1,0 +1,6662 @@
+P19:
+  Accession id: 'BioProject: PRJEB33490'
+  Accession reference: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB33490
+  Contact: Mascha.binder@uk-halle.de
+  Genotype Detections:
+    tcr_genotype_presto:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_presto
+      Pre-processing: presto
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+  Institute: MARTIN-LUTHER-UNIVERSITY HALLE-WITTENBERG, INSTITU
+  Number of Samples: 380
+  Number of Subjects: 313
+  Project: P19
+  Reference: https://doi.org/10.1080/2162402X.2019.1644110
+  Researcher: Mascha Binder
+  Samples:
+    P19_I100_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I100_S1
+      Reads: 5752
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I100
+      Tissue Processing Name: P19_tissue
+    P19_I101_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I101_S1
+      Reads: 10432
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I101
+      Tissue Processing Name: P19_tissue
+    P19_I102_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I102_S1
+      Reads: 15124
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I102
+      Tissue Processing Name: P19_tissue
+    P19_I103_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I103_S1
+      Reads: 15660
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I103
+      Tissue Processing Name: P19_tissue
+    P19_I103_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I103_S2
+      Reads: 16273
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I103
+      Tissue Processing Name: P19_tissue
+    P19_I103_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I103_S3
+      Reads: 31273
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I103
+      Tissue Processing Name: P19_tissue
+    P19_I104_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I104_S1
+      Reads: 26665
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I104
+      Tissue Processing Name: P19_tissue
+    P19_I105_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I105_S1
+      Reads: 9686
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I105
+      Tissue Processing Name: P19_tissue
+    P19_I106_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I106_S1
+      Reads: 11337
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I106
+      Tissue Processing Name: P19_tissue
+    P19_I107_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I107_S1
+      Reads: 39063
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I107
+      Tissue Processing Name: P19_tissue
+    P19_I108_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I108_S1
+      Reads: 11935
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I108
+      Tissue Processing Name: P19_tissue
+    P19_I109_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I109_S1
+      Reads: 3331
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I109
+      Tissue Processing Name: P19_tissue
+    P19_I10_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I10_S1
+      Reads: 20671
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I10
+      Tissue Processing Name: P19_tissue
+    P19_I110_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I110_S1
+      Reads: 16339
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I110
+      Tissue Processing Name: P19_tissue
+    P19_I111_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I111_S1
+      Reads: 24268
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I111
+      Tissue Processing Name: P19_tissue
+    P19_I112_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I112_S1
+      Reads: 6644
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I112
+      Tissue Processing Name: P19_tissue
+    P19_I113_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I113_S1
+      Reads: 13396
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I113
+      Tissue Processing Name: P19_tissue
+    P19_I114_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I114_S1
+      Reads: 16215
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I114
+      Tissue Processing Name: P19_tissue
+    P19_I114_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I114_S2
+      Reads: 17337
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I114
+      Tissue Processing Name: P19_tissue
+    P19_I114_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I114_S3
+      Reads: 32810
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I114
+      Tissue Processing Name: P19_tissue
+    P19_I115_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I115_S1
+      Reads: 6991
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I115
+      Tissue Processing Name: P19_tissue
+    P19_I115_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I115_S2
+      Reads: 8606
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I115
+      Tissue Processing Name: P19_tissue
+    P19_I115_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I115_S3
+      Reads: 14998
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I115
+      Tissue Processing Name: P19_tissue
+    P19_I116_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I116_S1
+      Reads: 12793
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I116
+      Tissue Processing Name: P19_tissue
+    P19_I117_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I117_S1
+      Reads: 12563
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I117
+      Tissue Processing Name: P19_tissue
+    P19_I118_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I118_S1
+      Reads: 23301
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I118
+      Tissue Processing Name: P19_tissue
+    P19_I119_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I119_S1
+      Reads: 4882
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I119
+      Tissue Processing Name: P19_tissue
+    P19_I11_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I11_S1
+      Reads: 19691
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I11
+      Tissue Processing Name: P19_tissue
+    P19_I120_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I120_S1
+      Reads: 13653
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I120
+      Tissue Processing Name: P19_tissue
+    P19_I121_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I121_S1
+      Reads: 8910
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I121
+      Tissue Processing Name: P19_tissue
+    P19_I122_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I122_S1
+      Reads: 6173
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I122
+      Tissue Processing Name: P19_tissue
+    P19_I122_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I122_S2
+      Reads: 5959
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I122
+      Tissue Processing Name: P19_tissue
+    P19_I122_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I122_S3
+      Reads: 11962
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I122
+      Tissue Processing Name: P19_tissue
+    P19_I123_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I123_S1
+      Reads: 16206
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I123
+      Tissue Processing Name: P19_tissue
+    P19_I124_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I124_S1
+      Reads: 15191
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I124
+      Tissue Processing Name: P19_tissue
+    P19_I124_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I124_S2
+      Reads: 4320
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I124
+      Tissue Processing Name: P19_tissue
+    P19_I124_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I124_S3
+      Reads: 18564
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I124
+      Tissue Processing Name: P19_tissue
+    P19_I125_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I125_S1
+      Reads: 8698
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I125
+      Tissue Processing Name: P19_tissue
+    P19_I125_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I125_S2
+      Reads: 8102
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I125
+      Tissue Processing Name: P19_tissue
+    P19_I125_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I125_S3
+      Reads: 6419
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I125
+      Tissue Processing Name: P19_tissue
+    P19_I125_S4:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I125_S4
+      Reads: 8690
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I125
+      Tissue Processing Name: P19_tissue
+    P19_I125_S5:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I125_S5
+      Reads: 25883
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I125
+      Tissue Processing Name: P19_tissue
+    P19_I126_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I126_S1
+      Reads: 2023
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I126
+      Tissue Processing Name: P19_tissue
+    P19_I127_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I127_S1
+      Reads: 14737
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I127
+      Tissue Processing Name: P19_tissue
+    P19_I128_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I128_S1
+      Reads: 12362
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I128
+      Tissue Processing Name: P19_tissue
+    P19_I128_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I128_S2
+      Reads: 16260
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I128
+      Tissue Processing Name: P19_tissue
+    P19_I128_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I128_S3
+      Reads: 26756
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I128
+      Tissue Processing Name: P19_tissue
+    P19_I129_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I129_S1
+      Reads: 11451
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I129
+      Tissue Processing Name: P19_tissue
+    P19_I12_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I12_S1
+      Reads: 35402
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I12
+      Tissue Processing Name: P19_tissue
+    P19_I130_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I130_S1
+      Reads: 7320
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I130
+      Tissue Processing Name: P19_tissue
+    P19_I131_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I131_S1
+      Reads: 14102
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I131
+      Tissue Processing Name: P19_tissue
+    P19_I132_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I132_S1
+      Reads: 4994
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I132
+      Tissue Processing Name: P19_tissue
+    P19_I132_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I132_S2
+      Reads: 9284
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I132
+      Tissue Processing Name: P19_tissue
+    P19_I132_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I132_S3
+      Reads: 13600
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I132
+      Tissue Processing Name: P19_tissue
+    P19_I133_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I133_S1
+      Reads: 10215
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I133
+      Tissue Processing Name: P19_tissue
+    P19_I133_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I133_S2
+      Reads: 20226
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I133
+      Tissue Processing Name: P19_tissue
+    P19_I133_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I133_S3
+      Reads: 30099
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I133
+      Tissue Processing Name: P19_tissue
+    P19_I134_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I134_S1
+      Reads: 8061
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I134
+      Tissue Processing Name: P19_tissue
+    P19_I134_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I134_S2
+      Reads: 4685
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I134
+      Tissue Processing Name: P19_tissue
+    P19_I134_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I134_S3
+      Reads: 12574
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I134
+      Tissue Processing Name: P19_tissue
+    P19_I135_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I135_S1
+      Reads: 5329
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I135
+      Tissue Processing Name: P19_tissue
+    P19_I136_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I136_S1
+      Reads: 17542
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I136
+      Tissue Processing Name: P19_tissue
+    P19_I137_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I137_S1
+      Reads: 15238
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I137
+      Tissue Processing Name: P19_tissue
+    P19_I138_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I138_S1
+      Reads: 8248
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I138
+      Tissue Processing Name: P19_tissue
+    P19_I139_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I139_S1
+      Reads: 3105
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I139
+      Tissue Processing Name: P19_tissue
+    P19_I13_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I13_S1
+      Reads: 21850
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I13
+      Tissue Processing Name: P19_tissue
+    P19_I140_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I140_S1
+      Reads: 46799
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I140
+      Tissue Processing Name: P19_tissue
+    P19_I141_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I141_S1
+      Reads: 8992
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I141
+      Tissue Processing Name: P19_tissue
+    P19_I142_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I142_S1
+      Reads: 17995
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I142
+      Tissue Processing Name: P19_tissue
+    P19_I143_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I143_S1
+      Reads: 22997
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I143
+      Tissue Processing Name: P19_tissue
+    P19_I144_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I144_S1
+      Reads: 10912
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I144
+      Tissue Processing Name: P19_tissue
+    P19_I145_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I145_S1
+      Reads: 9738
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I145
+      Tissue Processing Name: P19_tissue
+    P19_I146_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I146_S1
+      Reads: 14175
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I146
+      Tissue Processing Name: P19_tissue
+    P19_I147_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I147_S1
+      Reads: 13656
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I147
+      Tissue Processing Name: P19_tissue
+    P19_I148_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I148_S1
+      Reads: 12851
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I148
+      Tissue Processing Name: P19_tissue
+    P19_I149_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I149_S1
+      Reads: 18111
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I149
+      Tissue Processing Name: P19_tissue
+    P19_I14_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I14_S1
+      Reads: 1134
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I14
+      Tissue Processing Name: P19_tissue
+    P19_I150_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I150_S1
+      Reads: 11240
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I150
+      Tissue Processing Name: P19_tissue
+    P19_I151_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I151_S1
+      Reads: 18693
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I151
+      Tissue Processing Name: P19_tissue
+    P19_I152_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I152_S1
+      Reads: 3553
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I152
+      Tissue Processing Name: P19_tissue
+    P19_I153_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I153_S1
+      Reads: 4218
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I153
+      Tissue Processing Name: P19_tissue
+    P19_I154_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I154_S1
+      Reads: 4299
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I154
+      Tissue Processing Name: P19_tissue
+    P19_I155_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I155_S1
+      Reads: 13536
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I155
+      Tissue Processing Name: P19_tissue
+    P19_I156_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I156_S1
+      Reads: 5501
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I156
+      Tissue Processing Name: P19_tissue
+    P19_I157_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I157_S1
+      Reads: 4392
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I157
+      Tissue Processing Name: P19_tissue
+    P19_I158_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I158_S1
+      Reads: 10181
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I158
+      Tissue Processing Name: P19_tissue
+    P19_I159_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I159_S1
+      Reads: 17133
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I159
+      Tissue Processing Name: P19_tissue
+    P19_I15_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I15_S1
+      Reads: 24424
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I15
+      Tissue Processing Name: P19_tissue
+    P19_I160_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I160_S1
+      Reads: 7528
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I160
+      Tissue Processing Name: P19_tissue
+    P19_I161_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I161_S1
+      Reads: 11363
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I161
+      Tissue Processing Name: P19_tissue
+    P19_I162_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I162_S1
+      Reads: 16808
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I162
+      Tissue Processing Name: P19_tissue
+    P19_I163_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I163_S1
+      Reads: 4923
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I163
+      Tissue Processing Name: P19_tissue
+    P19_I164_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I164_S1
+      Reads: 7706
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I164
+      Tissue Processing Name: P19_tissue
+    P19_I165_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I165_S1
+      Reads: 20475
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I165
+      Tissue Processing Name: P19_tissue
+    P19_I166_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I166_S1
+      Reads: 6036
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I166
+      Tissue Processing Name: P19_tissue
+    P19_I167_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I167_S1
+      Reads: 4226
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I167
+      Tissue Processing Name: P19_tissue
+    P19_I168_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I168_S1
+      Reads: 8620
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I168
+      Tissue Processing Name: P19_tissue
+    P19_I169_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I169_S1
+      Reads: 8483
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I169
+      Tissue Processing Name: P19_tissue
+    P19_I16_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I16_S1
+      Reads: 20572
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I16
+      Tissue Processing Name: P19_tissue
+    P19_I170_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I170_S1
+      Reads: 13099
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I170
+      Tissue Processing Name: P19_tissue
+    P19_I171_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I171_S1
+      Reads: 3004
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I171
+      Tissue Processing Name: P19_tissue
+    P19_I172_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I172_S1
+      Reads: 3307
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I172
+      Tissue Processing Name: P19_tissue
+    P19_I173_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I173_S1
+      Reads: 29701
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I173
+      Tissue Processing Name: P19_tissue
+    P19_I174_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I174_S1
+      Reads: 12534
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I174
+      Tissue Processing Name: P19_tissue
+    P19_I175_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I175_S1
+      Reads: 5931
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I175
+      Tissue Processing Name: P19_tissue
+    P19_I176_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I176_S1
+      Reads: 4044
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I176
+      Tissue Processing Name: P19_tissue
+    P19_I177_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I177_S1
+      Reads: 13488
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I177
+      Tissue Processing Name: P19_tissue
+    P19_I178_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I178_S1
+      Reads: 10785
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I178
+      Tissue Processing Name: P19_tissue
+    P19_I179_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I179_S1
+      Reads: 8365
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I179
+      Tissue Processing Name: P19_tissue
+    P19_I17_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I17_S1
+      Reads: 17698
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I17
+      Tissue Processing Name: P19_tissue
+    P19_I180_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I180_S1
+      Reads: 5897
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I180
+      Tissue Processing Name: P19_tissue
+    P19_I181_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I181_S1
+      Reads: 11113
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I181
+      Tissue Processing Name: P19_tissue
+    P19_I182_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I182_S1
+      Reads: 9086
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I182
+      Tissue Processing Name: P19_tissue
+    P19_I183_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I183_S1
+      Reads: 13239
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I183
+      Tissue Processing Name: P19_tissue
+    P19_I184_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I184_S1
+      Reads: 20897
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I184
+      Tissue Processing Name: P19_tissue
+    P19_I185_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I185_S1
+      Reads: 7336
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I185
+      Tissue Processing Name: P19_tissue
+    P19_I186_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I186_S1
+      Reads: 6288
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I186
+      Tissue Processing Name: P19_tissue
+    P19_I187_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I187_S1
+      Reads: 12345
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I187
+      Tissue Processing Name: P19_tissue
+    P19_I188_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I188_S1
+      Reads: 22389
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I188
+      Tissue Processing Name: P19_tissue
+    P19_I188_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I188_S2
+      Reads: 15605
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I188
+      Tissue Processing Name: P19_tissue
+    P19_I188_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I188_S3
+      Reads: 37846
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I188
+      Tissue Processing Name: P19_tissue
+    P19_I189_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I189_S1
+      Reads: 12980
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I189
+      Tissue Processing Name: P19_tissue
+    P19_I189_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I189_S2
+      Reads: 15587
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I189
+      Tissue Processing Name: P19_tissue
+    P19_I189_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I189_S3
+      Reads: 27397
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I189
+      Tissue Processing Name: P19_tissue
+    P19_I18_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I18_S1
+      Reads: 17944
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I18
+      Tissue Processing Name: P19_tissue
+    P19_I190_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I190_S1
+      Reads: 9843
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I190
+      Tissue Processing Name: P19_tissue
+    P19_I191_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I191_S1
+      Reads: 16866
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I191
+      Tissue Processing Name: P19_tissue
+    P19_I191_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I191_S2
+      Reads: 26371
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I191
+      Tissue Processing Name: P19_tissue
+    P19_I191_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I191_S3
+      Reads: 10149
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I191
+      Tissue Processing Name: P19_tissue
+    P19_I192_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I192_S1
+      Reads: 11995
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I192
+      Tissue Processing Name: P19_tissue
+    P19_I193_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I193_S1
+      Reads: 4393
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I193
+      Tissue Processing Name: P19_tissue
+    P19_I194_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I194_S1
+      Reads: 3418
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I194
+      Tissue Processing Name: P19_tissue
+    P19_I195_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I195_S1
+      Reads: 4461
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I195
+      Tissue Processing Name: P19_tissue
+    P19_I196_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I196_S1
+      Reads: 16559
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I196
+      Tissue Processing Name: P19_tissue
+    P19_I197_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I197_S1
+      Reads: 13397
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I197
+      Tissue Processing Name: P19_tissue
+    P19_I198_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I198_S1
+      Reads: 5231
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I198
+      Tissue Processing Name: P19_tissue
+    P19_I199_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I199_S1
+      Reads: 11078
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I199
+      Tissue Processing Name: P19_tissue
+    P19_I19_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I19_S1
+      Reads: 27767
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I19
+      Tissue Processing Name: P19_tissue
+    P19_I1_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I1_S1
+      Reads: 15298
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I1
+      Tissue Processing Name: P19_tissue
+    P19_I200_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I200_S1
+      Reads: 4256
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I200
+      Tissue Processing Name: P19_tissue
+    P19_I201_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I201_S1
+      Reads: 1853
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I201
+      Tissue Processing Name: P19_tissue
+    P19_I202_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I202_S1
+      Reads: 10601
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I202
+      Tissue Processing Name: P19_tissue
+    P19_I203_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I203_S1
+      Reads: 3619
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I203
+      Tissue Processing Name: P19_tissue
+    P19_I203_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I203_S2
+      Reads: 338
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I203
+      Tissue Processing Name: P19_tissue
+    P19_I203_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I203_S3
+      Reads: 3859
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I203
+      Tissue Processing Name: P19_tissue
+    P19_I204_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I204_S1
+      Reads: 1418
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I204
+      Tissue Processing Name: P19_tissue
+    P19_I204_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I204_S2
+      Reads: 6944
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I204
+      Tissue Processing Name: P19_tissue
+    P19_I204_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I204_S3
+      Reads: 8274
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I204
+      Tissue Processing Name: P19_tissue
+    P19_I205_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I205_S1
+      Reads: 10714
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I205
+      Tissue Processing Name: P19_tissue
+    P19_I206_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I206_S1
+      Reads: 3490
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I206
+      Tissue Processing Name: P19_tissue
+    P19_I207_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I207_S1
+      Reads: 981
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I207
+      Tissue Processing Name: P19_tissue
+    P19_I208_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I208_S1
+      Reads: 419
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I208
+      Tissue Processing Name: P19_tissue
+    P19_I209_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I209_S1
+      Reads: 5107
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I209
+      Tissue Processing Name: P19_tissue
+    P19_I20_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I20_S1
+      Reads: 42836
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I20
+      Tissue Processing Name: P19_tissue
+    P19_I210_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I210_S1
+      Reads: 2582
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I210
+      Tissue Processing Name: P19_tissue
+    P19_I211_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I211_S1
+      Reads: 8064
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I211
+      Tissue Processing Name: P19_tissue
+    P19_I212_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I212_S1
+      Reads: 6431
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I212
+      Tissue Processing Name: P19_tissue
+    P19_I213_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I213_S1
+      Reads: 9189
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I213
+      Tissue Processing Name: P19_tissue
+    P19_I214_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I214_S1
+      Reads: 5194
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I214
+      Tissue Processing Name: P19_tissue
+    P19_I215_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I215_S1
+      Reads: 7969
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I215
+      Tissue Processing Name: P19_tissue
+    P19_I216_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I216_S1
+      Reads: 5486
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I216
+      Tissue Processing Name: P19_tissue
+    P19_I217_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I217_S1
+      Reads: 8253
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I217
+      Tissue Processing Name: P19_tissue
+    P19_I218_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I218_S1
+      Reads: 4538
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I218
+      Tissue Processing Name: P19_tissue
+    P19_I218_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I218_S2
+      Reads: 5079
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I218
+      Tissue Processing Name: P19_tissue
+    P19_I218_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I218_S3
+      Reads: 8850
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I218
+      Tissue Processing Name: P19_tissue
+    P19_I219_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I219_S1
+      Reads: 1704
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I219
+      Tissue Processing Name: P19_tissue
+    P19_I219_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I219_S2
+      Reads: 7667
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I219
+      Tissue Processing Name: P19_tissue
+    P19_I219_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I219_S3
+      Reads: 9237
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I219
+      Tissue Processing Name: P19_tissue
+    P19_I21_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I21_S1
+      Reads: 21990
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I21
+      Tissue Processing Name: P19_tissue
+    P19_I21_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I21_S2
+      Reads: 30277
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I21
+      Tissue Processing Name: P19_tissue
+    P19_I21_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I21_S3
+      Reads: 25231
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I21
+      Tissue Processing Name: P19_tissue
+    P19_I21_S4:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I21_S4
+      Reads: 74492
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I21
+      Tissue Processing Name: P19_tissue
+    P19_I220_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I220_S1
+      Reads: 5803
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I220
+      Tissue Processing Name: P19_tissue
+    P19_I220_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I220_S2
+      Reads: 5845
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I220
+      Tissue Processing Name: P19_tissue
+    P19_I220_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I220_S3
+      Reads: 11425
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I220
+      Tissue Processing Name: P19_tissue
+    P19_I221_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I221_S1
+      Reads: 6638
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I221
+      Tissue Processing Name: P19_tissue
+    P19_I222_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I222_S1
+      Reads: 22636
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I222
+      Tissue Processing Name: P19_tissue
+    P19_I223_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I223_S1
+      Reads: 20658
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I223
+      Tissue Processing Name: P19_tissue
+    P19_I224_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I224_S1
+      Reads: 1614
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I224
+      Tissue Processing Name: P19_tissue
+    P19_I225_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I225_S1
+      Reads: 1969
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I225
+      Tissue Processing Name: P19_tissue
+    P19_I226_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I226_S1
+      Reads: 7443
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I226
+      Tissue Processing Name: P19_tissue
+    P19_I227_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I227_S1
+      Reads: 10842
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I227
+      Tissue Processing Name: P19_tissue
+    P19_I228_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I228_S1
+      Reads: 2887
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I228
+      Tissue Processing Name: P19_tissue
+    P19_I229_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I229_S1
+      Reads: 18139
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I229
+      Tissue Processing Name: P19_tissue
+    P19_I22_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I22_S1
+      Reads: 23498
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I22
+      Tissue Processing Name: P19_tissue
+    P19_I230_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I230_S1
+      Reads: 4819
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I230
+      Tissue Processing Name: P19_tissue
+    P19_I231_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I231_S1
+      Reads: 2608
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I231
+      Tissue Processing Name: P19_tissue
+    P19_I232_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I232_S1
+      Reads: 5356
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I232
+      Tissue Processing Name: P19_tissue
+    P19_I233_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I233_S1
+      Reads: 562
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I233
+      Tissue Processing Name: P19_tissue
+    P19_I234_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I234_S1
+      Reads: 11312
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I234
+      Tissue Processing Name: P19_tissue
+    P19_I235_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I235_S1
+      Reads: 710
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I235
+      Tissue Processing Name: P19_tissue
+    P19_I236_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I236_S1
+      Reads: 12344
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I236
+      Tissue Processing Name: P19_tissue
+    P19_I237_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I237_S1
+      Reads: 9223
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I237
+      Tissue Processing Name: P19_tissue
+    P19_I238_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I238_S1
+      Reads: 6352
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I238
+      Tissue Processing Name: P19_tissue
+    P19_I239_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I239_S1
+      Reads: 4589
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I239
+      Tissue Processing Name: P19_tissue
+    P19_I239_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I239_S2
+      Reads: 11664
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I239
+      Tissue Processing Name: P19_tissue
+    P19_I239_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I239_S3
+      Reads: 15862
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I239
+      Tissue Processing Name: P19_tissue
+    P19_I23_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I23_S1
+      Reads: 16613
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I23
+      Tissue Processing Name: P19_tissue
+    P19_I240_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I240_S1
+      Reads: 19218
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I240
+      Tissue Processing Name: P19_tissue
+    P19_I241_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I241_S1
+      Reads: 12650
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I241
+      Tissue Processing Name: P19_tissue
+    P19_I242_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I242_S1
+      Reads: 16582
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I242
+      Tissue Processing Name: P19_tissue
+    P19_I243_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I243_S1
+      Reads: 1667
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I243
+      Tissue Processing Name: P19_tissue
+    P19_I244_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I244_S1
+      Reads: 3112
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I244
+      Tissue Processing Name: P19_tissue
+    P19_I245_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I245_S1
+      Reads: 5139
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I245
+      Tissue Processing Name: P19_tissue
+    P19_I245_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I245_S2
+      Reads: 4374
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I245
+      Tissue Processing Name: P19_tissue
+    P19_I245_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I245_S3
+      Reads: 9056
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I245
+      Tissue Processing Name: P19_tissue
+    P19_I246_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I246_S1
+      Reads: 7477
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I246
+      Tissue Processing Name: P19_tissue
+    P19_I247_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I247_S1
+      Reads: 10042
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I247
+      Tissue Processing Name: P19_tissue
+    P19_I248_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I248_S1
+      Reads: 41212
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I248
+      Tissue Processing Name: P19_tissue
+    P19_I249_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I249_S1
+      Reads: 4495
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I249
+      Tissue Processing Name: P19_tissue
+    P19_I24_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I24_S1
+      Reads: 20495
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I24
+      Tissue Processing Name: P19_tissue
+    P19_I250_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I250_S1
+      Reads: 4509
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I250
+      Tissue Processing Name: P19_tissue
+    P19_I251_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I251_S1
+      Reads: 6662
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I251
+      Tissue Processing Name: P19_tissue
+    P19_I252_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I252_S1
+      Reads: 12014
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I252
+      Tissue Processing Name: P19_tissue
+    P19_I253_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I253_S1
+      Reads: 8837
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I253
+      Tissue Processing Name: P19_tissue
+    P19_I253_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I253_S2
+      Reads: 5975
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I253
+      Tissue Processing Name: P19_tissue
+    P19_I253_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I253_S3
+      Reads: 14724
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I253
+      Tissue Processing Name: P19_tissue
+    P19_I254_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I254_S1
+      Reads: 5952
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I254
+      Tissue Processing Name: P19_tissue
+    P19_I255_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I255_S1
+      Reads: 4462
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I255
+      Tissue Processing Name: P19_tissue
+    P19_I256_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I256_S1
+      Reads: 10239
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I256
+      Tissue Processing Name: P19_tissue
+    P19_I257_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I257_S1
+      Reads: 4249
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I257
+      Tissue Processing Name: P19_tissue
+    P19_I258_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I258_S1
+      Reads: 12672
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I258
+      Tissue Processing Name: P19_tissue
+    P19_I259_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I259_S1
+      Reads: 5012
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I259
+      Tissue Processing Name: P19_tissue
+    P19_I25_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I25_S1
+      Reads: 18202
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I25
+      Tissue Processing Name: P19_tissue
+    P19_I260_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I260_S1
+      Reads: 612
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I260
+      Tissue Processing Name: P19_tissue
+    P19_I261_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I261_S1
+      Reads: 6878
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I261
+      Tissue Processing Name: P19_tissue
+    P19_I262_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I262_S1
+      Reads: 7563
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I262
+      Tissue Processing Name: P19_tissue
+    P19_I263_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I263_S1
+      Reads: 1260
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I263
+      Tissue Processing Name: P19_tissue
+    P19_I264_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I264_S1
+      Reads: 16018
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I264
+      Tissue Processing Name: P19_tissue
+    P19_I265_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I265_S1
+      Reads: 17659
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I265
+      Tissue Processing Name: P19_tissue
+    P19_I266_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I266_S1
+      Reads: 3735
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I266
+      Tissue Processing Name: P19_tissue
+    P19_I267_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I267_S1
+      Reads: 8455
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I267
+      Tissue Processing Name: P19_tissue
+    P19_I268_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I268_S1
+      Reads: 3435
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I268
+      Tissue Processing Name: P19_tissue
+    P19_I269_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I269_S1
+      Reads: 10035
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I269
+      Tissue Processing Name: P19_tissue
+    P19_I269_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I269_S2
+      Reads: 16791
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I269
+      Tissue Processing Name: P19_tissue
+    P19_I269_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I269_S3
+      Reads: 26780
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I269
+      Tissue Processing Name: P19_tissue
+    P19_I26_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I26_S1
+      Reads: 51600
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I26
+      Tissue Processing Name: P19_tissue
+    P19_I270_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I270_S1
+      Reads: 12750
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I270
+      Tissue Processing Name: P19_tissue
+    P19_I271_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I271_S1
+      Reads: 14984
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I271
+      Tissue Processing Name: P19_tissue
+    P19_I272_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I272_S1
+      Reads: 18161
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I272
+      Tissue Processing Name: P19_tissue
+    P19_I273_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I273_S1
+      Reads: 17084
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I273
+      Tissue Processing Name: P19_tissue
+    P19_I274_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I274_S1
+      Reads: 5575
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I274
+      Tissue Processing Name: P19_tissue
+    P19_I275_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I275_S1
+      Reads: 4609
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I275
+      Tissue Processing Name: P19_tissue
+    P19_I275_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I275_S2
+      Reads: 4135
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I275
+      Tissue Processing Name: P19_tissue
+    P19_I275_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I275_S3
+      Reads: 8396
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I275
+      Tissue Processing Name: P19_tissue
+    P19_I276_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I276_S1
+      Reads: 20411
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I276
+      Tissue Processing Name: P19_tissue
+    P19_I277_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I277_S1
+      Reads: 6181
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I277
+      Tissue Processing Name: P19_tissue
+    P19_I278_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I278_S1
+      Reads: 10734
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I278
+      Tissue Processing Name: P19_tissue
+    P19_I279_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I279_S1
+      Reads: 14668
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I279
+      Tissue Processing Name: P19_tissue
+    P19_I27_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I27_S1
+      Reads: 17298
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I27
+      Tissue Processing Name: P19_tissue
+    P19_I280_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I280_S1
+      Reads: 15722
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I280
+      Tissue Processing Name: P19_tissue
+    P19_I281_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I281_S1
+      Reads: 6403
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I281
+      Tissue Processing Name: P19_tissue
+    P19_I282_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I282_S1
+      Reads: 2856
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I282
+      Tissue Processing Name: P19_tissue
+    P19_I283_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I283_S1
+      Reads: 7471
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I283
+      Tissue Processing Name: P19_tissue
+    P19_I284_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I284_S1
+      Reads: 4789
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I284
+      Tissue Processing Name: P19_tissue
+    P19_I284_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I284_S2
+      Reads: 2696
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I284
+      Tissue Processing Name: P19_tissue
+    P19_I284_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I284_S3
+      Reads: 7332
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I284
+      Tissue Processing Name: P19_tissue
+    P19_I285_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I285_S1
+      Reads: 6013
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I285
+      Tissue Processing Name: P19_tissue
+    P19_I286_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I286_S1
+      Reads: 3057
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I286
+      Tissue Processing Name: P19_tissue
+    P19_I286_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I286_S2
+      Reads: 3414
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I286
+      Tissue Processing Name: P19_tissue
+    P19_I286_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I286_S3
+      Reads: 6185
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I286
+      Tissue Processing Name: P19_tissue
+    P19_I287_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I287_S1
+      Reads: 7950
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I287
+      Tissue Processing Name: P19_tissue
+    P19_I288_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I288_S1
+      Reads: 14348
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I288
+      Tissue Processing Name: P19_tissue
+    P19_I289_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I289_S1
+      Reads: 4182
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I289
+      Tissue Processing Name: P19_tissue
+    P19_I28_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I28_S1
+      Reads: 13424
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I28
+      Tissue Processing Name: P19_tissue
+    P19_I290_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I290_S1
+      Reads: 3999
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I290
+      Tissue Processing Name: P19_tissue
+    P19_I291_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I291_S1
+      Reads: 2403
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I291
+      Tissue Processing Name: P19_tissue
+    P19_I291_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I291_S2
+      Reads: 3774
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I291
+      Tissue Processing Name: P19_tissue
+    P19_I291_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I291_S3
+      Reads: 6085
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I291
+      Tissue Processing Name: P19_tissue
+    P19_I292_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I292_S1
+      Reads: 26238
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I292
+      Tissue Processing Name: P19_tissue
+    P19_I293_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I293_S1
+      Reads: 18166
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I293
+      Tissue Processing Name: P19_tissue
+    P19_I294_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I294_S1
+      Reads: 27178
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I294
+      Tissue Processing Name: P19_tissue
+    P19_I295_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I295_S1
+      Reads: 3928
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I295
+      Tissue Processing Name: P19_tissue
+    P19_I296_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I296_S1
+      Reads: 3892
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I296
+      Tissue Processing Name: P19_tissue
+    P19_I297_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I297_S1
+      Reads: 21306
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I297
+      Tissue Processing Name: P19_tissue
+    P19_I298_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I298_S1
+      Reads: 4413
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I298
+      Tissue Processing Name: P19_tissue
+    P19_I299_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I299_S1
+      Reads: 4540
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I299
+      Tissue Processing Name: P19_tissue
+    P19_I29_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I29_S1
+      Reads: 31346
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I29
+      Tissue Processing Name: P19_tissue
+    P19_I2_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I2_S1
+      Reads: 32405
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I2
+      Tissue Processing Name: P19_tissue
+    P19_I300_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I300_S1
+      Reads: 2252
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I300
+      Tissue Processing Name: P19_tissue
+    P19_I301_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I301_S1
+      Reads: 12966
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I301
+      Tissue Processing Name: P19_tissue
+    P19_I301_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I301_S2
+      Reads: 1338
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I301
+      Tissue Processing Name: P19_tissue
+    P19_I301_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I301_S3
+      Reads: 14148
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I301
+      Tissue Processing Name: P19_tissue
+    P19_I302_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I302_S1
+      Reads: 6234
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I302
+      Tissue Processing Name: P19_tissue
+    P19_I303_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I303_S1
+      Reads: 10397
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I303
+      Tissue Processing Name: P19_tissue
+    P19_I303_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I303_S2
+      Reads: 4414
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I303
+      Tissue Processing Name: P19_tissue
+    P19_I303_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I303_S3
+      Reads: 14639
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I303
+      Tissue Processing Name: P19_tissue
+    P19_I304_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I304_S1
+      Reads: 720
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I304
+      Tissue Processing Name: P19_tissue
+    P19_I305_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I305_S1
+      Reads: 11206
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I305
+      Tissue Processing Name: P19_tissue
+    P19_I306_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I306_S1
+      Reads: 14415
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I306
+      Tissue Processing Name: P19_tissue
+    P19_I307_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I307_S1
+      Reads: 825
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I307
+      Tissue Processing Name: P19_tissue
+    P19_I308_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I308_S1
+      Reads: 6084
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I308
+      Tissue Processing Name: P19_tissue
+    P19_I309_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I309_S1
+      Reads: 6778
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I309
+      Tissue Processing Name: P19_tissue
+    P19_I30_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I30_S1
+      Reads: 24636
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I30
+      Tissue Processing Name: P19_tissue
+    P19_I310_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I310_S1
+      Reads: 1735
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I310
+      Tissue Processing Name: P19_tissue
+    P19_I310_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I310_S2
+      Reads: 2999
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I310
+      Tissue Processing Name: P19_tissue
+    P19_I310_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I310_S3
+      Reads: 4645
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I310
+      Tissue Processing Name: P19_tissue
+    P19_I311_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I311_S1
+      Reads: 770
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I311
+      Tissue Processing Name: P19_tissue
+    P19_I312_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I312_S1
+      Reads: 198
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I312
+      Tissue Processing Name: P19_tissue
+    P19_I313_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I313_S1
+      Reads: 14346
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I313
+      Tissue Processing Name: P19_tissue
+    P19_I31_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I31_S1
+      Reads: 14913
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I31
+      Tissue Processing Name: P19_tissue
+    P19_I32_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I32_S1
+      Reads: 19744
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I32
+      Tissue Processing Name: P19_tissue
+    P19_I33_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I33_S1
+      Reads: 16997
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I33
+      Tissue Processing Name: P19_tissue
+    P19_I34_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I34_S1
+      Reads: 28836
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I34
+      Tissue Processing Name: P19_tissue
+    P19_I35_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I35_S1
+      Reads: 33859
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I35
+      Tissue Processing Name: P19_tissue
+    P19_I36_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I36_S1
+      Reads: 11551
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I36
+      Tissue Processing Name: P19_tissue
+    P19_I37_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I37_S1
+      Reads: 31588
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I37
+      Tissue Processing Name: P19_tissue
+    P19_I38_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I38_S1
+      Reads: 16317
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I38
+      Tissue Processing Name: P19_tissue
+    P19_I39_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I39_S1
+      Reads: 26106
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I39
+      Tissue Processing Name: P19_tissue
+    P19_I3_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I3_S1
+      Reads: 14567
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I3
+      Tissue Processing Name: P19_tissue
+    P19_I40_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I40_S1
+      Reads: 17933
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I40
+      Tissue Processing Name: P19_tissue
+    P19_I41_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I41_S1
+      Reads: 25850
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I41
+      Tissue Processing Name: P19_tissue
+    P19_I42_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I42_S1
+      Reads: 19302
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I42
+      Tissue Processing Name: P19_tissue
+    P19_I43_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I43_S1
+      Reads: 20491
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I43
+      Tissue Processing Name: P19_tissue
+    P19_I44_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I44_S1
+      Reads: 32679
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I44
+      Tissue Processing Name: P19_tissue
+    P19_I45_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I45_S1
+      Reads: 26736
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I45
+      Tissue Processing Name: P19_tissue
+    P19_I46_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I46_S1
+      Reads: 18360
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I46
+      Tissue Processing Name: P19_tissue
+    P19_I47_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I47_S1
+      Reads: 7319
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I47
+      Tissue Processing Name: P19_tissue
+    P19_I47_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I47_S2
+      Reads: 18240
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I47
+      Tissue Processing Name: P19_tissue
+    P19_I47_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I47_S3
+      Reads: 24699
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I47
+      Tissue Processing Name: P19_tissue
+    P19_I48_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I48_S1
+      Reads: 24601
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I48
+      Tissue Processing Name: P19_tissue
+    P19_I49_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I49_S1
+      Reads: 30654
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I49
+      Tissue Processing Name: P19_tissue
+    P19_I4_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I4_S1
+      Reads: 19031
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I4
+      Tissue Processing Name: P19_tissue
+    P19_I50_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I50_S1
+      Reads: 17125
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I50
+      Tissue Processing Name: P19_tissue
+    P19_I51_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I51_S1
+      Reads: 24276
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I51
+      Tissue Processing Name: P19_tissue
+    P19_I52_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I52_S1
+      Reads: 24470
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I52
+      Tissue Processing Name: P19_tissue
+    P19_I53_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I53_S1
+      Reads: 23948
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I53
+      Tissue Processing Name: P19_tissue
+    P19_I54_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I54_S1
+      Reads: 17339
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I54
+      Tissue Processing Name: P19_tissue
+    P19_I55_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I55_S1
+      Reads: 17799
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I55
+      Tissue Processing Name: P19_tissue
+    P19_I56_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I56_S1
+      Reads: 21459
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I56
+      Tissue Processing Name: P19_tissue
+    P19_I57_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I57_S1
+      Reads: 33071
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I57
+      Tissue Processing Name: P19_tissue
+    P19_I58_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I58_S1
+      Reads: 23996
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I58
+      Tissue Processing Name: P19_tissue
+    P19_I59_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I59_S1
+      Reads: 27419
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I59
+      Tissue Processing Name: P19_tissue
+    P19_I5_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I5_S1
+      Reads: 28745
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I5
+      Tissue Processing Name: P19_tissue
+    P19_I5_S2:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I5_S2
+      Reads: 19075
+      Sample Group: '0'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I5
+      Tissue Processing Name: P19_tissue
+    P19_I5_S3:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I5_S3
+      Reads: 45714
+      Sample Group: '2'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I5
+      Tissue Processing Name: P19_tissue
+    P19_I60_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I60_S1
+      Reads: 17582
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I60
+      Tissue Processing Name: P19_tissue
+    P19_I61_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I61_S1
+      Reads: 11979
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I61
+      Tissue Processing Name: P19_tissue
+    P19_I62_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I62_S1
+      Reads: 14874
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I62
+      Tissue Processing Name: P19_tissue
+    P19_I63_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I63_S1
+      Reads: 31730
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I63
+      Tissue Processing Name: P19_tissue
+    P19_I64_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I64_S1
+      Reads: 13350
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I64
+      Tissue Processing Name: P19_tissue
+    P19_I65_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I65_S1
+      Reads: 14512
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I65
+      Tissue Processing Name: P19_tissue
+    P19_I66_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I66_S1
+      Reads: 8912
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I66
+      Tissue Processing Name: P19_tissue
+    P19_I67_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I67_S1
+      Reads: 19130
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I67
+      Tissue Processing Name: P19_tissue
+    P19_I68_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I68_S1
+      Reads: 19979
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I68
+      Tissue Processing Name: P19_tissue
+    P19_I69_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I69_S1
+      Reads: 7776
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I69
+      Tissue Processing Name: P19_tissue
+    P19_I6_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I6_S1
+      Reads: 30919
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I6
+      Tissue Processing Name: P19_tissue
+    P19_I70_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I70_S1
+      Reads: 11003
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I70
+      Tissue Processing Name: P19_tissue
+    P19_I71_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I71_S1
+      Reads: 13749
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I71
+      Tissue Processing Name: P19_tissue
+    P19_I72_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I72_S1
+      Reads: 11183
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I72
+      Tissue Processing Name: P19_tissue
+    P19_I73_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I73_S1
+      Reads: 10645
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I73
+      Tissue Processing Name: P19_tissue
+    P19_I74_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I74_S1
+      Reads: 21650
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I74
+      Tissue Processing Name: P19_tissue
+    P19_I75_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I75_S1
+      Reads: 11718
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I75
+      Tissue Processing Name: P19_tissue
+    P19_I76_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I76_S1
+      Reads: 9722
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I76
+      Tissue Processing Name: P19_tissue
+    P19_I77_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I77_S1
+      Reads: 8037
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I77
+      Tissue Processing Name: P19_tissue
+    P19_I78_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I78_S1
+      Reads: 20561
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I78
+      Tissue Processing Name: P19_tissue
+    P19_I79_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I79_S1
+      Reads: 12052
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I79
+      Tissue Processing Name: P19_tissue
+    P19_I7_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I7_S1
+      Reads: 13612
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I7
+      Tissue Processing Name: P19_tissue
+    P19_I80_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I80_S1
+      Reads: 15775
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I80
+      Tissue Processing Name: P19_tissue
+    P19_I81_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I81_S1
+      Reads: 8006
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I81
+      Tissue Processing Name: P19_tissue
+    P19_I82_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I82_S1
+      Reads: 9497
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I82
+      Tissue Processing Name: P19_tissue
+    P19_I83_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I83_S1
+      Reads: 8609
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I83
+      Tissue Processing Name: P19_tissue
+    P19_I84_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I84_S1
+      Reads: 6912
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I84
+      Tissue Processing Name: P19_tissue
+    P19_I85_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I85_S1
+      Reads: 7275
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I85
+      Tissue Processing Name: P19_tissue
+    P19_I86_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I86_S1
+      Reads: 13827
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I86
+      Tissue Processing Name: P19_tissue
+    P19_I87_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I87_S1
+      Reads: 8970
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I87
+      Tissue Processing Name: P19_tissue
+    P19_I88_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I88_S1
+      Reads: 8942
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I88
+      Tissue Processing Name: P19_tissue
+    P19_I89_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I89_S1
+      Reads: 32865
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I89
+      Tissue Processing Name: P19_tissue
+    P19_I8_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I8_S1
+      Reads: 18627
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I8
+      Tissue Processing Name: P19_tissue
+    P19_I90_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I90_S1
+      Reads: 11342
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I90
+      Tissue Processing Name: P19_tissue
+    P19_I91_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I91_S1
+      Reads: 24255
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I91
+      Tissue Processing Name: P19_tissue
+    P19_I92_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I92_S1
+      Reads: 11841
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I92
+      Tissue Processing Name: P19_tissue
+    P19_I93_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I93_S1
+      Reads: 7607
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I93
+      Tissue Processing Name: P19_tissue
+    P19_I94_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I94_S1
+      Reads: 7542
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I94
+      Tissue Processing Name: P19_tissue
+    P19_I95_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I95_S1
+      Reads: 14350
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I95
+      Tissue Processing Name: P19_tissue
+    P19_I96_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I96_S1
+      Reads: 41261
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I96
+      Tissue Processing Name: P19_tissue
+    P19_I97_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I97_S1
+      Reads: 6783
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I97
+      Tissue Processing Name: P19_tissue
+    P19_I98_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I98_S1
+      Reads: 27217
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I98
+      Tissue Processing Name: P19_tissue
+    P19_I99_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I99_S1
+      Reads: 7216
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I99
+      Tissue Processing Name: P19_tissue
+    P19_I9_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_presto
+      Name: P19_I9_S1
+      Reads: 40351
+      Sample Group: '1'
+      Sequence Protocol Name: P19_Sequence_protocol
+      Subject Name: P19_I9
+      Tissue Processing Name: P19_tissue
+  Sequence Protocol:
+    P19_Sequence_protocol:
+      Helix: DNA
+      Name: P19_Sequence_protocol
+      Primer 3 location: J
+      Primer 5 location: FW-2
+      Sequencing_length: BIOMED-2
+      Sequencing_platform: Illumina MiSeq
+      UMI: false
+  Subjects:
+    P19_I1:
+      Age: 23
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I1
+      Original name: HD_1
+      Sex: M
+    P19_I10:
+      Age: 31
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I10
+      Original name: HD_18
+      Sex: M
+    P19_I100:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I100
+      Original name: hemC_13
+      Sex: M
+    P19_I101:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: B-ALL
+      Name: P19_I101
+      Original name: hemC_14
+      Sex: F
+    P19_I102:
+      Age: 43
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I102
+      Original name: hemC_15
+      Sex: M
+    P19_I103:
+      Age: 46
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I103
+      Original name: hemC_16
+      Sex: M
+    P19_I104:
+      Age: 47
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I104
+      Original name: hemC_17
+      Sex: F
+    P19_I105:
+      Age: 49
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I105
+      Original name: hemC_18
+      Sex: F
+    P19_I106:
+      Age: 49
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I106
+      Original name: hemC_19
+      Sex: F
+    P19_I107:
+      Age: 19
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: ' DLBCL '
+      Name: P19_I107
+      Original name: hemC_2
+      Sex: M
+    P19_I108:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: ALL
+      Name: P19_I108
+      Original name: hemC_20
+      Sex: M
+    P19_I109:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I109
+      Original name: hemC_21
+      Sex: M
+    P19_I11:
+      Age: 31
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I11
+      Original name: HD_19
+      Sex: M
+    P19_I110:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I110
+      Original name: hemC_22
+      Sex: M
+    P19_I111:
+      Age: 52
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I111
+      Original name: hemC_23
+      Sex: M
+    P19_I112:
+      Age: 52
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I112
+      Original name: hemC_24
+      Sex: M
+    P19_I113:
+      Age: 54
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I113
+      Original name: hemC_25
+      Sex: M
+    P19_I114:
+      Age: 55
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I114
+      Original name: hemC_26
+      Sex: M
+    P19_I115:
+      Age: 55
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I115
+      Original name: hemC_27
+      Sex: M
+    P19_I116:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I116
+      Original name: hemC_28
+      Sex: M
+    P19_I117:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I117
+      Original name: hemC_29
+      Sex: M
+    P19_I118:
+      Age: 20
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: T-NHL (lymphoblastic)
+      Name: P19_I118
+      Original name: hemC_3
+      Sex: M
+    P19_I119:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I119
+      Original name: hemC_30
+      Sex: M
+    P19_I12:
+      Age: 23
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I12
+      Original name: HD_2
+      Sex: F
+    P19_I120:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I120
+      Original name: hemC_31
+      Sex: M
+    P19_I121:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I121
+      Original name: hemC_32
+      Sex: M
+    P19_I122:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I122
+      Original name: hemC_33
+      Sex: F
+    P19_I123:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I123
+      Original name: hemC_34
+      Sex: M
+    P19_I124:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I124
+      Original name: hemC_35
+      Sex: F
+    P19_I125:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I125
+      Original name: hemC_36
+      Sex: M
+    P19_I126:
+      Age: 62
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I126
+      Original name: hemC_37
+      Sex: M
+    P19_I127:
+      Age: 62
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I127
+      Original name: hemC_38
+      Sex: M
+    P19_I128:
+      Age: 62
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I128
+      Original name: hemC_39
+      Sex: F
+    P19_I129:
+      Age: 25
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CML
+      Name: P19_I129
+      Original name: hemC_4
+      Sex: M
+    P19_I13:
+      Age: 32
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I13
+      Original name: HD_20
+      Sex: M
+    P19_I130:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I130
+      Original name: hemC_40
+      Sex: M
+    P19_I131:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I131
+      Original name: hemC_41
+      Sex: M
+    P19_I132:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I132
+      Original name: hemC_42
+      Sex: F
+    P19_I133:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I133
+      Original name: hemC_43
+      Sex: M
+    P19_I134:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I134
+      Original name: hemC_44
+      Sex: M
+    P19_I135:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I135
+      Original name: hemC_45
+      Sex: F
+    P19_I136:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I136
+      Original name: hemC_46
+      Sex: M
+    P19_I137:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I137
+      Original name: hemC_47
+      Sex: M
+    P19_I138:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I138
+      Original name: hemC_48
+      Sex: M
+    P19_I139:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I139
+      Original name: hemC_49
+      Sex: F
+    P19_I14:
+      Age: 33
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I14
+      Original name: HD_21
+      Sex: M
+    P19_I140:
+      Age: 26
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MPN
+      Name: P19_I140
+      Original name: hemC_5
+      Sex: M
+    P19_I141:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I141
+      Original name: hemC_50
+      Sex: M
+    P19_I142:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I142
+      Original name: hemC_51
+      Sex: F
+    P19_I143:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I143
+      Original name: hemC_52
+      Sex: F
+    P19_I144:
+      Age: 68
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I144
+      Original name: hemC_53
+      Sex: M
+    P19_I145:
+      Age: 69
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I145
+      Original name: hemC_54
+      Sex: F
+    P19_I146:
+      Age: 69
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I146
+      Original name: hemC_55
+      Sex: M
+    P19_I147:
+      Age: 70
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I147
+      Original name: hemC_56
+      Sex: M
+    P19_I148:
+      Age: 70
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I148
+      Original name: hemC_57
+      Sex: M
+    P19_I149:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I149
+      Original name: hemC_58
+      Sex: M
+    P19_I15:
+      Age: 33
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I15
+      Original name: HD_22
+      Sex: F
+    P19_I150:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I150
+      Original name: hemC_59
+      Sex: M
+    P19_I151:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: gray zone lymphoma
+      Name: P19_I151
+      Original name: hemC_6
+      Sex: F
+    P19_I152:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I152
+      Original name: hemC_60
+      Sex: M
+    P19_I153:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I153
+      Original name: hemC_61
+      Sex: M
+    P19_I154:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: amyloidosis
+      Name: P19_I154
+      Original name: hemC_62
+      Sex: M
+    P19_I155:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I155
+      Original name: hemC_63
+      Sex: F
+    P19_I156:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I156
+      Original name: hemC_64
+      Sex: M
+    P19_I157:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MCL
+      Name: P19_I157
+      Original name: hemC_65
+      Sex: M
+    P19_I158:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MPN
+      Name: P19_I158
+      Original name: hemC_66
+      Sex: M
+    P19_I159:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I159
+      Original name: hemC_67
+      Sex: M
+    P19_I16:
+      Age: 35
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I16
+      Original name: HD_23
+      Sex: M
+    P19_I160:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I160
+      Original name: hemC_68
+      Sex: F
+    P19_I161:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I161
+      Original name: hemC_69
+      Sex: F
+    P19_I162:
+      Age: 29
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: B-ALL
+      Name: P19_I162
+      Original name: hemC_7
+      Sex: F
+    P19_I163:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I163
+      Original name: hemC_70
+      Sex: F
+    P19_I164:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I164
+      Original name: hemC_71
+      Sex: F
+    P19_I165:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I165
+      Original name: hemC_72
+      Sex: F
+    P19_I166:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I166
+      Original name: hemC_73
+      Sex: F
+    P19_I167:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I167
+      Original name: hemC_74
+      Sex: F
+    P19_I168:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I168
+      Original name: hemC_75
+      Sex: M
+    P19_I169:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I169
+      Original name: hemC_76
+      Sex: F
+    P19_I17:
+      Age: 36
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I17
+      Original name: HD_24
+      Sex: M
+    P19_I170:
+      Age: 78
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I170
+      Original name: hemC_77
+      Sex: M
+    P19_I171:
+      Age: 79
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: MDS
+      Name: P19_I171
+      Original name: hemC_78
+      Sex: F
+    P19_I172:
+      Age: 79
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: NHL
+      Name: P19_I172
+      Original name: hemC_79
+      Sex: F
+    P19_I173:
+      Age: 30
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I173
+      Original name: hemC_8
+      Sex: M
+    P19_I174:
+      Age: 79
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I174
+      Original name: hemC_80
+      Sex: F
+    P19_I175:
+      Age: 80
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I175
+      Original name: hemC_81
+      Sex: M
+    P19_I176:
+      Age: 80
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I176
+      Original name: hemC_82
+      Sex: M
+    P19_I177:
+      Age: 81
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I177
+      Original name: hemC_83
+      Sex: F
+    P19_I178:
+      Age: 81
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I178
+      Original name: hemC_84
+      Sex: F
+    P19_I179:
+      Age: 82
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I179
+      Original name: hemC_85
+      Sex: F
+    P19_I18:
+      Age: 36
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I18
+      Original name: HD_25
+      Sex: F
+    P19_I180:
+      Age: 84
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I180
+      Original name: hemC_86
+      Sex: M
+    P19_I181:
+      Age: 84
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I181
+      Original name: hemC_87
+      Sex: M
+    P19_I182:
+      Age: 91
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL
+      Name: P19_I182
+      Original name: hemC_88
+      Sex: F
+    P19_I183:
+      Age: 61
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL+ITP
+      Name: P19_I183
+      Original name: hemC_89
+      Sex: M
+    P19_I184:
+      Age: 30
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: extramedullary leukemia
+      Name: P19_I184
+      Original name: hemC_9
+      Sex: M
+    P19_I185:
+      Age: 61
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL+PRCA
+      Name: P19_I185
+      Original name: hemC_90
+      Sex: M
+    P19_I186:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL+AIHA
+      Name: P19_I186
+      Original name: hemC_91
+      Sex: M
+    P19_I187:
+      Age: 78
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL+AIHA
+      Name: P19_I187
+      Original name: hemC_92
+      Sex: M
+    P19_I188:
+      Age: 73
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL+ITP
+      Name: P19_I188
+      Original name: hemC_93
+      Sex: M
+    P19_I189:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CLL+AIHA
+      Name: P19_I189
+      Original name: hemC_94
+      Sex: M
+    P19_I19:
+      Age: 37
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I19
+      Original name: HD_26
+      Sex: F
+    P19_I190:
+      Age: 13
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I190
+      Original name: solC_1
+      Sex: F
+    P19_I191:
+      Age: 37
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I191
+      Original name: solC_10
+      Sex: F
+    P19_I192:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I192
+      Original name: solC_100
+      Sex: F
+    P19_I193:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I193
+      Original name: solC_101
+      Sex: M
+    P19_I194:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I194
+      Original name: solC_102
+      Sex: F
+    P19_I195:
+      Age: 73
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I195
+      Original name: solC_103
+      Sex: M
+    P19_I196:
+      Age: 73
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I196
+      Original name: solC_104
+      Sex: M
+    P19_I197:
+      Age: 73
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I197
+      Original name: solC_105
+      Sex: M
+    P19_I198:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I198
+      Original name: solC_106
+      Sex: M
+    P19_I199:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I199
+      Original name: solC_107
+      Sex: M
+    P19_I2:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I2
+      Original name: HD_10
+      Sex: F
+    P19_I20:
+      Age: 37
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I20
+      Original name: HD_27
+      Sex: M
+    P19_I200:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I200
+      Original name: solC_108
+      Sex: M
+    P19_I201:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I201
+      Original name: solC_109
+      Sex: F
+    P19_I202:
+      Age: 39
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I202
+      Original name: solC_11
+      Sex: M
+    P19_I203:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I203
+      Original name: solC_110
+      Sex: M
+    P19_I204:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I204
+      Original name: solC_111
+      Sex: M
+    P19_I205:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: lung cancer
+      Name: P19_I205
+      Original name: solC_112
+      Sex: F
+    P19_I206:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: renal cancer
+      Name: P19_I206
+      Original name: solC_113
+      Sex: F
+    P19_I207:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I207
+      Original name: solC_114
+      Sex: M
+    P19_I208:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I208
+      Original name: solC_115
+      Sex: M
+    P19_I209:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I209
+      Original name: solC_116
+      Sex: M
+    P19_I21:
+      Age: 33
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I21
+      Original name: HD_28
+      Sex: F
+    P19_I210:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I210
+      Original name: solC_117
+      Sex: F
+    P19_I211:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I211
+      Original name: solC_118
+      Sex: M
+    P19_I212:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I212
+      Original name: solC_119
+      Sex: M
+    P19_I213:
+      Age: 39
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I213
+      Original name: solC_12
+      Sex: M
+    P19_I214:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I214
+      Original name: solC_120
+      Sex: M
+    P19_I215:
+      Age: 78
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I215
+      Original name: solC_121
+      Sex: M
+    P19_I216:
+      Age: 80
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I216
+      Original name: solC_122
+      Sex: M
+    P19_I217:
+      Age: 82
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I217
+      Original name: solC_123
+      Sex: M
+    P19_I218:
+      Age: 82
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I218
+      Original name: solC_124
+      Sex: M
+    P19_I219:
+      Age: 39
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I219
+      Original name: solC_13
+      Sex: F
+    P19_I22:
+      Age: 38
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I22
+      Original name: HD_29
+      Sex: F
+    P19_I220:
+      Age: 39
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I220
+      Original name: solC_14
+      Sex: F
+    P19_I221:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I221
+      Original name: solC_15
+      Sex: M
+    P19_I222:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I222
+      Original name: solC_16
+      Sex: F
+    P19_I223:
+      Age: 43
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I223
+      Original name: solC_17
+      Sex: M
+    P19_I224:
+      Age: 43
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I224
+      Original name: solC_18
+      Sex: F
+    P19_I225:
+      Age: 43
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I225
+      Original name: solC_19
+      Sex: F
+    P19_I226:
+      Age: 20
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I226
+      Original name: solC_2
+      Sex: M
+    P19_I227:
+      Age: 44
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I227
+      Original name: solC_20
+      Sex: F
+    P19_I228:
+      Age: 44
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: gliosarcoma
+      Name: P19_I228
+      Original name: solC_21
+      Sex: M
+    P19_I229:
+      Age: 45
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I229
+      Original name: solC_22
+      Sex: M
+    P19_I23:
+      Age: 23
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I23
+      Original name: HD_3
+      Sex: M
+    P19_I230:
+      Age: 45
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I230
+      Original name: solC_23
+      Sex: M
+    P19_I231:
+      Age: 45
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I231
+      Original name: solC_24
+      Sex: M
+    P19_I232:
+      Age: 47
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I232
+      Original name: solC_25
+      Sex: M
+    P19_I233:
+      Age: 47
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: melanoma
+      Name: P19_I233
+      Original name: solC_26
+      Sex: M
+    P19_I234:
+      Age: 49
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: melanoma
+      Name: P19_I234
+      Original name: solC_27
+      Sex: F
+    P19_I235:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I235
+      Original name: solC_28
+      Sex: F
+    P19_I236:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I236
+      Original name: solC_29
+      Sex: F
+    P19_I237:
+      Age: 21
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I237
+      Original name: solC_3
+      Sex: M
+    P19_I238:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I238
+      Original name: solC_30
+      Sex: M
+    P19_I239:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I239
+      Original name: solC_31
+      Sex: F
+    P19_I24:
+      Age: 39
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I24
+      Original name: HD_30
+      Sex: M
+    P19_I240:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I240
+      Original name: solC_32
+      Sex: F
+    P19_I241:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I241
+      Original name: solC_33
+      Sex: M
+    P19_I242:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I242
+      Original name: solC_34
+      Sex: M
+    P19_I243:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I243
+      Original name: solC_35
+      Sex: M
+    P19_I244:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: oligodendroglioma
+      Name: P19_I244
+      Original name: solC_36
+      Sex: M
+    P19_I245:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I245
+      Original name: solC_37
+      Sex: M
+    P19_I246:
+      Age: 52
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I246
+      Original name: solC_38
+      Sex: M
+    P19_I247:
+      Age: 54
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I247
+      Original name: solC_39
+      Sex: F
+    P19_I248:
+      Age: 24
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: germ-cell tumor
+      Name: P19_I248
+      Original name: solC_4
+      Sex: M
+    P19_I249:
+      Age: 54
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I249
+      Original name: solC_40
+      Sex: M
+    P19_I25:
+      Age: 40
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I25
+      Original name: HD_31
+      Sex: M
+    P19_I250:
+      Age: 54
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I250
+      Original name: solC_41
+      Sex: F
+    P19_I251:
+      Age: 54
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I251
+      Original name: solC_42
+      Sex: M
+    P19_I252:
+      Age: 55
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I252
+      Original name: solC_43
+      Sex: M
+    P19_I253:
+      Age: 55
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I253
+      Original name: solC_44
+      Sex: F
+    P19_I254:
+      Age: 56
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I254
+      Original name: solC_45
+      Sex: M
+    P19_I255:
+      Age: 56
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I255
+      Original name: solC_46
+      Sex: M
+    P19_I256:
+      Age: 56
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I256
+      Original name: solC_47
+      Sex: F
+    P19_I257:
+      Age: 56
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I257
+      Original name: solC_48
+      Sex: M
+    P19_I258:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I258
+      Original name: solC_49
+      Sex: F
+    P19_I259:
+      Age: 25
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I259
+      Original name: solC_5
+      Sex: F
+    P19_I26:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I26
+      Original name: HD_32
+      Sex: M
+    P19_I260:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I260
+      Original name: solC_50
+      Sex: F
+    P19_I261:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I261
+      Original name: solC_51
+      Sex: F
+    P19_I262:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I262
+      Original name: solC_52
+      Sex: M
+    P19_I263:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I263
+      Original name: solC_53
+      Sex: F
+    P19_I264:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I264
+      Original name: solC_54
+      Sex: F
+    P19_I265:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I265
+      Original name: solC_55
+      Sex: M
+    P19_I266:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: GI cancer
+      Name: P19_I266
+      Original name: solC_56
+      Sex: M
+    P19_I267:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I267
+      Original name: solC_57
+      Sex: M
+    P19_I268:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I268
+      Original name: solC_58
+      Sex: M
+    P19_I269:
+      Age: 59
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I269
+      Original name: solC_59
+      Sex: F
+    P19_I27:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I27
+      Original name: HD_33
+      Sex: M
+    P19_I270:
+      Age: 29
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I270
+      Original name: solC_6
+      Sex: M
+    P19_I271:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I271
+      Original name: solC_60
+      Sex: F
+    P19_I272:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I272
+      Original name: solC_61
+      Sex: M
+    P19_I273:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I273
+      Original name: solC_62
+      Sex: M
+    P19_I274:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I274
+      Original name: solC_63
+      Sex: M
+    P19_I275:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I275
+      Original name: solC_64
+      Sex: M
+    P19_I276:
+      Age: 61
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I276
+      Original name: solC_65
+      Sex: M
+    P19_I277:
+      Age: 61
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I277
+      Original name: solC_66
+      Sex: F
+    P19_I278:
+      Age: 62
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I278
+      Original name: solC_67
+      Sex: F
+    P19_I279:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I279
+      Original name: solC_68
+      Sex: M
+    P19_I28:
+      Age: 42
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I28
+      Original name: HD_34
+      Sex: M
+    P19_I280:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I280
+      Original name: solC_69
+      Sex: M
+    P19_I281:
+      Age: 34
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I281
+      Original name: solC_7
+      Sex: M
+    P19_I282:
+      Age: 63
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I282
+      Original name: solC_70
+      Sex: M
+    P19_I283:
+      Age: 64
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I283
+      Original name: solC_71
+      Sex: M
+    P19_I284:
+      Age: 64
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I284
+      Original name: solC_72
+      Sex: M
+    P19_I285:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I285
+      Original name: solC_73
+      Sex: M
+    P19_I286:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I286
+      Original name: solC_74
+      Sex: M
+    P19_I287:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I287
+      Original name: solC_75
+      Sex: M
+    P19_I288:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I288
+      Original name: solC_76
+      Sex: M
+    P19_I289:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: melanoma
+      Name: P19_I289
+      Original name: solC_77
+      Sex: M
+    P19_I29:
+      Age: 43
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I29
+      Original name: HD_35
+      Sex: M
+    P19_I290:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I290
+      Original name: solC_78
+      Sex: M
+    P19_I291:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I291
+      Original name: solC_79
+      Sex: F
+    P19_I292:
+      Age: 35
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I292
+      Original name: solC_8
+      Sex: F
+    P19_I293:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I293
+      Original name: solC_80
+      Sex: F
+    P19_I294:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I294
+      Original name: solC_81
+      Sex: M
+    P19_I295:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: lung cancer
+      Name: P19_I295
+      Original name: solC_82
+      Sex: F
+    P19_I296:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I296
+      Original name: solC_83
+      Sex: M
+    P19_I297:
+      Age: 68
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I297
+      Original name: solC_84
+      Sex: F
+    P19_I298:
+      Age: 68
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I298
+      Original name: solC_85
+      Sex: M
+    P19_I299:
+      Age: 68
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I299
+      Original name: solC_86
+      Sex: M
+    P19_I3:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I3
+      Original name: HD_11
+      Sex: F
+    P19_I30:
+      Age: 44
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I30
+      Original name: HD_36
+      Sex: M
+    P19_I300:
+      Age: 69
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I300
+      Original name: solC_87
+      Sex: F
+    P19_I301:
+      Age: 69
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I301
+      Original name: solC_88
+      Sex: F
+    P19_I302:
+      Age: 70
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: gliosarcoma
+      Name: P19_I302
+      Original name: solC_89
+      Sex: M
+    P19_I303:
+      Age: 35
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I303
+      Original name: solC_9
+      Sex: F
+    P19_I304:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I304
+      Original name: solC_90
+      Sex: M
+    P19_I305:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I305
+      Original name: solC_91
+      Sex: M
+    P19_I306:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I306
+      Original name: solC_92
+      Sex: M
+    P19_I307:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mamma/pancreas/prostate cancer
+      Name: P19_I307
+      Original name: solC_93
+      Sex: M
+    P19_I308:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I308
+      Original name: solC_94
+      Sex: M
+    P19_I309:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I309
+      Original name: solC_95
+      Sex: M
+    P19_I31:
+      Age: 44
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I31
+      Original name: HD_37
+      Sex: F
+    P19_I310:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I310
+      Original name: solC_96
+      Sex: F
+    P19_I311:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I311
+      Original name: solC_97
+      Sex: M
+    P19_I312:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: glioblastoma
+      Name: P19_I312
+      Original name: solC_98
+      Sex: M
+    P19_I313:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: mCRC
+      Name: P19_I313
+      Original name: solC_99
+      Sex: F
+    P19_I32:
+      Age: 46
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I32
+      Original name: HD_38
+      Sex: F
+    P19_I33:
+      Age: 47
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I33
+      Original name: HD_39
+      Sex: M
+    P19_I34:
+      Age: 23
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I34
+      Original name: HD_4
+      Sex: F
+    P19_I35:
+      Age: 48
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I35
+      Original name: HD_40
+      Sex: M
+    P19_I36:
+      Age: 48
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I36
+      Original name: HD_41
+      Sex: F
+    P19_I37:
+      Age: 49
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I37
+      Original name: HD_42
+      Sex: M
+    P19_I38:
+      Age: 49
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I38
+      Original name: HD_43
+      Sex: F
+    P19_I39:
+      Age: 49
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I39
+      Original name: HD_44
+      Sex: F
+    P19_I4:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I4
+      Original name: HD_12
+      Sex: F
+    P19_I40:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I40
+      Original name: HD_45
+      Sex: F
+    P19_I41:
+      Age: 50
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I41
+      Original name: HD_46
+      Sex: F
+    P19_I42:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I42
+      Original name: HD_47
+      Sex: M
+    P19_I43:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I43
+      Original name: HD_48
+      Sex: F
+    P19_I44:
+      Age: 52
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I44
+      Original name: HD_49
+      Sex: M
+    P19_I45:
+      Age: 24
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I45
+      Original name: HD_5
+      Sex: F
+    P19_I46:
+      Age: 52
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I46
+      Original name: HD_50
+      Sex: F
+    P19_I47:
+      Age: 51
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I47
+      Original name: HD_51
+      Sex: F
+    P19_I48:
+      Age: 54
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I48
+      Original name: HD_52
+      Sex: M
+    P19_I49:
+      Age: 55
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I49
+      Original name: HD_53
+      Sex: M
+    P19_I5:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I5
+      Original name: HD_13
+      Sex: F
+    P19_I50:
+      Age: 55
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I50
+      Original name: HD_54
+      Sex: F
+    P19_I51:
+      Age: 57
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I51
+      Original name: HD_55
+      Sex: F
+    P19_I52:
+      Age: 58
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I52
+      Original name: HD_56
+      Sex: F
+    P19_I53:
+      Age: 59
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I53
+      Original name: HD_57
+      Sex: F
+    P19_I54:
+      Age: 59
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I54
+      Original name: HD_58
+      Sex: F
+    P19_I55:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I55
+      Original name: HD_59
+      Sex: M
+    P19_I56:
+      Age: 25
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I56
+      Original name: HD_6
+      Sex: M
+    P19_I57:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I57
+      Original name: HD_60
+      Sex: F
+    P19_I58:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I58
+      Original name: HD_61
+      Sex: F
+    P19_I59:
+      Age: 60
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I59
+      Original name: HD_62
+      Sex: F
+    P19_I6:
+      Age: 29
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I6
+      Original name: HD_14
+      Sex: F
+    P19_I60:
+      Age: 61
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I60
+      Original name: HD_63
+      Sex: M
+    P19_I61:
+      Age: 64
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I61
+      Original name: HD_64
+      Sex: M
+    P19_I62:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I62
+      Original name: HD_65
+      Sex: F
+    P19_I63:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I63
+      Original name: HD_66
+      Sex: M
+    P19_I64:
+      Age: 65
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I64
+      Original name: HD_67
+      Sex: M
+    P19_I65:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I65
+      Original name: HD_68
+      Sex: M
+    P19_I66:
+      Age: 66
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I66
+      Original name: HD_69
+      Sex: M
+    P19_I67:
+      Age: 26
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I67
+      Original name: HD_7
+      Sex: F
+    P19_I68:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I68
+      Original name: HD_70
+      Sex: M
+    P19_I69:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I69
+      Original name: HD_71
+      Sex: M
+    P19_I7:
+      Age: 29
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I7
+      Original name: HD_15
+      Sex: F
+    P19_I70:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I70
+      Original name: HD_72
+      Sex: M
+    P19_I71:
+      Age: 67
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I71
+      Original name: HD_73
+      Sex: M
+    P19_I72:
+      Age: 68
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I72
+      Original name: HD_74
+      Sex: M
+    P19_I73:
+      Age: 68
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I73
+      Original name: HD_75
+      Sex: M
+    P19_I74:
+      Age: 69
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I74
+      Original name: HD_76
+      Sex: M
+    P19_I75:
+      Age: 69
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I75
+      Original name: HD_77
+      Sex: M
+    P19_I76:
+      Age: 70
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I76
+      Original name: HD_78
+      Sex: M
+    P19_I77:
+      Age: 71
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I77
+      Original name: HD_79
+      Sex: M
+    P19_I78:
+      Age: 26
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I78
+      Original name: HD_8
+      Sex: F
+    P19_I79:
+      Age: 72
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I79
+      Original name: HD_80
+      Sex: M
+    P19_I8:
+      Age: 30
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I8
+      Original name: HD_16
+      Sex: F
+    P19_I80:
+      Age: 73
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I80
+      Original name: HD_81
+      Sex: M
+    P19_I81:
+      Age: 74
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I81
+      Original name: HD_82
+      Sex: M
+    P19_I82:
+      Age: 75
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I82
+      Original name: HD_83
+      Sex: M
+    P19_I83:
+      Age: 76
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I83
+      Original name: HD_84
+      Sex: M
+    P19_I84:
+      Age: 77
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I84
+      Original name: HD_85
+      Sex: M
+    P19_I85:
+      Age: 78
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I85
+      Original name: HD_86
+      Sex: M
+    P19_I86:
+      Age: 79
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I86
+      Original name: HD_87
+      Sex: M
+    P19_I87:
+      Age: 79
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I87
+      Original name: HD_88
+      Sex: M
+    P19_I88:
+      Age: 80
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I88
+      Original name: HD_89
+      Sex: M
+    P19_I89:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I89
+      Original name: HD_9
+      Sex: F
+    P19_I9:
+      Age: 30
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I9
+      Original name: HD_17
+      Sex: M
+    P19_I90:
+      Age: 82
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I90
+      Original name: HD_90
+      Sex: M
+    P19_I91:
+      Age: 83
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I91
+      Original name: HD_91
+      Sex: M
+    P19_I92:
+      Age: 83
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I92
+      Original name: HD_92
+      Sex: M
+    P19_I93:
+      Age: 84
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I93
+      Original name: HD_93
+      Sex: M
+    P19_I94:
+      Age: 86
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I94
+      Original name: HD_94
+      Sex: M
+    P19_I95:
+      Age: 87
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P19_I95
+      Original name: HD_95
+      Sex: M
+    P19_I96:
+      Age: 18
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: AML
+      Name: P19_I96
+      Original name: hemC_1
+      Sex: F
+    P19_I97:
+      Age: 31
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: suspected CML
+      Name: P19_I97
+      Original name: hemC_10
+      Sex: M
+    P19_I98:
+      Age: 35
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: multiple myeloma
+      Name: P19_I98
+      Original name: hemC_11
+      Sex: M
+    P19_I99:
+      Age: 37
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: CML
+      Name: P19_I99
+      Original name: hemC_12
+      Sex: M
+  Tissue Processing:
+    P19_tissue:
+      Cell Type: T cell
+      Isotype: ''
+      Name: P19_tissue
+      Species: Human
+      Sub Cell Type: ''
+      Tissue: peripheral blood

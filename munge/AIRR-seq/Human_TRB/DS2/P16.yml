@@ -1,0 +1,271 @@
+P16:
+  Accession id: ''
+  Accession reference: https://support.10xgenomics.com/single-cell-vdj/datasets
+  Contact: https://www.10xgenomics.com/
+  Genotype Detections:
+    tcr_genotype_ranger_3.0.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_3.0.0
+      Pre-processing: Cell Ranger 3.0.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_3.0.2:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_3.0.2
+      Pre-processing: Cell Ranger 3.0.2
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_3.1.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_3.1.0
+      Pre-processing: Cell Ranger 3.1.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_4.0.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_4.0.0
+      Pre-processing: Cell Ranger 4.0.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+    tcr_genotype_ranger_5.0.0:
+      Aligner Tool: IgBLAST
+      Aligner Version: 1.16.0
+      Alignment reference d: IMGT full - version 2021-05-03
+      Alignment reference j: IMGT full - version 2021-05-03
+      Alignment reference v: IMGT full - version 2021-05-03
+      Genotyper Tool: TigGER
+      Genotyper Version: 1.0.0
+      Germline Reference: ''
+      Haplotyper Tool: RabHIT
+      Haplotyper Version: 0.1.5
+      Name: tcr_genotype_ranger_5.0.0
+      Pre-processing: Cell Ranger 5.0.0
+      Repertoire or Germline: Repertoire
+      Single Assignment: true
+  Institute: 10x Genomics
+  Number of Samples: 8
+  Number of Subjects: 8
+  Project: P16
+  Reference: https://www.10xgenomics.com/resources/application-notes/a-new-way-of-exploring-immunity-linking-highly-multiplexed-antigen-recognition-to-immune-repertoire-and-phenotype/
+  Researcher: ''
+  Samples:
+    P16_I1_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.0.2
+      Name: P16_I1_S1
+      Reads: 74269
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I1
+      Tissue Processing Name: P16_CD8
+    P16_I2_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.0.2
+      Name: P16_I2_S1
+      Reads: 36034
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I2
+      Tissue Processing Name: P16_CD8
+    P16_I3_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.0.2
+      Name: P16_I3_S1
+      Reads: 46459
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I3
+      Tissue Processing Name: P16_CD8
+    P16_I4_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.0.2
+      Name: P16_I4_S1
+      Reads: 46188
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I4
+      Tissue Processing Name: P16_CD8
+    P16_I5_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_5.0.0
+      Name: P16_I5_S1
+      Reads: 2335
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I5
+      Tissue Processing Name: P16_PBMC
+    P16_I6_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_4.0.0
+      Name: P16_I6_S1
+      Reads: 7149
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I6
+      Tissue Processing Name: P16_PBMC
+    P16_I7_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.0.0
+      Name: P16_I7_S1
+      Reads: 6607
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I7
+      Tissue Processing Name: P16_PBMC
+    P16_I8_S1:
+      Chain: TRB
+      Date: 2021-07-06
+      Genotype Detection Name: tcr_genotype_ranger_3.0.0
+      Name: P16_I8_S1
+      Reads: 3189
+      Sample Group: '1'
+      Sequence Protocol Name: P16_Sequence_protocol
+      Subject Name: P16_I8
+      Tissue Processing Name: P16_LUNG
+  Sequence Protocol:
+    P16_Sequence_protocol:
+      Helix: RNA
+      Name: P16_Sequence_protocol
+      Primer 3 location: Constant region
+      Primer 5 location: "5\u2019 utr"
+      Sequencing_length: Full
+      Sequencing_platform: Illumina NovaSeq 6000
+      UMI: true
+  Subjects:
+    P16_I1:
+      Age: ''
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I1
+      Original name: donor1
+      Sex: ''
+    P16_I2:
+      Age: ''
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I2
+      Original name: donor2
+      Sex: ''
+    P16_I3:
+      Age: ''
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I3
+      Original name: donor3
+      Sex: ''
+    P16_I4:
+      Age: ''
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I4
+      Original name: donor4
+      Sex: ''
+    P16_I5:
+      Age: 27
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I5
+      Original name: sc5p
+      Sex: M
+    P16_I6:
+      Age: 29
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I6
+      Original name: Parent_SC5
+      Sex: F
+    P16_I7:
+      Age: ''
+      Cohort: ''
+      Country: ''
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P16_I7
+      Original name: pbmc2
+      Sex: ''
+    P16_I8:
+      Age: ''
+      Cohort: Lung carcinoma tumor
+      Country: ''
+      Ethnic: ''
+      Health Status: Lung cancer
+      Name: P16_I8
+      Original name: nsclc
+      Sex: ''
+  Tissue Processing:
+    P16_CD8:
+      Cell Type: T cell
+      Isotype: ''
+      Name: P16_CD8
+      Species: Human
+      Sub Cell Type: CD8+
+      Tissue: Blood
+    P16_LUNG:
+      Cell Type: T cell
+      Isotype: ''
+      Name: P16_LUNG
+      Species: Human
+      Sub Cell Type: ''
+      Tissue: Lung
+    P16_PBMC:
+      Cell Type: T cell
+      Isotype: ''
+      Name: P16_PBMC
+      Species: Human
+      Sub Cell Type: ''
+      Tissue: Blood
