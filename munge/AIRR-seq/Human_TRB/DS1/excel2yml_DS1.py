@@ -164,7 +164,15 @@ for file in os.listdir('genotypes'):
 				break
 
 for file in os.listdir('haplotypes'):
-	file = os.path.join('hapotypes', file)
+	file = os.path.join('haplotypes', file)
+	if os.path.isfile(file):
+		for k, v in project_list.items():
+			if k in file:
+				os.rename(file, file.replace(k, v))
+				break
+
+for file in os.listdir('ogrdb_reports'):
+	file = os.path.join('ogrdb_reports', file)
 	if os.path.isfile(file):
 		for k, v in project_list.items():
 			if k in file:
