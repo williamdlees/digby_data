@@ -1,1 +1,29 @@
-See Joplin notes on TRB take-on process, and also the note on deploying new VDJbase sets
+**Pre-flight checks**
+
+In the June release, the DS4 dataset had a bug whereby multiple alleles in the genotype with low counts were not represented correctly in Freq_by_Clone and Freq_by_seq: for example 
+ap01,ap02  1
+rather than
+ap01,ap02  1;1
+
+this was fixed by running change_geno_format.R: the code already had the fix, but had just not been run on that dataset. We still seem to get 2 or three issues, which will be flagged as errors in the make.bat processing - I think these can be ignired.
+
+Also need to check that TRA alleles have been excluded from the genotypes of P16-P18 (DS2). This can be achieved by running ds2_filter_TRB_geno (but in the June drop it hadn't been run). Watch the column name in this file - GENE or gene, otherwise it will leave you with blanks.
+
+**Process**
+
+Start by unzipping the genotypes, haplotypes and ogrdb_reports folders into digby_data\munge\AIRR-seq\Human_TRB\DSn. 
+
+Run excel 2 yml for each dataset in turn. This creates yml for each dataset separately, includes patches eg species name, and changes the project name in file names to become the VDJbase project name
+
+Run make_yml.bat in D:\Research\digby_data\AIRR-seq\Human\TRB (call it the work directory) to bring all the yml over from 'munge' into a correctly formated tree
+
+create an *empty* samples subdirectory in the work directory:
+rm -rf samples
+mkdir samples
+
+Run munge_tcr_data in the work directory to copy the data files into the correct directory structure
+
+Run make.bat in the work directory to build the database using digby_backend's standalone mode and archive the samples
+
+n.b. we shouldn't need any 'compound genes', eg 6-23, defined in the germline file. They should get picked up from the ambiguous_alleles file. See the notes file in the reference directory for what it contains.
+
