@@ -3,7 +3,7 @@ P9:
   Accession reference: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA338795
   Contact: https://medicine.yale.edu/lab/oconnor/
   Genotype Detections:
-    Pipeline 1e7399c:
+    Pipeline V7:
       Alignment Tool: IgBLAST
       Aligner Version: 'igblastn: 1.16.0'
       Alignment reference v: IMGT full - version 2021-06-06
@@ -13,7 +13,7 @@ P9:
       Genotyper Version: 1.0.0
       Haplotyper Tool: RAbHIT
       Haplotyper Version: 0.1.5
-      Name: Pipeline 1e7399c
+      Name: Pipeline 6/6/21
       Pre-processing: see reference
       Repertoire or Germline: Repertoire
       Single Assignment: 'true'
@@ -26,8 +26,8 @@ P9:
   Samples:
     P9_I10_S3:
       Chain: IGH
-      Date: 2021-10-14
-      Genotype Detection Name: Pipeline 1e7399c
+      Date: 2021-09-05
+      Genotype Detection Name: Pipeline 6/9/21
       Name: P9_I10_S3
       Reads: 2006.0
       Sample Group: '3'
