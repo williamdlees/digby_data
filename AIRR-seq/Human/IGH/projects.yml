@@ -4868,16 +4868,6 @@ P4:
       Sequence Protocol Name: P4_Sequence_protocol
       Subject Name: P4_I5
       Tissue Processing Name: P4_pbmc
-    P4_I6_S1:
-      Chain: IGH
-      Date: 2021-10-14
-      Genotype Detection Name: Pipeline 1e7399c
-      Name: P4_I6_S1
-      Reads: 28.0
-      Sample Group: '1'
-      Sequence Protocol Name: P4_Sequence_protocol
-      Subject Name: P4_I6
-      Tissue Processing Name: P4_pbmc
     P4_I7_S1:
       Chain: IGH
       Date: 2021-10-14
