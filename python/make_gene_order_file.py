@@ -33,7 +33,15 @@ chains = ['V', 'D', 'J']
 gene_order = []
 
 for chain in chains:
-    names = list(simple.read_fasta(fasta_proto % chain).keys())
+    names = []
+
+    for name in simple.read_fasta(fasta_proto % chain).keys():
+        if '*' in name:
+            name = name.split('*')[0]
+
+        if name not in names:
+            names.append(name)
+
     names.sort(key=gene_number)
     gene_order.extend(names)
 

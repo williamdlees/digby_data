@@ -28,7 +28,7 @@ P21:
   Researcher: Gunilla B. Karlsson Hedestam
   Samples:
     P21_I1_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I1_S1
@@ -38,7 +38,7 @@ P21:
       Subject Name: P21_I1
       Tissue Processing Name: P21_pbmc
     P21_I2_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I2_S1
@@ -48,7 +48,7 @@ P21:
       Subject Name: P21_I2
       Tissue Processing Name: P21_pbmc
     P21_I3_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I3_S1
@@ -58,7 +58,7 @@ P21:
       Subject Name: P21_I3
       Tissue Processing Name: P21_pbmc
     P21_I4_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I4_S1
@@ -68,7 +68,7 @@ P21:
       Subject Name: P21_I4
       Tissue Processing Name: P21_pbmc
     P21_I5_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I5_S1
@@ -78,7 +78,7 @@ P21:
       Subject Name: P21_I5
       Tissue Processing Name: P21_pbmc
     P21_I6_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I6_S1
@@ -88,7 +88,7 @@ P21:
       Subject Name: P21_I6
       Tissue Processing Name: P21_pbmc
     P21_I7_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I7_S1
@@ -98,7 +98,7 @@ P21:
       Subject Name: P21_I7
       Tissue Processing Name: P21_pbmc
     P21_I8_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I8_S1
@@ -108,7 +108,7 @@ P21:
       Subject Name: P21_I8
       Tissue Processing Name: P21_pbmc
     P21_I9_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I9_S1
@@ -118,7 +118,7 @@ P21:
       Subject Name: P21_I9
       Tissue Processing Name: P21_pbmc
     P21_I10_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I10_S1
@@ -128,7 +128,7 @@ P21:
       Subject Name: P21_I10
       Tissue Processing Name: P21_pbmc
     P21_I11_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I11_S1
@@ -138,7 +138,7 @@ P21:
       Subject Name: P21_I11
       Tissue Processing Name: P21_pbmc
     P21_I12_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I12_S1
@@ -148,7 +148,7 @@ P21:
       Subject Name: P21_I12
       Tissue Processing Name: P21_pbmc
     P21_I13_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I13_S1
@@ -158,7 +158,7 @@ P21:
       Subject Name: P21_I13
       Tissue Processing Name: P21_pbmc
     P21_I14_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I14_S1
@@ -168,7 +168,7 @@ P21:
       Subject Name: P21_I14
       Tissue Processing Name: P21_pbmc
     P21_I15_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I15_S1
@@ -178,7 +178,7 @@ P21:
       Subject Name: P21_I15
       Tissue Processing Name: P21_pbmc
     P21_I16_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I16_S1
@@ -188,7 +188,7 @@ P21:
       Subject Name: P21_I16
       Tissue Processing Name: P21_pbmc
     P21_I17_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I17_S1
@@ -198,7 +198,7 @@ P21:
       Subject Name: P21_I17
       Tissue Processing Name: P21_pbmc
     P21_I18_S1:
-      Chain: Heavy
+      Chain: IGH
       Date: 2021-12-18
       Genotype Detection Name: Pipeline macaque
       Name: P21_I18_S1
