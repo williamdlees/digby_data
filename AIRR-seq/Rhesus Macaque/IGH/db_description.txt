@@ -1,1 +1,1 @@
-Analysis of the rhesus macaque datsets sequenced by BErnat et al., compiled 2021-12-18
+Analysis of the rhesus macaque datsets sequenced by Bernat et al., compiled 2021-12-18
