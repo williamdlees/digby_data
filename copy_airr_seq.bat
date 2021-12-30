@@ -10,3 +10,7 @@ cp AIRR-seq/Human/IGL/samples.zip ../digby_backend/Human_IGL_samples.zip
 cp AIRR-seq/Human/TRB/db.sqlite3 ../digby_backend/Human_TRB_db.sqlite3
 cp AIRR-seq/Human/TRB/db_description.txt ../digby_backend/Human_TRB_db_description.txt
 cp AIRR-seq/Human/TRB/samples.zip ../digby_backend/Human_TRB_samples.zip
+
+cp "AIRR-seq/Crab-eating Macaque/IGH/db.sqlite3" ../digby_backend/Crab-eating_Macaque_IGH_db.sqlite3
+cp "AIRR-seq/Crab-eating Macaque/IGH/db_description.txt" ../digby_backend/Crab-eating_Macaque_IGH_db_description.txt
+cp "AIRR-seq/Crab-eating Macaque/IGH/samples.zip" ../digby_backend/Crab-eating_Macaque_IGH_TRB_samples.zip
