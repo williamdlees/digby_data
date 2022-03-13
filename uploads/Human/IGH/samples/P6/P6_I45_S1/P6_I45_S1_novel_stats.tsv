@@ -1,0 +1,9 @@
+ALLELE	CLOSE_REFERENCE	CHIMERA	IN_GENOTYPE	SINGLETON	SAHRED_SNP	HOTSPOT	NOVEL_AA	SNP_XXXX	LONG_VERSION	IN_GENO
+IGHV1-69*08_C191T	IGHV1-69*08	low probability for chimera	FALSE	NA	NA	NA	NA	NA	Longer seq call of:IGHV1-69*bp02	TRUE
+IGHV3-30*19_G75C_T189C	IGHV3-30*19	high probability for chimera, inference removed	FALSE	NA	NA	NA	NA	NA		FALSE
+IGHV4-4*02_03_A245C_C300T	IGHV4-4*02_03	high probability for chimera, inference removed	FALSE	NA	NA	NA	NA	NA		FALSE
+IGHV4-59*02_G88A	IGHV4-59*02	low probability for chimera	FALSE	NA	NA	NA	NA	NA	Longer seq call of:IGHV4-59*bp01	TRUE
+IGHV4-61*01_G88A_G103A	IGHV4-61*01	high probability for chimera, inference removed	FALSE	NA	NA	NA	NA	NA	Longer seq call of:IGHV4-59*bp01	FALSE
+IGHV4-61*08_G88A	IGHV4-61*08	low probability for chimera	FALSE	NA	NA	NA	NA	NA		TRUE
+IGHV5-10-1*04_T240C_T258C	IGHV5-10-1*04	high probability for chimera, inference removed	FALSE	NA	NA	NA	NA	NA		FALSE
+IGHV5-51*07_A128G	IGHV5-51*07	low probability for chimera	FALSE	NA	NA	NA	NA	NA	Longer seq call of:IGHV5-51*bp01	TRUE

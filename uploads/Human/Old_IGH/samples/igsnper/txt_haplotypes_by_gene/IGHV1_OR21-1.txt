@@ -1,0 +1,2 @@
+Project	Individual	HaplotypeRank	HaplotypeDescr
+P4	P4_I27	1	1

@@ -1,0 +1,4 @@
+Project	Individual	HaplotypeRank	HaplotypeDescr
+P1	P1_I55	1	4
+P1	P1_I90	1	4
+P6	P6_I97	1	4

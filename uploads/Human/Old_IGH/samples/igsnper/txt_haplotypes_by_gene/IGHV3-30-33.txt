@@ -1,0 +1,2 @@
+Project	Individual	HaplotypeRank	HaplotypeDescr
+P1	P1_I98	1	1

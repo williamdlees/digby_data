@@ -1,0 +1,63 @@
+P2:
+  Accession id: 'SRA: SRP075992'
+  Accession reference: https://www.ncbi.nlm.nih.gov/sra/?term=SRP075992
+  Contact: http://med.stanford.edu/scottboydlab.html
+  Genotype Detections:
+    Pipeline 1e7399c:
+      Alignment Tool: IgBLAST
+      Aligner Version: 'igblastn: 1.16.0'
+      Alignment reference v: IMGT full - version 2021-06-06
+      Alignment reference d: IMGT full - version 2021-06-06
+      Alignment reference j: IMGT full - version 2021-06-06
+      Genotyper Tool: TIgGER
+      Genotyper Version: 1.0.0
+      Haplotyper Tool: RAbHIT
+      Haplotyper Version: 0.1.5
+      Name: Pipeline 1e7399c
+      Pre-processing: see reference
+      Repertoire or Germline: Repertoire
+      Single Assignment: 'true'
+  Institute: STANFORD
+  Number of Samples: 16
+  Number of Subjects: 8
+  Project: P2
+  Reference: https://dx.doi.org/10.1038/ni.3533
+  Researcher: Ali Hassan Ellebedy
+  Samples:
+    P2_I8_S1:
+      Chain: IGH
+      Date: 2021-10-14
+      Genotype Detection Name: Pipeline 1e7399c
+      Name: P2_I8_S1
+      Reads: 356864.0
+      Sample Group: '1'
+      Sequence Protocol Name: P2_Sequence_protocol
+      Subject Name: P2_I8
+      Tissue Processing Name: P2_pbmc
+  Sequence Protocol:
+    P2 Sequence Protocol:
+      Helix: rna
+      Name: P2_Sequence_protocol
+      Primer 3 location: Constant region
+      Primer 5 location: FW-1
+      Sequencing_length: BIOMED-2
+      Sequencing_platform: MiSeq 2x300
+      UMI: no
+  Subjects:
+    P2_I8:
+      Age: ''
+      Cohort: Ebola & influenza
+      Ethnic: ''
+      Health Status: Healthy
+      Name: P2_I8
+      Original name: Donor-163
+      Sex: Unknown
+      Country: 
+  Tissue Processing:
+    P2_PBMC:
+      Cell Type: B-CELL
+      Isotype: Mixed
+      Name: P2_pbmc
+      Species: Homo Sapiens
+      Sub Cell Type: PBMC
+      Tissue: Blood

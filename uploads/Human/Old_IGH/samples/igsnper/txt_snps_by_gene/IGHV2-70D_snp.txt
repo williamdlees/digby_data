@@ -1,0 +1,2 @@
+Gene	Pos	State	Dataset	Individual
+IGHV2-70D	131	T	P6	P6_I4

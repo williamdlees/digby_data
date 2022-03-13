@@ -247,7 +247,6 @@ D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I17_S1/P4_I17_S1_genotyp
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I18_S1/P4_I18_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I19_S1/P4_I19_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I1_S1/P4_I1_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I20_S1/P4_I20_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I21_S1/P4_I21_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I22_S1/P4_I22_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I23_S1/P4_I23_S1_genotype.tsv
@@ -260,7 +259,6 @@ D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I29_S1/P4_I29_S1_genotyp
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I2_S1/P4_I2_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I30_S1/P4_I30_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I31_S1/P4_I31_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I3_S1/P4_I3_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I4_S1/P4_I4_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I5_S1/P4_I5_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P4/P4_I7_S1/P4_I7_S1_genotype.tsv
@@ -565,7 +563,6 @@ D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I14_S1/P9_I14_S1_genotyp
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I14_S2/P9_I14_S2_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I14_S3/P9_I14_S3_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I15_S2/P9_I15_S2_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I16_S1/P9_I16_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I16_S2/P9_I16_S2_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I16_S3/P9_I16_S3_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I17_S1/P9_I17_S1_genotype.tsv
@@ -605,9 +602,16 @@ D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I9_S1/P9_I9_S1_genotype.
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I9_S2/P9_I9_S2_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P9/P9_I9_S3/P9_I9_S3_genotype.tsv
 status: Processing haplotypes
-No genotype report for sample P15_I16_S1
+No genotype report for sample P4_I20_S1
+No genotype report for sample P4_I3_S1
+No genotype report for sample P4_I6_S1
+No genotype report for sample P9_I16_S1
 status: Analyzing allele appearances
 status: Calculating gene frequencies
+skipping genotype processing for sample P4_I20_S1 - no file
+skipping genotype processing for sample P4_I3_S1 - no file
+skipping genotype processing for sample P4_I6_S1 - no file
+skipping genotype processing for sample P9_I16_S1 - no file
 status: Calculating patterns
 status: Creating confidence reports
 samples/P1/P1_I100_S1/P1_I100_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -703,6 +707,7 @@ samples/P10/P10_I4_S1/P10_I4_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P10/P10_I4_S2/P10_I4_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P10/P10_I5_S1/P10_I5_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P10/P10_I5_S2/P10_I5_S2_gene-IGHD2-21-01_02_haplotype.tsv
+either/or format in IGHV1-69*01_12 ignored
 samples/P11/P11_I10_S1/P11_I10_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I11_S1/P11_I11_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I12_S1/P11_I12_S1_gene-IGHJ6-02_03_haplotype.tsv
@@ -720,6 +725,7 @@ samples/P11/P11_I21_S1/P11_I21_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I22_S1/P11_I22_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P11/P11_I25_S1/P11_I25_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P11/P11_I26_S1/P11_I26_S1_gene-IGHJ6-02_03_haplotype.tsv
+samples/P11/P11_I28_S1/P11_I28_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P11/P11_I28_S1/P11_I28_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I29_S1/P11_I29_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I2_S1/P11_I2_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -744,19 +750,12 @@ samples/P11/P11_I4_S1/P11_I4_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I5_S1/P11_I5_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P11/P11_I6_S1/P11_I6_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P11/P11_I8_S1/P11_I8_S1_gene-IGHJ6-02_03_haplotype.tsv
-samples/P12/P12_I1_S2/P12_I1_S2_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P12/P12_I2_S1/P12_I2_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P12/P12_I2_S2/P12_I2_S2_gene-IGHJ6-02_03_haplotype.tsv
 samples/P12/P12_I2_S3/P12_I2_S3_gene-IGHJ6-02_03_haplotype.tsv
-samples/P12/P12_I3_S1/P12_I3_S1_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P12/P12_I3_S1/P12_I3_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P12/P12_I3_S2/P12_I3_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I3_S2/P12_I3_S2_gene-IGHJ6-02_03_haplotype.tsv
 samples/P12/P12_I3_S3/P12_I3_S3_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I3_S3/P12_I3_S3_gene-IGHJ6-02_03_haplotype.tsv
-samples/P12/P12_I5_S1/P12_I5_S1_gene-IGHD2-21-01_02_haplotype.tsv
-samples/P12/P12_I5_S1/P12_I5_S1_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P12/P12_I5_S1/P12_I5_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P12/P12_I5_S2/P12_I5_S2_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P12/P12_I5_S2/P12_I5_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I5_S2/P12_I5_S2_gene-IGHJ6-02_03_haplotype.tsv
@@ -765,17 +764,12 @@ either/or format in IGHV3-64D*06_08 ignored
 samples/P12/P12_I5_S3/P12_I5_S3_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I5_S3/P12_I5_S3_gene-IGHJ6-02_03_haplotype.tsv
 either/or format in IGHV3-64D*06_08 ignored
-samples/P12/P12_I6_S1/P12_I6_S1_gene-IGHD2-21-01_02_haplotype.tsv
-samples/P12/P12_I6_S1/P12_I6_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I6_S2/P12_I6_S2_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P12/P12_I6_S2/P12_I6_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I6_S3/P12_I6_S3_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P12/P12_I6_S3/P12_I6_S3_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P12/P12_I7_S1/P12_I7_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I7_S2/P12_I7_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I7_S3/P12_I7_S3_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P12/P12_I8_S1/P12_I8_S1_gene-IGHD2-21-01_02_haplotype.tsv
-samples/P12/P12_I8_S1/P12_I8_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I8_S2/P12_I8_S2_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P12/P12_I8_S2/P12_I8_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P12/P12_I8_S3/P12_I8_S3_gene-IGHD2-21-01_02_haplotype.tsv
@@ -805,7 +799,6 @@ samples/P15/P15_I12_S1/P15_I12_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P15/P15_I14_S1/P15_I14_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P15/P15_I14_S1/P15_I14_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P15/P15_I15_S1/P15_I15_S1_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P15/P15_I16_S1/P15_I16_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P15/P15_I2_S1/P15_I2_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P15/P15_I3_S1/P15_I3_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P15/P15_I4_S1/P15_I4_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -871,7 +864,6 @@ samples/P4/P4_I27_S1/P4_I27_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P4/P4_I29_S1/P4_I29_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P4/P4_I2_S1/P4_I2_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P4/P4_I30_S1/P4_I30_S1_gene-IGHD2-21-01_02_haplotype.tsv
-either/or format in IGHV3-66*01_04 ignored
 samples/P4/P4_I30_S1/P4_I30_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P4/P4_I31_S1/P4_I31_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P4/P4_I4_S1/P4_I4_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -1005,7 +997,6 @@ samples/P5/P5_I40_S1/P5_I40_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P5/P5_I40_S2/P5_I40_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P5/P5_I40_S2/P5_I40_S2_gene-IGHJ6-02_03_haplotype.tsv
 samples/P5/P5_I40_S3/P5_I40_S3_gene-IGHJ6-02_03_haplotype.tsv
-samples/P5/P5_I41_S2/P5_I41_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P5/P5_I42_S1/P5_I42_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P5/P5_I42_S1/P5_I42_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P5/P5_I42_S2/P5_I42_S2_gene-IGHD2-21-01_02_haplotype.tsv
@@ -1054,7 +1045,6 @@ samples/P6/P6_I104_S1/P6_I104_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I104_S1/P6_I104_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I104_S1/P6_I104_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P6/P6_I105_S1/P6_I105_S1_gene-IGHD2-8-01_02_haplotype.tsv
-either/or format in IGHV5-51*04_06_07 ignored
 samples/P6/P6_I106_S1/P6_I106_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I108_S1/P6_I108_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I108_S1/P6_I108_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -1082,13 +1072,11 @@ samples/P6/P6_I20_S1/P6_I20_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P6/P6_I25_S1/P6_I25_S1_gene-IGHJ6-02_03_haplotype.tsv
 either/or format in IGHV3-49*03_05_04 ignored
 samples/P6/P6_I26_S1/P6_I26_S1_gene-IGHD2-8-01_02_haplotype.tsv
-either/or format in IGHV4-38-2*01_02 ignored
 samples/P6/P6_I28_S1/P6_I28_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I29_S1/P6_I29_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I30_S1/P6_I30_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I30_S1/P6_I30_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I30_S1/P6_I30_S1_gene-IGHJ6-02_03_haplotype.tsv
-samples/P6/P6_I31_S1/P6_I31_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I32_S1/P6_I32_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I32_S1/P6_I32_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P6/P6_I34_S1/P6_I34_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -1109,8 +1097,6 @@ samples/P6/P6_I52_S1/P6_I52_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I53_S1/P6_I53_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I53_S1/P6_I53_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I53_S1/P6_I53_S1_gene-IGHJ6-02_03_haplotype.tsv
-samples/P6/P6_I56_S1/P6_I56_S1_gene-IGHD2-21-01_02_haplotype.tsv
-either/or format in IGHV1-18*01_04 ignored
 samples/P6/P6_I59_S1/P6_I59_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I60_S1/P6_I60_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I60_S1/P6_I60_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -1118,7 +1104,6 @@ samples/P6/P6_I60_S1/P6_I60_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P6/P6_I61_S1/P6_I61_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I61_S1/P6_I61_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I61_S1/P6_I61_S1_gene-IGHJ6-02_03_haplotype.tsv
-samples/P6/P6_I62_S1/P6_I62_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I62_S1/P6_I62_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P6/P6_I63_S1/P6_I63_S1_gene-IGHJ6-02_03_haplotype.tsv
 samples/P6/P6_I65_S1/P6_I65_S1_gene-IGHD2-21-01_02_haplotype.tsv
@@ -1141,11 +1126,9 @@ samples/P6/P6_I78_S1/P6_I78_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I79_S1/P6_I79_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I7_S1/P6_I7_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I80_S1/P6_I80_S1_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P6/P6_I81_S1/P6_I81_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I81_S1/P6_I81_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I82_S1/P6_I82_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I82_S1/P6_I82_S1_gene-IGHJ6-02_04_haplotype.tsv
-samples/P6/P6_I83_S1/P6_I83_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P6/P6_I83_S1/P6_I83_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I84_S1/P6_I84_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P6/P6_I85_S1/P6_I85_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -1221,7 +1204,6 @@ samples/P8/P8_I4_S1/P8_I4_S1_gene-IGHD2-21-01_02_haplotype.tsv
 samples/P8/P8_I4_S1/P8_I4_S1_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P8/P8_I4_S1/P8_I4_S1_gene-IGHJ6-02_03_haplotype.tsv
 either/or format in IGHV3-43D*03_04 ignored
-either/or format in IGHV3-30-3*01_03 ignored
 samples/P8/P8_I5_S1/P8_I5_S1_gene-IGHD2-8-01_02_haplotype.tsv
 either/or format in IGHV3-64D*06_09 ignored
 samples/P8/P8_I6_S1/P8_I6_S1_gene-IGHD2-8-01_02_haplotype.tsv
@@ -1286,374 +1268,4 @@ samples/P9/P9_I5_S3/P9_I5_S3_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P9/P9_I5_S3/P9_I5_S3_gene-IGHJ6-02_03_haplotype.tsv
 samples/P9/P9_I7_S2/P9_I7_S2_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P9/P9_I8_S2/P9_I8_S2_gene-IGHD2-8-01_02_haplotype.tsv
-samples/P9/P9_I8_S3/P9_I8_S3_gene-IGHD2-8-01_02_haplotype.tsv
 samples/P9/P9_I9_S2/P9_I9_S2_gene-IGHD2-8-01_02_haplotype.tsv
-IGHV1-69*08_c191t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I10_S1(IGHJ6-02_03 (04 (3,243), 08_C191T (245,2)), IGHJ6-02_03 (01_G290A_T300C (0,19)), IGHJ6-02_03 (02_A70G (127,0))), P11_I29_S1(IGHJ6-02_03 (04_T191C (0,41), 08_C191T (49,1)), IGHJ6-02_03 (04_T191C (0,41), 08_C191T (49,1)), IGHJ6-02_03 (02_A275G (16,1))), P1_I12_S1(IGHJ6-02_03 (06 (2,247), 08_C191T (283,0))), P4_I5_S1(IGHD2-8-01_02 (08_C191T (0,25), 09 (4,0)), IGHJ6-02_03 (01 (173,163), 01_C34T_A40C_C90T_A112T_C114G_A119G_A210C (1,111)), IGHJ6-02_03 (08_C191T (0,113), 09 (102,0)), IGHJ6-02_03 (03_T262C (5,0), 04 (0,51))), P4_I9_S1(IGHD2-21-01_02 (02 (8,2), 02_A291G (5,1)), IGHJ6-02_03 (04 (218,2), 08_C191T (1,67)), IGHJ6-02_03 (02_A70G (60,1)), IGHJ6-02_03 (02 (2,241), 02_A291G (1,238))), P7_I3_S1(IGHD2-21-01_02 (02 (1,3), 02_A234G (1,0)), IGHD2-21-01_02 (08_C191T (0,9)), IGHJ6-02_03 (02 (53,0), 02_A234G (2,55)), IGHJ6-02_03 (08_C191T (49,0))), P7_I3_S2(IGHD2-21-01_02 (08_C191T (0,9)), IGHJ6-02_03 (08_C191T (29,0))), P7_I3_S3(IGHD2-21-01_02 (08_C191T (0,18)), IGHJ6-02_03 (08_C191T (78,0)), IGHJ6-02_03 (02 (121,2), 02_A234G (30,227))), P11_I37_S1(IGHD2-21-01_02 (04 (0,7), 08_C191T (2,0))), P1_I27_S1(IGHD2-8-01_02 (06 (10,1), 08_C191T (0,10)), IGHJ6-02_03 (06 (486,0), 08_C191T (0,132))), P1_I35_S1(IGHD2-21-01_02 (02 (0,2), 02_A70G (0,2)), IGHD2-21-01_02 (08_C191T (0,1)), IGHD2-8-01_02 (08_C191T (1,0)), IGHD2-8-01_02 (02 (3,0), 02_A70G (1,0))), P1_I49_S1(IGHD2-8-01_02 (08_C191T (1,0)), IGHJ6-02_03 (19_T189C (49,0)), IGHJ6-02_03 (08_C191T (0,23), 10 (23,0)), IGHJ6-02_03 (01_A70G_A107G (5,0))), P9_I14_S1(IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0)), IGHD2-21-01_02 (01 (3,0), 01_A39C (0,6))), P9_I14_S3(IGHD2-21-01_02 (08_C191T (0,4), 12 (1,11), 12_G48A (13,0)), IGHD2-21-01_02 (08_C191T (0,4), 12 (1,11), 12_G48A (13,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0))), P1_I58_S1(IGHJ6-02_03 (04 (0,28), 08_C191T (15,0))), P14_I4_S1(IGHD2-21-01_02 (15 (20,0), 15_G303A (0,1)), IGHJ6-02_03 (04 (850,3460), 08_C191T (3232,433))), P14_I6_S1(IGHD2-21-01_02 (08_C191T (13,155), 11 (182,107), 12 (365,154), 18 (126,987)), IGHD2-21-01_02 (02 (6,5), 02_G61T (0,1)), IGHD2-21-01_02 (04_C6T (0,14), 15 (19,5)), IGHJ6-02_03 (04_C6T (6,75), 15 (5,382), 15_G303A (19,12))), P1_I70_S1(IGHJ6-02_03 (08_C191T (0,75), 10 (208,2)), IGHJ6-02_03 (18_G113C_C114T (1,86))), P9_I5_S2(IGHJ6-02_03 (06 (1,44), 08_C191T (31,0)), IGHJ6-02_03 (02_A70G (16,0))), P9_I5_S3(IGHJ6-02_03 (06 (1,47), 08_C191T (33,0)), IGHJ6-02_03 (02_A70G (17,0))), P1_I82_S1(IGHD2-21-01_02 (08_C191T (19,2), 12 (1,6)), IGHD2-8-01_02 (08_C191T (0,4), 12 (5,0))), P1_I87_S1(IGHD2-21-01_02 (08_C191T (1,11)), IGHD2-21-01_02 (02 (1,13), 02_A234G (28,0))), P1_I88_S1(IGHD2-21-01_02 (08_C191T (2,37)), IGHJ6-02_03 (08_C191T (309,0))), P1_I90_S1(IGHJ6-02_03 (01 (182,0), 01_C66G (4,183)), IGHJ6-02_03 (06 (3,340), 08_C191T (161,1))), P1_I91_S1(IGHD2-21-01_02 (06 (19,2), 08_C191T (1,13)), IGHJ6-02_03 (06 (6,720), 08_C191T (175,0))), P1_I92_S1(IGHJ6-02_03 (04 (0,80), 08_C191T (49,0))), P4_I15_S1(IGHJ6-02_03 (08_C191T (161,0))), P4_I27_S1(IGHD2-21-01_02 (01 (14,3), 01_G278C (1,11)), IGHD2-8-01_02 (01 (0,15), 01_G278C (1,0)), IGHD2-8-01_02 (04 (0,5), 04_C184T (13,0), 08_C191T (2,0)), IGHD2-8-01_02 (04 (0,5), 04_C184T (13,0), 08_C191T (2,0)), IGHJ6-02_03 (04 (3,98), 04_C184T (127,11), 08_C191T (92,0)), IGHJ6-02_03 (04 (3,98), 04_C184T (127,11), 08_C191T (92,0)), IGHJ6-02_03 (01 (1,157), 01_G278C (190,16))).: 49: 166.49
-IGHV3-13*01_g290a_t300c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I69_S1(IGHD2-8-01_02 (01_G290A_T300C (0,2)), IGHJ6-03_04 (01_G290A_T300C (0,21), 05 (3,0))), P1_I10_S1(IGHJ6-02_03 (04 (3,243), 08_C191T (245,2)), IGHJ6-02_03 (01_G290A_T300C (0,19)), IGHJ6-02_03 (02_A70G (127,0))), P1_I9_S1(IGHD2-8-01_02 (01 (0,1), 01_G290A_T300C (1,0))), P4_I12_S1(IGHD2-8-01_02 (01 (6,2), 08_A291G (8,0)), IGHD2-8-01_02 (01_G290A_T300C (0,1), 05 (1,0))), P1_I93_S1(IGHJ6-02_03 (01_G290A_T300C (34,0), 04 (2,19))), P4_I29_S1(IGHD2-8-01_02 (01_G290A_T300C (1,0))).: 14: 38.29
-IGHV4-38-2*02_a70g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I10_S1(IGHJ6-02_03 (04 (3,243), 08_C191T (245,2)), IGHJ6-02_03 (01_G290A_T300C (0,19)), IGHJ6-02_03 (02_A70G (127,0))), P4_I7_S1(IGHD2-21-01_02 (04 (43,0), 05_G54A (0,55)), IGHD2-21-01_02 (02_A70G (0,21))), P4_I8_S1(IGHD2-21-01_02 (02_A70G (4,0))), P4_I9_S1(IGHD2-21-01_02 (02 (8,2), 02_A291G (5,1)), IGHJ6-02_03 (04 (218,2), 08_C191T (1,67)), IGHJ6-02_03 (02_A70G (60,1)), IGHJ6-02_03 (02 (2,241), 02_A291G (1,238))), P11_I34_S1(IGHJ6-02_03 (02_A70G (0,15))), P11_I35_S1(IGHJ6-02_03 (02_A70G (0,17))), P11_I4_S1(IGHD2-21-01_02 (02_A70G (3,0)), IGHJ6-02_03 (01 (4,2), 01_C285T (0,7)), IGHJ6-02_03 (02_A70G (16,0))), P1_I35_S1(IGHD2-21-01_02 (02 (0,2), 02_A70G (0,2)), IGHD2-21-01_02 (08_C191T (0,1)), IGHD2-8-01_02 (08_C191T (1,0)), IGHD2-8-01_02 (02 (3,0), 02_A70G (1,0))), P1_I40_S1(IGHJ6-02_03 (02_A70G (0,49))), P1_I45_S1(IGHD2-8-01_02 (02_A70G (0,3))), P9_I13_S3(IGHJ6-02_03 (02_A70G (0,14))), P14_I3_S1(IGHD2-21-01_02 (01 (2,139), 02 (132,17), 10_C93T (40,8)), IGHD2-21-01_02 (01_C246T (148,33)), IGHD2-21-01_02 (02_A70G (78,11)), IGHJ6-02_03 (01 (492,166), 02 (63,1949), 10_C93T (128,1445)), IGHJ6-02_03 (06 (5171,280), 13 (464,2951), 14_G163A (329,3049)), IGHJ6-02_03 (01_C246T (194,1060)), IGHJ6-02_03 (02_A70G (35,386))), P1_I68_S1(IGHD2-21-01_02 (02_A70G (15,1))), P1_I71_S1(IGHD2-21-01_02 (02_A70G (23,1)), IGHD2-8-01_02 (02_A70G (0,7))), P1_I73_S1(IGHJ6-02_03 (02_A70G (81,1))), P9_I4_S1(IGHD2-21-01_02 (02_A70G (2,0)), IGHD2-8-01_02 (02_A70G (0,3)), IGHD2-8-01_02 (01_T177A (1,0)), IGHJ6-02_03 (01 (93,0), 01_A196G (0,77)), IGHJ6-02_03 (02_A70G (0,42)), IGHJ6-02_03 (01_T177A (10,0))), P9_I4_S2(IGHD2-21-01_02 (02_A70G (0,1)), IGHD2-8-01_02 (01 (6,0), 01_A196G (0,3)), IGHJ6-02_03 (01_T177A (85,0)), IGHJ6-02_03 (01 (92,3), 01_A196G (4,63)), IGHJ6-02_03 (02_A70G (0,42))), P9_I4_S3(IGHD2-8-01_02 (01 (8,0), 01_A196G (1,11)), IGHD2-8-01_02 (01_T177A (1,0)), IGHJ6-02_03 (01_T177A (95,0)), IGHJ6-02_03 (01 (185,3), 01_A196G (4,140)), IGHJ6-02_03 (02_A70G (0,84))), P9_I5_S2(IGHJ6-02_03 (06 (1,44), 08_C191T (31,0)), IGHJ6-02_03 (02_A70G (16,0))), P1_I79_S1(IGHD2-21-01_02 (02 (1,6), 02_A70G (3,0))), P9_I5_S3(IGHJ6-02_03 (06 (1,47), 08_C191T (33,0)), IGHJ6-02_03 (02_A70G (17,0))), P4_I18_S1(IGHD2-8-01_02 (02_A70G (0,2))).: 35: 151.98
-IGHV4-61*02_a234g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I39_S1(IGHJ6-02_03 (01 (26,0), 01_G267A (0,14)), IGHJ6-02_03 (01 (5,0), 02_A234G (0,48))), P1_I42_S1(IGHD2-21-01_02 (02_A234G (1,9)), IGHD2-8-01_02 (02_A234G (3,0)), IGHD2-8-01_02 (02_A106G (0,5))), P9_I11_S2(IGHD2-8-01_02 (02_A234G (2,0)), IGHJ6-02_03 (02_A234G (1,87))), P9_I11_S3(IGHD2-8-01_02 (02_A234G (2,0)), IGHJ6-02_03 (02_A234G (1,91))), P7_I3_S1(IGHD2-21-01_02 (02 (1,3), 02_A234G (1,0)), IGHD2-21-01_02 (08_C191T (0,9)), IGHJ6-02_03 (02 (53,0), 02_A234G (2,55)), IGHJ6-02_03 (08_C191T (49,0))), P7_I3_S3(IGHD2-21-01_02 (08_C191T (0,18)), IGHJ6-02_03 (08_C191T (78,0)), IGHJ6-02_03 (02 (121,2), 02_A234G (30,227))), P5_I32_S3(IGHD2-21-01_02 (01_12_13 (8,23), 06_14 (1,28)), IGHD2-21-01_02 (03_04 (3,0)), IGHD2-21-01_02 (01_02 (1,10), 03 (2,20)), IGHD2-21-01_02 (01_03 (0,4)), IGHD2-21-01_02 (03_05 (0,2), 04 (0,7)), IGHD2-21-01_02 (01_03 (0,3), 02 (0,1)), IGHD2-21-01_02 (02_07 (2,0)), IGHJ6-02_03 (01 (111,1), 02_A234G (8,308)), IGHJ6-02_03 (01_12_13 (267,185), 06_14 (206,3)), IGHJ6-02_03 (03_05 (0,33), 04 (43,1)), IGHJ6-02_03 (01_02 (0,51), 04 (66,1)), IGHJ6-02_03 (01_03 (18,0)), IGHJ6-02_03 (01_03 (28,0), 02 (0,7))), P6_I56_S1(IGHD2-21-01_02 (01_02 (2,150)), IGHD2-21-01_02 (02_A234G (1166,0)), IGHD2-21-01_02 (01_03 (3,188), 07 (28,0)), IGHD2-21-01_02 (01_03 (6,0)), IGHD2-21-01_02 (02_03 (0,19)), IGHD2-21-01_02 (01_12_13 (0,10)), IGHD2-21-01_02 (01_02 (0,8)), IGHD2-21-01_02 (01_07 (0,1), 08 (3,0), 12 (0,1)), IGHD2-21-01_02 (01_02 (0,1)), IGHD2-21-01_02 (01_02 (1,0), 03 (2,1))), P1_I86_S1(IGHD2-21-01_02 (01 (0,1), 02_A234G (7,1)), IGHD2-21-01_02 (01 (5,0), 01_T307C (0,8)), IGHJ6-02_03 (01 (1,136), 01_T307C (114,0)), IGHJ6-02_03 (01 (17,0), 02_A234G (0,204))), P1_I87_S1(IGHD2-21-01_02 (08_C191T (1,11)), IGHD2-21-01_02 (02 (1,13), 02_A234G (28,0))), P2_I5_S1(IGHD2-21-01_02 (01 (3,17), 02_A234G (69,14)), IGHD2-21-01_02 (01_02 (8,2), 03_04 (0,3)), IGHD2-21-01_02 (03_05 (3,50)), IGHD2-21-01_02 (01_02 (13,0)), IGHD2-8-01_02 (03_05 (0,11)), IGHD2-8-01_02 (01_02 (23,2)), IGHD2-8-01_02 (03_04 (1,0)), IGHJ6-02_03 (01 (186,125), 02_A234G (171,1071)), IGHJ6-02_03 (01_03 (94,14), 02 (7,8))).: 15: 83.43
-IGHV4-39*07_c288a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I29_S1(IGHJ6-02_03 (01 (0,152), 07_C288A (214,2))), P11_I25_S1(IGHD2-21-01_02 (01_C26T (0,1), 04 (1,0), 06 (0,3)), IGHD2-21-01_02 (07_C288A (2,0))).: 5: 96.18
-IGHV4-61*01_a41g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I23_S1(IGHJ6-02_03 (01 (1,15), 01_A41G (12,0))).: 1: 19.54
-IGHV4-59*01_g267a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I39_S1(IGHJ6-02_03 (01 (26,0), 01_G267A (0,14)), IGHJ6-02_03 (01 (5,0), 02_A234G (0,48))).: 1: 17.91
-IGHV4-30-4*01_a70g_a107g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I49_S1(IGHD2-8-01_02 (08_C191T (1,0)), IGHJ6-02_03 (19_T189C (49,0)), IGHJ6-02_03 (08_C191T (0,23), 10 (23,0)), IGHJ6-02_03 (01_A70G_A107G (5,0))), P1_I41_S1(IGHJ6-02_03 (01_A70G_A107G (0,64))).: 2: 61.85
-IGHV4-4*02_a106g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I42_S1(IGHD2-21-01_02 (02_A234G (1,9)), IGHD2-8-01_02 (02_A234G (3,0)), IGHD2-8-01_02 (02_A106G (0,5))).: 1: 26.05
-IGHV3-30*02_g49a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I47_S1(IGHJ6-02_03 (02_G49A (19,0))), P11_I39_S1(IGHD2-21-01_02 (04_A163G (0,4)), IGHJ6-02_03 (04_A163G (31,2)), IGHJ6-02_03 (02_G49A (8,0))).: 3: 32.95
-IGHV3-30*19_t189c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I49_S1(IGHD2-8-01_02 (08_C191T (1,0)), IGHJ6-02_03 (19_T189C (49,0)), IGHJ6-02_03 (08_C191T (0,23), 10 (23,0)), IGHJ6-02_03 (01_A70G_A107G (5,0))).: 1: 62.81
-IGHV1-69*04_c184t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I27_S1(IGHD2-21-01_02 (01 (14,3), 01_G278C (1,11)), IGHD2-8-01_02 (01 (0,15), 01_G278C (1,0)), IGHD2-8-01_02 (04 (0,5), 04_C184T (13,0), 08_C191T (2,0)), IGHD2-8-01_02 (04 (0,5), 04_C184T (13,0), 08_C191T (2,0)), IGHJ6-02_03 (04 (3,98), 04_C184T (127,11), 08_C191T (92,0)), IGHJ6-02_03 (04 (3,98), 04_C184T (127,11), 08_C191T (92,0)), IGHJ6-02_03 (01 (1,157), 01_G278C (190,16))), P12_I2_S1(IGHJ6-02_03 (02 (0,49), 04_C184T (0,30))), P12_I2_S2(IGHJ6-02_03 (02 (0,49), 04_C184T (0,43))).: 4: 96.64
-IGHV4-39*02_c258g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I52_S1(IGHD2-21-01_02 (01 (3,3), 02_C258G (2,0))).: 6: 93.88
-IGHV3-30*18_g113c_c114t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I70_S1(IGHJ6-02_03 (08_C191T (0,75), 10 (208,2)), IGHJ6-02_03 (18_G113C_C114T (1,86))).: 1: 107.67
-IGHV3-9*01_t307c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I86_S1(IGHD2-21-01_02 (01 (0,1), 02_A234G (7,1)), IGHD2-21-01_02 (01 (5,0), 01_T307C (0,8)), IGHJ6-02_03 (01 (1,136), 01_T307C (114,0)), IGHJ6-02_03 (01 (17,0), 02_A234G (0,204))).: 1: 104.15
-IGHV4-39*01_c66g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P1_I90_S1(IGHJ6-02_03 (01 (182,0), 01_C66G (4,183)), IGHJ6-02_03 (06 (3,340), 08_C191T (161,1))).: 1: 54.03
-IGHV4-30-2*01_c285t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I11_S1(IGHJ6-02_03 (01 (9,7), 01_C285T (0,12))), P11_I4_S1(IGHD2-21-01_02 (02_A70G (3,0)), IGHJ6-02_03 (01 (4,2), 01_C285T (0,7)), IGHJ6-02_03 (02_A70G (16,0))), P11_I8_S1(IGHJ6-02_03 (03 (47,2), 11_G4C_G21C_C25T_A113C (6,0)), IGHJ6-02_03 (01 (0,9), 01_C285T (0,6))).: 4: 18.29
-IGHV1-69*04_a163g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I26_S1(IGHJ6-02_03 (04_A163G (74,6), 06 (2,84))), P11_I21_S1(IGHJ6-02_03 (04_A163G (59,1), 06 (1,36))), P11_I39_S1(IGHD2-21-01_02 (04_A163G (0,4)), IGHJ6-02_03 (04_A163G (31,2)), IGHJ6-02_03 (02_G49A (8,0))), P9_I19_S1(IGHJ6-02_03 (04 (0,2), 08 (0,1), 10_A54G (5,0)), IGHJ6-02_03 (01 (0,1), 01_T6G (2,0))), P9_I19_S3(IGHJ6-02_03 (02 (0,1), 10_A54G (11,0), 11 (0,5))).: 6: 84.53
-IGHV1-69*01_c26t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I25_S1(IGHD2-21-01_02 (01_C26T (0,1), 04 (1,0), 06 (0,3)), IGHD2-21-01_02 (07_C288A (2,0))).: 1: 18.91
-IGHV1-69*04_t191c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I29_S1(IGHJ6-02_03 (04_T191C (0,41), 08_C191T (49,1)), IGHJ6-02_03 (04_T191C (0,41), 08_C191T (49,1)), IGHJ6-02_03 (02_A275G (16,1))).: 1: 34.88
-IGHV3-30*02_a275g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I29_S1(IGHJ6-02_03 (04_T191C (0,41), 08_C191T (49,1)), IGHJ6-02_03 (04_T191C (0,41), 08_C191T (49,1)), IGHJ6-02_03 (02_A275G (16,1))).: 2: 47.02
-IGHV4-4*07_a70g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I40_S1(IGHD2-21-01_02 (07 (1,2), 07_A70G (0,1)), IGHD2-21-01_02 (04_G37A (0,1)), IGHJ6-02_03 (02 (1,25), 04_G37A (16,1)), IGHJ6-02_03 (07 (0,30), 07_A70G (22,0))).: 2: 25.66
-IGHV3-53*04_g37a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I40_S1(IGHD2-21-01_02 (07 (1,2), 07_A70G (0,1)), IGHD2-21-01_02 (04_G37A (0,1)), IGHJ6-02_03 (02 (1,25), 04_G37A (16,1)), IGHJ6-02_03 (07 (0,30), 07_A70G (22,0))).: 1: 16.06
-IGHV4-31*11_g4c_g21c_c25t_a113c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P11_I8_S1(IGHJ6-02_03 (03 (47,2), 11_G4C_G21C_C25T_A113C (6,0)), IGHJ6-02_03 (01 (0,9), 01_C285T (0,6))).: 1: 31.37
-IGHV3-72*01_a169g_a173g_a177g_t187g_a188t_c287g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P13_I3_S1(IGHD2-21-01_02 (01_03 (336,20)), IGHD2-21-01_02 (02_03 (330,20)), IGHD2-21-01_02 (01_12_13 (4,105)), IGHD2-21-01_02 (01 (0,1), 01_A169G_A173G_A177G_T187G_A188T_C287G (0,1))).: 1: 12.75
-IGHV1-69*14_g163a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I3_S1(IGHD2-21-01_02 (01 (2,139), 02 (132,17), 10_C93T (40,8)), IGHD2-21-01_02 (01_C246T (148,33)), IGHD2-21-01_02 (02_A70G (78,11)), IGHJ6-02_03 (01 (492,166), 02 (63,1949), 10_C93T (128,1445)), IGHJ6-02_03 (06 (5171,280), 13 (464,2951), 14_G163A (329,3049)), IGHJ6-02_03 (01_C246T (194,1060)), IGHJ6-02_03 (02_A70G (35,386))).: 1: 54.96
-IGHV3-9*01_c246t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I3_S1(IGHD2-21-01_02 (01 (2,139), 02 (132,17), 10_C93T (40,8)), IGHD2-21-01_02 (01_C246T (148,33)), IGHD2-21-01_02 (02_A70G (78,11)), IGHJ6-02_03 (01 (492,166), 02 (63,1949), 10_C93T (128,1445)), IGHJ6-02_03 (06 (5171,280), 13 (464,2951), 14_G163A (329,3049)), IGHJ6-02_03 (01_C246T (194,1060)), IGHJ6-02_03 (02_A70G (35,386))).: 1: 65.06
-IGHV4-61*10_c93t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I3_S1(IGHD2-21-01_02 (01 (2,139), 02 (132,17), 10_C93T (40,8)), IGHD2-21-01_02 (01_C246T (148,33)), IGHD2-21-01_02 (02_A70G (78,11)), IGHJ6-02_03 (01 (492,166), 02 (63,1949), 10_C93T (128,1445)), IGHJ6-02_03 (06 (5171,280), 13 (464,2951), 14_G163A (329,3049)), IGHJ6-02_03 (01_C246T (194,1060)), IGHJ6-02_03 (02_A70G (35,386))).: 1: 65.21
-IGHV2-70*15_g303a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I4_S1(IGHD2-21-01_02 (15 (20,0), 15_G303A (0,1)), IGHJ6-02_03 (04 (850,3460), 08_C191T (3232,433))).: 2: 20.62
-IGHV1-58*02_g61t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I6_S1(IGHD2-21-01_02 (08_C191T (13,155), 11 (182,107), 12 (365,154), 18 (126,987)), IGHD2-21-01_02 (02 (6,5), 02_G61T (0,1)), IGHD2-21-01_02 (04_C6T (0,14), 15 (19,5)), IGHJ6-02_03 (04_C6T (6,75), 15 (5,382), 15_G303A (19,12))).: 1: 44.11
-IGHV2-70*04_c6t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I6_S1(IGHD2-21-01_02 (08_C191T (13,155), 11 (182,107), 12 (365,154), 18 (126,987)), IGHD2-21-01_02 (02 (6,5), 02_G61T (0,1)), IGHD2-21-01_02 (04_C6T (0,14), 15 (19,5)), IGHJ6-02_03 (04_C6T (6,75), 15 (5,382), 15_G303A (19,12))).: 1: 12.29
-IGHV4-4*07_g234a_g291a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I9_S1(IGHJ6-02_03 (07 (1547,1475), 07_C300T (158,184), 07_G234A_G291A (363,36)), IGHJ6-02_03 (01_A3G (1192,50), 03 (3356,270))).: 1: 40.63
-IGHV4-61*02_a291g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I9_S1(IGHD2-21-01_02 (02 (8,2), 02_A291G (5,1)), IGHJ6-02_03 (04 (218,2), 08_C191T (1,67)), IGHJ6-02_03 (02_A70G (60,1)), IGHJ6-02_03 (02 (2,241), 02_A291G (1,238))).: 2: 66.13
-IGHV5-10-1*01_a3g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P14_I9_S1(IGHJ6-02_03 (07 (1547,1475), 07_C300T (158,184), 07_G234A_G291A (363,36)), IGHJ6-02_03 (01_A3G (1192,50), 03 (3356,270))).: 1: 27.42
-IGHV4-31*02_c198t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P6_I48_S1(IGHD2-8-01_02 (01 (59,46), 01_A190G (114,19)), IGHD2-8-01_02 (01_02 (113,15)), IGHD2-8-01_02 (01_04 (185,25)), IGHD2-8-01_02 (03_05 (8,165)), IGHD2-8-01_02 (01_02 (20,0)), IGHD2-8-01_02 (02_C198T (25,2)), IGHD2-8-01_02 (01_02 (1,0), 04 (18,1)), IGHD2-8-01_02 (11_15 (11,0), 12 (1,0)), IGHD2-8-01_02 (01_05 (12,0)), IGHD2-8-01_02 (01_02 (0,1))).: 2: 52.79
-IGHV1-8*02_a250g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P15_I11_S1(IGHD2-8-01_02 (02 (22,32), 02_A250G (83,14)), IGHD2-8-01_02 (05 (28,11), 06_14 (4,27), 10 (12,10)), IGHD2-8-01_02 (01_02 (8,0), 03_04 (76,82)), IGHJ6-02_03 (05 (65,899), 06_14 (645,35), 10 (338,25)), IGHJ6-02_03 (01_02 (5,308), 03_04 (304,206)), IGHJ6-02_03 (01_02 (88,567))).: 1: 37.68
-IGHV3-13*01_c210t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P15_I12_S1(IGHD2-8-01_02 (03_04 (17,148)), IGHD2-8-01_02 (01 (5,12), 01_C210T (0,3)), IGHD2-8-01_02 (01_02 (24,228), 01_02_A163C_C174T_G176T_A207C_C230T_A275C (11,5))).: 1: 51.12
-IGHV1-3*01_05_c134a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P15_I7_S1(IGHD2-8-01_02 (01_12_13 (28,228), 05 (196,46)), IGHD2-8-01_02 (01_04 (81,732), 03 (95,702)), IGHD2-8-01_02 (01 (18,29), 02_07 (0,5)), IGHD2-8-01_02 (01_02 (23,5)), IGHJ6-02_03 (01_04 (4671,804), 03 (4155,3509)), IGHJ6-02_03 (01_05 (758,203), 01_05_C134A (60,980)), IGHJ6-02_03 (03_05 (56,613), 04 (726,98))).: 1: 7.49
-IGHV6-1*01_02_a315g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P6_I1_S1(IGHD2-8-01_02 (02_03 (0,3), 07 (0,6)), IGHD2-8-01_02 (01_12_13 (1,43), 10 (0,12)), IGHD2-8-01_02 (01_02 (1,14), 01_02_A225G_T267G_G303A (1,2)), IGHD2-8-01_02 (01_03 (1,0)), IGHD2-8-01_02 (01_02 (0,1)), IGHD2-8-01_02 (01_02 (1,0), 01_02_A315G (0,1)), IGHD2-8-01_02 (01_02 (1,0), 01_02_A315G (0,1)), IGHD2-8-01_02 (03_04 (0,1))).: 14: 74.60
-IGHV7-4-1*02_t63c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P2_I3_S1(IGHD2-8-01_02 (01_03 (1,20), 02 (0,4)), IGHD2-8-01_02 (02_T63C (87,7)), IGHD2-8-01_02 (01_12_13 (22,3), 10 (11,4)), IGHD2-8-01_02 (03_05 (5,0)), IGHJ6-02_03 (01 (7,29), 02_07 (1,8), 04 (19,8)), IGHJ6-02_03 (01_03 (336,24)), IGHJ6-02_03 (01_02 (255,26)), IGHJ6-02_03 (01_02 (275,27), 05 (6,19)), IGHJ6-02_03 (01_02 (13,22), 03_04 (5,24)), IGHJ6-02_03 (01_03 (111,12), 02 (13,21))), P2_I3_S3(IGHD2-8-01_02 (01_03 (1,20), 02 (0,4)), IGHD2-8-01_02 (02_T63C (87,7)), IGHD2-8-01_02 (03_05 (5,0)), IGHJ6-02_03 (01 (7,31), 02_07 (1,8), 04 (19,8)), IGHJ6-02_03 (01_03 (473,24)), IGHJ6-02_03 (01_12_13 (917,113), 10 (89,347)), IGHJ6-02_03 (01_02 (278,35)), IGHJ6-02_03 (01_02 (14,28), 03_04 (5,24)), IGHJ6-02_03 (01_02 (318,27), 05 (6,22)), IGHJ6-02_03 (02_03 (42,201)), IGHJ6-02_03 (01_03 (132,12), 02 (13,22))).: 1: 133.80
-IGHV4-59*08_a291g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I12_S1(IGHD2-8-01_02 (01 (6,2), 08_A291G (8,0)), IGHD2-8-01_02 (01_G290A_T300C (0,1), 05 (1,0))).: 2: 72.19
-IGHV3-66*02_g51t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I22_S1(IGHD2-21-01_02 (02_G51T (0,3)), IGHJ6-02_03 (02_G51T (24,0))).: 1: 12.76
-IGHV3-21*01_g278c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I27_S1(IGHD2-21-01_02 (01 (14,3), 01_G278C (1,11)), IGHD2-8-01_02 (01 (0,15), 01_G278C (1,0)), IGHD2-8-01_02 (04 (0,5), 04_C184T (13,0), 08_C191T (2,0)), IGHD2-8-01_02 (04 (0,5), 04_C184T (13,0), 08_C191T (2,0)), IGHJ6-02_03 (04 (3,98), 04_C184T (127,11), 08_C191T (92,0)), IGHJ6-02_03 (04 (3,98), 04_C184T (127,11), 08_C191T (92,0)), IGHJ6-02_03 (01 (1,157), 01_G278C (190,16))).: 1: 66.00
-IGHV3-21*01_c34t_a40c_c90t_a112t_c114g_a119g_a210c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I5_S1(IGHD2-8-01_02 (08_C191T (0,25), 09 (4,0)), IGHJ6-02_03 (01 (173,163), 01_C34T_A40C_C90T_A112T_C114G_A119G_A210C (1,111)), IGHJ6-02_03 (08_C191T (0,113), 09 (102,0)), IGHJ6-02_03 (03_T262C (5,0), 04 (0,51))).: 1: 49.46
-IGHV3-49*03_t262c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I5_S1(IGHD2-8-01_02 (08_C191T (0,25), 09 (4,0)), IGHJ6-02_03 (01 (173,163), 01_C34T_A40C_C90T_A112T_C114G_A119G_A210C (1,111)), IGHJ6-02_03 (08_C191T (0,113), 09 (102,0)), IGHJ6-02_03 (03_T262C (5,0), 04 (0,51))).: 1: 16.05
-IGHV1-69*05_g54a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P4_I7_S1(IGHD2-21-01_02 (04 (43,0), 05_G54A (0,55)), IGHD2-21-01_02 (02_A70G (0,21))).: 1: 89.01
-IGHV1-18*01_a190g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P5_I22_S3(IGHD2-21-01_02 (01_02 (0,4), 01_02_G147A (5,6)), IGHD2-21-01_02 (03_04 (0,1)), IGHD2-21-01_02 (01_12_13 (8,1)), IGHD2-21-01_02 (01_05 (0,1), 04 (1,0)), IGHD2-8-01_02 (11_15 (4,0)), IGHD2-8-01_02 (03_05 (1,0), 04 (0,2)), IGHD2-8-01_02 (01_05 (0,1)), IGHJ6-02_03 (01 (301,11), 01_A190G (8,196)), IGHJ6-02_03 (01_12_13 (7,245)), IGHJ6-02_03 (01_02 (55,15), 01_02_G147A (0,42)), IGHJ6-02_03 (01_02 (14,2), 03_04 (0,3)), IGHJ6-02_03 (01_02 (14,2), 03_04 (0,3)), IGHJ6-02_03 (01 (32,0), 02 (8,2), 05_09 (0,11))), P6_I48_S1(IGHD2-8-01_02 (01 (59,46), 01_A190G (114,19)), IGHD2-8-01_02 (01_02 (113,15)), IGHD2-8-01_02 (01_04 (185,25)), IGHD2-8-01_02 (03_05 (8,165)), IGHD2-8-01_02 (01_02 (20,0)), IGHD2-8-01_02 (02_C198T (25,2)), IGHD2-8-01_02 (01_02 (1,0), 04 (18,1)), IGHD2-8-01_02 (11_15 (11,0), 12 (1,0)), IGHD2-8-01_02 (01_05 (12,0)), IGHD2-8-01_02 (01_02 (0,1))), P9_I17_S1(IGHJ6-02_03 (01 (25,0), 01_A190G (1,24)), IGHJ6-02_03 (04 (57,0), 04_G48A_A163G_A244G (0,65), 10 (0,63))), P9_I17_S2(IGHD2-21-01_02 (01_A190G (2,0)), IGHD2-21-01_02 (04 (0,1), 04_G48A_A163G_A244G (2,0), 10 (0,1)), IGHD2-8-01_02 (01_A190G (0,1)), IGHJ6-02_03 (04 (35,0), 04_G48A_A163G_A244G (0,23), 10 (1,24))).: 3: 54.23
-IGHV3-15*01_02_g147a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P5_I22_S3(IGHD2-21-01_02 (01_02 (0,4), 01_02_G147A (5,6)), IGHD2-21-01_02 (03_04 (0,1)), IGHD2-21-01_02 (01_12_13 (8,1)), IGHD2-21-01_02 (01_05 (0,1), 04 (1,0)), IGHD2-8-01_02 (11_15 (4,0)), IGHD2-8-01_02 (03_05 (1,0), 04 (0,2)), IGHD2-8-01_02 (01_05 (0,1)), IGHJ6-02_03 (01 (301,11), 01_A190G (8,196)), IGHJ6-02_03 (01_12_13 (7,245)), IGHJ6-02_03 (01_02 (55,15), 01_02_G147A (0,42)), IGHJ6-02_03 (01_02 (14,2), 03_04 (0,3)), IGHJ6-02_03 (01_02 (14,2), 03_04 (0,3)), IGHJ6-02_03 (01 (32,0), 02 (8,2), 05_09 (0,11))).: 1: 74.90
-IGHV1-69*04_09_c184t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P5_I23_S2(IGHD2-21-01_02 (03_05 (2,0), 04 (0,2)), IGHD2-21-01_02 (01_02 (3,40)), IGHD2-21-01_02 (01_05 (0,11), 04 (1,3)), IGHD2-21-01_02 (01_02 (0,2), 03_04 (0,3)), IGHD2-21-01_02 (01_02 (0,2), 03_04 (0,3)), IGHD2-21-01_02 (01_12_13 (4,5), 04_09 (0,3), 04_09_C184T (1,0)), IGHD2-21-01_02 (01_12_13 (4,5), 04_09 (0,3), 04_09_C184T (1,0)), IGHD2-21-01_02 (11_15 (0,1)), IGHD2-8-01_02 (01_02 (6,0), 05 (0,1)), IGHD2-8-01_02 (02_03 (0,27), 07 (3,2)), IGHD2-8-01_02 (01_12_13 (1,1), 04_09 (1,0)), IGHD2-8-01_02 (01_02 (18,2)), IGHD2-8-01_02 (03_05 (2,0), 04 (1,2)), IGHD2-8-01_02 (01_02 (0,1)), IGHD2-8-01_02 (01_05 (2,0), 04 (4,0)), IGHD2-8-01_02 (01_02 (2,0)), IGHD2-8-01_02 (11_15 (0,1)), IGHD2-8-01_02 (03_04 (0,1))).: 1: 5.94
-IGHV4-31*02_c90t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P6_I68_S1(IGHD2-8-01_02 (02_03 (133,2)), IGHD2-8-01_02 (02 (2,10), 02_C90T (26,0)), IGHD2-8-01_02 (01_03 (0,1)), IGHD2-8-01_02 (01_02 (0,3)), IGHD2-8-01_02 (01_02 (1,0))).: 1: 30.21
-IGHV4-4*02_c20t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P7_I2_S3(IGHJ6-02_03 (02_C20T (1,79), 07 (70,2))), P7_I2_S1(IGHJ6-02_03 (02_C20T (0,44), 07 (46,1))), P7_I2_S2(IGHJ6-02_03 (02_C20T (1,35), 07 (24,1))).: 1: 58.72
-IGHV1-69*01_g54a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P8_I10_S1(IGHD2-21-01_02 (01 (4,2), 01_A220G (2,0), 07 (0,3)), IGHD2-21-01_02 (01_G54A (2,1), 01_G54A_A225G (1,0), 04 (0,3)), IGHD2-8-01_02 (01_G54A (0,1), 04 (2,1))), P8_I9_S1(IGHD2-8-01_02 (01 (0,4), 01_A220G_A225G (1,0)), IGHD2-8-01_02 (01_G54A (0,2), 04 (1,0))).: 2: 34.61
-IGHV1-69*01_g54a_a225g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P8_I10_S1(IGHD2-21-01_02 (01 (4,2), 01_A220G (2,0), 07 (0,3)), IGHD2-21-01_02 (01_G54A (2,1), 01_G54A_A225G (1,0), 04 (0,3)), IGHD2-8-01_02 (01_G54A (0,1), 04 (2,1))).: 1: 34.61
-IGHV4-39*01_a220g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P8_I10_S1(IGHD2-21-01_02 (01 (4,2), 01_A220G (2,0), 07 (0,3)), IGHD2-21-01_02 (01_G54A (2,1), 01_G54A_A225G (1,0), 04 (0,3)), IGHD2-8-01_02 (01_G54A (0,1), 04 (2,1))).: 1: 5.43
-IGHV4-39*01_a220g_a225g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P8_I9_S1(IGHD2-8-01_02 (01 (0,4), 01_A220G_A225G (1,0)), IGHD2-8-01_02 (01_G54A (0,2), 04 (1,0))).: 1: 52.35
-IGHV1-69*12_g48a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I14_S3(IGHD2-21-01_02 (08_C191T (0,4), 12 (1,11), 12_G48A (13,0)), IGHD2-21-01_02 (08_C191T (0,4), 12 (1,11), 12_G48A (13,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0))), P9_I14_S1(IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0)), IGHD2-21-01_02 (01 (3,0), 01_A39C (0,6))).: 1: 109.69
-IGHV3-48*01_a39c: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I14_S1(IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0)), IGHD2-21-01_02 (01 (3,0), 01_A39C (0,6))).: 1: 42.49
-IGHV3-53*04_c241g_g273a_c300t: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I14_S3(IGHD2-21-01_02 (08_C191T (0,4), 12 (1,11), 12_G48A (13,0)), IGHD2-21-01_02 (08_C191T (0,4), 12 (1,11), 12_G48A (13,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0))), P9_I14_S1(IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (08_C191T (0,3), 10 (1,0), 12 (0,6), 12_G48A (7,0)), IGHD2-21-01_02 (04_C241G_G273A_C300T (2,0)), IGHD2-21-01_02 (01 (3,0), 01_A39C (0,6))).: 1: 9.64
-IGHV1-69*04_g48a_a163g_a244g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I17_S1(IGHJ6-02_03 (01 (25,0), 01_A190G (1,24)), IGHJ6-02_03 (04 (57,0), 04_G48A_A163G_A244G (0,65), 10 (0,63))), P9_I17_S2(IGHD2-21-01_02 (01_A190G (2,0)), IGHD2-21-01_02 (04 (0,1), 04_G48A_A163G_A244G (2,0), 10 (0,1)), IGHD2-8-01_02 (01_A190G (0,1)), IGHJ6-02_03 (04 (35,0), 04_G48A_A163G_A244G (0,23), 10 (1,24))), P9_I17_S3(IGHD2-21-01_02 (04 (0,4), 04_G48A_A163G_A244G (2,0), 10 (1,1)), IGHJ6-02_03 (04 (92,0), 04_G48A_A163G_A244G (0,88), 10 (1,87))).: 1: 63.13
-IGHV1-18*01_t6g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I19_S1(IGHJ6-02_03 (04 (0,2), 08 (0,1), 10_A54G (5,0)), IGHJ6-02_03 (01 (0,1), 01_T6G (2,0))).: 1: 2.41
-IGHV1-18*01_a196g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I4_S2(IGHD2-21-01_02 (02_A70G (0,1)), IGHD2-8-01_02 (01 (6,0), 01_A196G (0,3)), IGHJ6-02_03 (01_T177A (85,0)), IGHJ6-02_03 (01 (92,3), 01_A196G (4,63)), IGHJ6-02_03 (02_A70G (0,42))), P9_I4_S3(IGHD2-8-01_02 (01 (8,0), 01_A196G (1,11)), IGHD2-8-01_02 (01_T177A (1,0)), IGHJ6-02_03 (01_T177A (95,0)), IGHJ6-02_03 (01 (185,3), 01_A196G (4,140)), IGHJ6-02_03 (02_A70G (0,84))), P9_I4_S1(IGHD2-21-01_02 (02_A70G (2,0)), IGHD2-8-01_02 (02_A70G (0,3)), IGHD2-8-01_02 (01_T177A (1,0)), IGHJ6-02_03 (01 (93,0), 01_A196G (0,77)), IGHJ6-02_03 (02_A70G (0,42)), IGHJ6-02_03 (01_T177A (10,0))).: 1: 96.49
-IGHV3-43*01_t177a: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I4_S2(IGHD2-21-01_02 (02_A70G (0,1)), IGHD2-8-01_02 (01 (6,0), 01_A196G (0,3)), IGHJ6-02_03 (01_T177A (85,0)), IGHJ6-02_03 (01 (92,3), 01_A196G (4,63)), IGHJ6-02_03 (02_A70G (0,42))), P9_I4_S3(IGHD2-8-01_02 (01 (8,0), 01_A196G (1,11)), IGHD2-8-01_02 (01_T177A (1,0)), IGHJ6-02_03 (01_T177A (95,0)), IGHJ6-02_03 (01 (185,3), 01_A196G (4,140)), IGHJ6-02_03 (02_A70G (0,84))), P9_I4_S1(IGHD2-21-01_02 (02_A70G (2,0)), IGHD2-8-01_02 (02_A70G (0,3)), IGHD2-8-01_02 (01_T177A (1,0)), IGHJ6-02_03 (01 (93,0), 01_A196G (0,77)), IGHJ6-02_03 (02_A70G (0,42)), IGHJ6-02_03 (01_T177A (10,0))).: 1: 6.49
-IGHV3-30*18_c75g: Confirmation from Haplotype: Inferred allele on one chromosome only in sample(s) P9_I8_S2(IGHD2-8-01_02 (18_C75G (1,0))), P9_I8_S3(IGHD2-8-01_02 (18_C75G (1,0))).: 1: 20.24
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P14/P14_I1_S1/P14_I1_S1_ogrdb_report.csv:
-missing novels IGHV3-33*05_G75C|IGHV3-30*03_T288C,IGHV1-45*02_A315G,IGHV3-NL1*01_G49A_G75C_T201C_C223A_G267T_T288C_A317G,IGHV3-NL1*01_G49A_C159G_T160G_T201C_C223A_G267T_T288C_A317G, novels listed as non-novel: 
-IGHV3-13*01_g290a_t300c: Deletion on other chromosome: In sample P1_I10_S1, allele(s) IGHV3-13*01_g290a_t300c present on one chromosome, deletion on other (IGHJ6-02_03): 14: 38.29
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P1_I10_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P1_I29_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHJ6-02_03).: 49: 166.49
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P1_I40_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV4-30-4*01_a70g_a107g: Deletion on other chromosome: In sample P1_I41_S1, allele(s) IGHV4-30-4*01_a70g_a107g present on one chromosome, deletion on other (IGHJ6-02_03): 2: 61.85
-IGHV4-4*02_a106g: Inferred allele on both chromosomes: In sample P1_I42_S1, allele IGHV4-4*02_a106g is present on both chromosomes (IGHD2-21-01_02).: 1: 26.05
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P1_I45_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-21-01_02).: 35: 151.98
-IGHV3-30*02_g49a: Deletion on other chromosome: In sample P1_I47_S1, allele(s) IGHV3-30*02_g49a present on one chromosome, deletion on other (IGHJ6-02_03): 3: 32.95
-IGHV3-30*19_t189c: Deletion on other chromosome: In sample P1_I49_S1, allele(s) IGHV3-30*19_t189c present on one chromosome, deletion on other (IGHJ6-02_03): 1: 62.81
-IGHV4-39*02_c258g: Inferred allele on both chromosomes: In sample P1_I52_S1, allele IGHV4-39*02_c258g is present on both chromosomes (IGHJ6-02_03).: 6: 93.88
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P1_I58_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-21-01_02).: 49: 166.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P1_I68_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV3-30*18_g113c_c114t: Deletion on other chromosome: In sample P1_I70_S1, allele(s) IGHV3-30*18_g113c_c114t present on one chromosome, deletion on other (IGHJ6-02_03): 1: 107.67
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P1_I71_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHD2-21-01_02): 35: 151.98
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P1_I73_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P1_I79_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV1-69*08_c191t: Deletion on other chromosome: In sample P1_I88_S1, allele(s) IGHV1-69*08_c191t present on one chromosome, deletion on other (IGHD2-21-01_02): 49: 166.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P11_I14_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-21-01_02).: 35: 151.98
-IGHV4-39*02_c258g: Inferred allele on both chromosomes: In sample P11_I16_S1, allele IGHV4-39*02_c258g is present on both chromosomes (IGHD2-21-01_02).: 6: 93.88
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P11_I34_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P11_I35_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV1-69*04_a163g: Deletion on other chromosome: In sample P11_I39_S1, allele(s) IGHV1-69*04_a163g present on one chromosome, deletion on other (IGHJ6-02_03): 6: 84.53
-IGHV1-69*04_c184t: Deletion on other chromosome: In sample P12_I2_S1, allele(s) IGHV1-69*04_c184t, IGHV1-69*02 present on one chromosome, deletion on other (IGHJ6-02_03): 4: 96.64
-IGHV1-69*04_c184t: Deletion on other chromosome: In sample P12_I2_S2, allele(s) IGHV1-69*04_c184t, IGHV1-69*02 present on one chromosome, deletion on other (IGHJ6-02_03): 4: 96.64
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P14_I11_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHJ6-02_03).: 35: 151.98
-IGHV6-1*01_a315g: Inferred allele on both chromosomes: In sample P14_I11_S1, allele IGHV6-1*01_a315g is present on both chromosomes (IGHJ6-02_03).: 6: 54.51
-IGHV4-30-2*01_c315g: Inferred allele on both chromosomes: In sample P14_I2_S1, allele IGHV4-30-2*01_c315g is present on both chromosomes (IGHD2-21-01_02).: 5: 36.65
-IGHV3-66*03_t175g_t267g: Inferred allele on both chromosomes: In sample P14_I2_S1, allele IGHV3-66*03_t175g_t267g is present on both chromosomes (IGHD2-21-01_02).: 2: 11.68
-IGHV4-30-2*01_c315g: Inferred allele on both chromosomes: In sample P14_I3_S1, allele IGHV4-30-2*01_c315g is present on both chromosomes (IGHD2-21-01_02).: 5: 36.65
-IGHV1-69*14_g163a: Inferred allele on both chromosomes: In sample P14_I3_S1, allele IGHV1-69*14_g163a is present on both chromosomes (IGHD2-21-01_02).: 1: 54.96
-IGHV3-9*01_c246t: Deletion on other chromosome: In sample P14_I3_S1, allele(s) IGHV3-9*01_c246t present on one chromosome, deletion on other (IGHD2-21-01_02): 1: 65.06
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P14_I3_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHD2-21-01_02): 35: 151.98
-IGHV3-30*03_t288c: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV3-30*03_t288c is present on both chromosomes (IGHD2-21-01_02).: 7: 79.62
-IGHV3-30-3*02_g75c: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV3-30-3*02_g75c is present on both chromosomes (IGHD2-21-01_02).: 2: 78.85
-IGHV6-1*01_a315g: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV6-1*01_a315g is present on both chromosomes (IGHD2-21-01_02).: 6: 54.51
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-21-01_02).: 49: 166.49
-IGHV3-74*01_t279c: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV3-74*01_t279c is present on both chromosomes (IGHD2-21-01_02).: 2: 32.64
-IGHV4-30-4*01_c315g: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV4-30-4*01_c315g is present on both chromosomes (IGHD2-21-01_02).: 2: 36.80
-IGHV3-64*04_a210c: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV3-64*04_a210c is present on both chromosomes (IGHD2-21-01_02).: 2: 32.55
-IGHV3-20*04_t279c_c288t_c300t_t301g: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV3-20*04_t279c_c288t_c300t_t301g is present on both chromosomes (IGHD2-21-01_02).: 1: 23.40
-IGHV3-53*04_t267g_t288c_g303a: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV3-53*04_t267g_t288c_g303a is present on both chromosomes (IGHJ6-02_03).: 1: 7.59
-IGHV2-70*15_g303a: Inferred allele on both chromosomes: In sample P14_I4_S1, allele IGHV2-70*15_g303a is present on both chromosomes (IGHJ6-02_03).: 2: 20.62
-IGHV3-66*01_a223c: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV3-66*01_a223c is present on both chromosomes (IGHD2-21-01_02).: 2: 63.71
-IGHV3-66*01_a223c_t267g_t300c_g303a: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV3-66*01_a223c_t267g_t300c_g303a is present on both chromosomes (IGHD2-21-01_02).: 2: 60.26
-IGHV3-9*01_t194c_c198t: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV3-9*01_t194c_c198t is present on both chromosomes (IGHD2-21-01_02).: 1: 82.02
-IGHV4-61*08_g48a_g49c_g88a_g107a_g129c_a147c_t165c: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV4-61*08_g48a_g49c_g88a_g107a_g129c_a147c_t165c is present on both chromosomes (IGHD2-21-01_02).: 1: 13.52
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHJ6-02_03).: 49: 166.49
-IGHV1-58*02_g61t: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV1-58*02_g61t is present on both chromosomes (IGHJ6-02_03).: 1: 44.11
-IGHV2-70*15_g303a: Inferred allele on both chromosomes: In sample P14_I6_S1, allele IGHV2-70*15_g303a is present on both chromosomes (IGHJ6-02_03).: 2: 20.62
-IGHV4-61*08_g48a_g49c_g88a_g129c_c134a_a147c: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV4-61*08_g48a_g49c_g88a_g129c_c134a_a147c is present on both chromosomes (IGHJ6-02_03).: 1: 49.45
-IGHV3-30*03_t288c: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV3-30*03_t288c is present on both chromosomes (IGHJ6-02_03).: 7: 79.62
-IGHV3-33*06_t300c_g303a: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV3-33*06_t300c_g303a is present on both chromosomes (IGHJ6-02_03).: 2: 30.00
-IGHV6-1*01_a315g: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV6-1*01_a315g is present on both chromosomes (IGHJ6-02_03).: 6: 54.51
-IGHV3-66*01_t267g_t300c_g303a_g317a: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV3-66*01_t267g_t300c_g303a_g317a is present on both chromosomes (IGHJ6-02_03).: 1: 21.43
-IGHV3-73*01_a284g_a286g_c300t: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV3-73*01_a284g_a286g_c300t is present on both chromosomes (IGHJ6-02_03).: 1: 49.49
-IGHV3-49*04_a313g: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV3-49*04_a313g is present on both chromosomes (IGHJ6-02_03).: 2: 52.55
-IGHV1-45*02_a297g_a301g: Inferred allele on both chromosomes: In sample P14_I7_S1, allele IGHV1-45*02_a297g_a301g is present on both chromosomes (IGHJ6-02_03).: 2: 10.20
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHJ6-02_03).: 49: 166.49
-IGHV4-59*01_g48a_g49c: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV4-59*01_g48a_g49c is present on both chromosomes (IGHJ6-02_03).: 1: 26.87
-IGHV4-39*02_c258g: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV4-39*02_c258g is present on both chromosomes (IGHJ6-02_03).: 6: 93.88
-IGHV3-53*05_t267g_c300t: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV3-53*05_t267g_c300t is present on both chromosomes (IGHJ6-02_03).: 1: 23.01
-IGHV3-30-3*02_g75c: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV3-30-3*02_g75c is present on both chromosomes (IGHJ6-02_03).: 2: 78.85
-IGHV6-1*01_a315g: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV6-1*01_a315g is present on both chromosomes (IGHJ6-02_03).: 6: 54.51
-IGHV3-66*01_a223c_t267g_t300c_g303a: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV3-66*01_a223c_t267g_t300c_g303a is present on both chromosomes (IGHJ6-02_03).: 2: 60.26
-IGHV4-30-2*01_c315g: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV4-30-2*01_c315g is present on both chromosomes (IGHJ6-02_03).: 5: 36.65
-IGHV3-49*03_a313g: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV3-49*03_a313g is present on both chromosomes (IGHJ6-02_03).: 1: 44.13
-IGHV3-13*01_g290a: Inferred allele on both chromosomes: In sample P14_I8_S1, allele IGHV3-13*01_g290a is present on both chromosomes (IGHJ6-02_03).: 2: 49.93
-IGHV3-30*03_t288c: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-30*03_t288c is present on both chromosomes (IGHJ6-02_03).: 7: 79.62
-IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g is present on both chromosomes (IGHJ6-02_03).: 2: 30.67
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHJ6-02_03).: 49: 166.49
-IGHV4-30-2*01_c315g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV4-30-2*01_c315g is present on both chromosomes (IGHJ6-02_03).: 5: 36.65
-IGHV4-30-2*01_c300t_c315g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV4-30-2*01_c300t_c315g is present on both chromosomes (IGHJ6-02_03).: 1: 36.65
-IGHV4-59*12_c300t: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV4-59*12_c300t is present on both chromosomes (IGHJ6-02_03).: 1: 3.90
-IGHV4-61*02_a291g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV4-61*02_a291g is present on both chromosomes (IGHJ6-02_03).: 2: 66.13
-IGHV3-48*03_t303g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-48*03_t303g is present on both chromosomes (IGHJ6-02_03).: 2: 28.23
-IGHV4-4*07_c300t: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV4-4*07_c300t is present on both chromosomes (IGHJ6-02_03).: 1: 40.63
-IGHV5-10-1*01_a3g: Deletion on other chromosome: In sample P14_I9_S1, allele(s) IGHV5-10-1*01_a3g, IGHV5-10-1*03 present on one chromosome, deletion on other (IGHJ6-02_03): 1: 27.42
-IGHV3-9*01_t279c_t288c_c300t_t301g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-9*01_t279c_t288c_c300t_t301g is present on both chromosomes (IGHJ6-02_03).: 1: 88.81
-IGHV6-1*01_a315g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV6-1*01_a315g is present on both chromosomes (IGHJ6-02_03).: 6: 54.51
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHJ6-02_03).: 35: 151.98
-IGHV2-70*01_g303a: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV2-70*01_g303a is present on both chromosomes (IGHJ6-02_03).: 1: 25.18
-IGHV3-66*01_a223c: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-66*01_a223c is present on both chromosomes (IGHJ6-02_03).: 2: 63.71
-IGHV3-13*05_t78c: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-13*05_t78c is present on both chromosomes (IGHJ6-02_03).: 1: 48.12
-IGHV3-49*04_a313g: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-49*04_a313g is present on both chromosomes (IGHJ6-02_03).: 2: 52.55
-IGHV3-64*04_a210c_t288c_t300c_g303a: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-64*04_a210c_t288c_t300c_g303a is present on both chromosomes (IGHJ6-02_03).: 1: 14.06
-IGHV3-64*04_a210c: Inferred allele on both chromosomes: In sample P14_I9_S1, allele IGHV3-64*04_a210c is present on both chromosomes (IGHJ6-02_03).: 2: 32.55
-IGHV4-31*02_c198t: Inferred allele on both chromosomes: In sample P15_I10_S1, allele IGHV4-31*02_c198t is present on both chromosomes (IGHD2-21-01_02).: 2: 52.79
-IGHV1-8*02_a250g: Inferred allele on both chromosomes: In sample P15_I11_S1, allele IGHV1-8*02_a250g is present on both chromosomes (IGHJ6-02_03).: 1: 37.68
-IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a: Inferred allele on both chromosomes: In sample P15_I12_S1, allele IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a is present on both chromosomes (IGHD2-8-01_02).: 1: 0.18
-IGHV6-1*01_02_a163c_c174t_g176t_a207c_c230t_a275c: Inferred allele on both chromosomes: In sample P15_I12_S1, allele IGHV6-1*01_02_a163c_c174t_g176t_a207c_c230t_a275c is present on both chromosomes (IGHD2-8-01_02).: 1: 39.03
-IGHV3-13*01_c210t: Inferred allele on both chromosomes: In sample P15_I12_S1, allele IGHV3-13*01_c210t is present on both chromosomes (IGHJ6-02_03).: 1: 51.12
-IGHV3-23*01_04_c113g: Inferred allele on both chromosomes: In sample P15_I5_S1, allele IGHV3-23*01_04_c113g is present on both chromosomes (IGHD2-21-01_02).: 1: 100.94
-IGHV1-3*01_05_c134a: Inferred allele on both chromosomes: In sample P15_I7_S1, allele IGHV1-3*01_05_c134a is present on both chromosomes (IGHD2-8-01_02).: 1: 7.49
-IGHV3-72*01_t186c: Inferred allele on both chromosomes: In sample P15_I8_S1, allele IGHV3-72*01_t186c is present on both chromosomes (IGHD2-8-01_02).: 1: 57.01
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P15_I9_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHJ6-02_03).: 14: 74.60
-IGHV7-4-1*02_t63c: Deletion on other chromosome: In sample P2_I3_S1, allele(s) IGHV7-4-1*02_t63c present on one chromosome, deletion on other (IGHD2-8-01_02): 1: 133.80
-IGHV7-4-1*02_t63c: Inferred allele on both chromosomes: In sample P2_I3_S1, allele IGHV7-4-1*02_t63c is present on both chromosomes (IGHJ6-02_03).: 1: 133.80
-IGHV7-4-1*02_t63c: Inferred allele on both chromosomes: In sample P2_I3_S2, allele IGHV7-4-1*02_t63c is present on both chromosomes (IGHJ6-02_03).: 1: 133.80
-IGHV7-4-1*02_t63c: Deletion on other chromosome: In sample P2_I3_S3, allele(s) IGHV7-4-1*02_t63c present on one chromosome, deletion on other (IGHD2-8-01_02): 1: 133.80
-IGHV7-4-1*02_t63c: Inferred allele on both chromosomes: In sample P2_I3_S3, allele IGHV7-4-1*02_t63c is present on both chromosomes (IGHJ6-02_03).: 1: 133.80
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P2_I5_S1, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-8-01_02).: 15: 83.43
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P3_I3_S2, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-8-01_02).: 49: 166.49
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P4_I14_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-8-01_02).: 49: 166.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P4_I14_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV1-69*08_c191t: Deletion on other chromosome: In sample P4_I15_S1, allele(s) IGHV1-69*08_c191t present on one chromosome, deletion on other (IGHJ6-02_03): 49: 166.49
-IGHV3-66*02_g51t: Deletion on other chromosome: In sample P4_I22_S1, allele(s) IGHV3-66*02_g51t present on one chromosome, deletion on other (IGHJ6-02_03): 1: 12.76
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P4_I27_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-21-01_02).: 49: 166.49
-IGHV1-69*04_c184t: Inferred allele on both chromosomes: In sample P4_I27_S1, allele IGHV1-69*04_c184t is present on both chromosomes (IGHD2-21-01_02).: 4: 96.64
-IGHV3-21*01_c34t_a40c_c90t_a112t_c114g_a119g_a210c: Inferred allele on both chromosomes: In sample P4_I5_S1, allele IGHV3-21*01_c34t_a40c_c90t_a112t_c114g_a119g_a210c is present on both chromosomes (IGHD2-8-01_02).: 1: 49.46
-IGHV3-66*01_a193g: Inferred allele on both chromosomes: In sample P4_I7_S1, allele IGHV3-66*01_a193g is present on both chromosomes (IGHD2-21-01_02).: 2: 50.69
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P4_I7_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHD2-21-01_02): 35: 151.98
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P4_I8_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P4_I9_S1, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-21-01_02).: 49: 166.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P4_I9_S1, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-21-01_02).: 35: 151.98
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P4_I9_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV4-61*02_a291g: Deletion on other chromosome: In sample P4_I9_S1, allele(s) IGHV4-61*02_a291g, IGHV4-61*02 present on one chromosome, deletion on other (IGHJ6-02_03): 2: 66.13
-IGHV1-18*01_a190g: Inferred allele on both chromosomes: In sample P5_I22_S3, allele IGHV1-18*01_a190g is present on both chromosomes (IGHD2-21-01_02).: 3: 54.23
-IGHV3-15*01_02_g147a: Inferred allele on both chromosomes: In sample P5_I22_S3, allele IGHV3-15*01_02_g147a is present on both chromosomes (IGHD2-21-01_02).: 1: 74.90
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P5_I23_S2, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-21-01_02).: 15: 83.43
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P5_I23_S3, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-21-01_02).: 15: 83.43
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P5_I32_S3, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-21-01_02).: 15: 83.43
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P6_I105_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHD2-8-01_02).: 14: 74.60
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P6_I109_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHD2-21-01_02).: 14: 74.60
-IGHV3-21*04_c246t_g247t_t256a_a258g_g303a: Inferred allele on both chromosomes: In sample P6_I10_S1, allele IGHV3-21*04_c246t_g247t_t256a_a258g_g303a is present on both chromosomes (IGHD2-8-01_02).: 2: 10.51
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P6_I10_S1, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-8-01_02).: 15: 83.43
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P6_I111_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHJ6-02_03).: 14: 74.60
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P6_I114_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHJ6-02_03).: 14: 74.60
-IGHV3-53*01_02_a225g_t267g_g303a: Inferred allele on both chromosomes: In sample P6_I114_S1, allele IGHV3-53*01_02_a225g_t267g_g303a is present on both chromosomes (IGHJ6-02_03).: 4: 43.48
-IGHV4-31*02_g92a_c111t_a113t_a138t_a164g_a225c_a234c_g238c_a240t_t249c_a250g: Inferred allele on both chromosomes: In sample P6_I11_S1, allele IGHV4-31*02_g92a_c111t_a113t_a138t_a164g_a225c_a234c_g238c_a240t_t249c_a250g is present on both chromosomes (IGHJ6-02_03).: 1: 6.16
-IGHV1-69*04_09_t89c: Inferred allele on both chromosomes: In sample P6_I18_S1, allele IGHV1-69*04_09_t89c is present on both chromosomes (IGHD2-8-01_02).: 1: 13.10
-IGHV3-53*01_02_a225g_t267g_g303a: Inferred allele on both chromosomes: In sample P6_I1_S1, allele IGHV3-53*01_02_a225g_t267g_g303a is present on both chromosomes (IGHD2-8-01_02).: 4: 43.48
-IGHV3-20*03_04_a104g: Inferred allele on both chromosomes: In sample P6_I28_S1, allele IGHV3-20*03_04_a104g is present on both chromosomes (IGHD2-21-01_02).: 3: 39.75
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P6_I36_S1, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-8-01_02).: 15: 83.43
-IGHV1-69*10_a244g: Inferred allele on both chromosomes: In sample P6_I48_S1, allele IGHV1-69*10_a244g is present on both chromosomes (IGHD2-8-01_02).: 1: 16.07
-IGHV3-15*07_c159t: Inferred allele on both chromosomes: In sample P6_I48_S1, allele IGHV3-15*07_c159t is present on both chromosomes (IGHD2-8-01_02).: 1: 42.51
-IGHV4-31*02_c198t: Deletion on other chromosome: In sample P6_I48_S1, allele(s) IGHV4-31*02_c198t present on one chromosome, deletion on other (IGHD2-8-01_02): 2: 52.79
-IGHV3-53*01_02_g81a_a225g_t267g_g303a: Inferred allele on both chromosomes: In sample P6_I49_S1, allele IGHV3-53*01_02_g81a_a225g_t267g_g303a is present on both chromosomes (IGHD2-8-01_02).: 4: 60.79
-IGHV3-64*04_a210c_a223c_a225g_t288c_t300c_g303a: Inferred allele on both chromosomes: In sample P6_I53_S1, allele IGHV3-64*04_a210c_a223c_a225g_t288c_t300c_g303a is present on both chromosomes (IGHD2-21-01_02).: 1: 6.08
-IGHV4-61*02_a234g: Deletion on other chromosome: In sample P6_I56_S1, allele(s) IGHV4-61*02_a234g present on one chromosome, deletion on other (IGHD2-21-01_02): 15: 83.43
-IGHV3-21*04_c246t_g247t_t256a_a258g_g303a: Inferred allele on both chromosomes: In sample P6_I59_S1, allele IGHV3-21*04_c246t_g247t_t256a_a258g_g303a is present on both chromosomes (IGHD2-21-01_02).: 2: 10.51
-IGHV7-4-1*02_g224a: Inferred allele on both chromosomes: In sample P6_I63_S1, allele IGHV7-4-1*02_g224a is present on both chromosomes (IGHJ6-02_03).: 1: 5.70
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P6_I65_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHD2-21-01_02).: 14: 74.60
-IGHV3-30*07_a150g_c203t_t300c_g303a: Inferred allele on both chromosomes: In sample P6_I69_S1, allele IGHV3-30*07_a150g_c203t_t300c_g303a is present on both chromosomes (IGHD2-21-01_02).: 2: 77.85
-IGHV3-30*04_c203t: Inferred allele on both chromosomes: In sample P6_I69_S1, allele IGHV3-30*04_c203t is present on both chromosomes (IGHD2-21-01_02).: 3: 77.85
-IGHV3-20*03_04_a104g: Inferred allele on both chromosomes: In sample P6_I69_S1, allele IGHV3-20*03_04_a104g is present on both chromosomes (IGHD2-21-01_02).: 3: 39.75
-IGHV6-1*01_02_a315g: Inferred allele on both chromosomes: In sample P6_I73_S1, allele IGHV6-1*01_02_a315g is present on both chromosomes (IGHJ6-02_03).: 14: 74.60
-IGHV1-69*04_09_a244g: Inferred allele on both chromosomes: In sample P6_I77_S1, allele IGHV1-69*04_09_a244g is present on both chromosomes (IGHD2-21-01_02).: 2: 71.24
-IGHV3-53*01_02_g81a_a225g_t267g_g303a: Inferred allele on both chromosomes: In sample P6_I77_S1, allele IGHV3-53*01_02_g81a_a225g_t267g_g303a is present on both chromosomes (IGHD2-21-01_02).: 4: 60.79
-IGHV3-9*01_a104g: Inferred allele on both chromosomes: In sample P6_I83_S1, allele IGHV3-9*01_a104g is present on both chromosomes (IGHD2-21-01_02).: 2: 91.63
-IGHV3-30*04_c203t: Inferred allele on both chromosomes: In sample P6_I83_S1, allele IGHV3-30*04_c203t is present on both chromosomes (IGHD2-8-01_02).: 3: 77.85
-IGHV3-74*03_t82c_g107a_c108a_c118t_t168c_a169g_t177c_a195g_c197a_g198t_c234t_t279c: Inferred allele on both chromosomes: In sample P6_I89_S1, allele IGHV3-74*03_t82c_g107a_c108a_c118t_t168c_a169g_t177c_a195g_c197a_g198t_c234t_t279c is present on both chromosomes (IGHJ6-02_03).: 1: 37.63
-IGHV1-69*08_c191t: Deletion on other chromosome: In sample P7_I3_S1, allele(s) IGHV1-69*08_c191t present on one chromosome, deletion on other (IGHJ6-02_03): 49: 166.49
-IGHV1-69*08_c191t: Deletion on other chromosome: In sample P7_I3_S2, allele(s) IGHV1-69*08_c191t present on one chromosome, deletion on other (IGHJ6-02_03): 49: 166.49
-IGHV1-69*08_c191t: Deletion on other chromosome: In sample P7_I3_S3, allele(s) IGHV1-69*08_c191t present on one chromosome, deletion on other (IGHD2-21-01_02): 49: 166.49
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P7_I3_S3, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-21-01_02).: 15: 83.43
-IGHV4-34*01_a220g_a225g: Inferred allele on both chromosomes: In sample P8_I10_S1, allele IGHV4-34*01_a220g_a225g is present on both chromosomes (IGHD2-21-01_02).: 2: 71.12
-IGHV1-69*01_g54a: Inferred allele on both chromosomes: In sample P8_I10_S1, allele IGHV1-69*01_g54a is present on both chromosomes (IGHD2-21-01_02).: 2: 34.61
-IGHV4-59*08_a291g: Inferred allele on both chromosomes: In sample P8_I4_S1, allele IGHV4-59*08_a291g is present on both chromosomes (IGHD2-21-01_02).: 2: 72.19
-IGHV4-39*07_c288a: Inferred allele on both chromosomes: In sample P8_I5_S1, allele IGHV4-39*07_c288a is present on both chromosomes (IGHD2-8-01_02).: 5: 96.18
-IGHV4-39*01_a220g_a225g: Inferred allele on both chromosomes: In sample P8_I9_S1, allele IGHV4-39*01_a220g_a225g is present on both chromosomes (IGHD2-21-01_02).: 1: 52.35
-IGHV1-69*01_g54a: Inferred allele on both chromosomes: In sample P8_I9_S1, allele IGHV1-69*01_g54a is present on both chromosomes (IGHD2-21-01_02).: 2: 34.61
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P9_I11_S2, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-21-01_02).: 15: 83.43
-IGHV4-61*02_a234g: Deletion on other chromosome: In sample P9_I11_S2, allele(s) IGHV4-61*02_a234g present on one chromosome, deletion on other (IGHJ6-02_03): 15: 83.43
-IGHV4-61*02_a234g: Inferred allele on both chromosomes: In sample P9_I11_S3, allele IGHV4-61*02_a234g is present on both chromosomes (IGHD2-21-01_02).: 15: 83.43
-IGHV4-61*02_a234g: Deletion on other chromosome: In sample P9_I11_S3, allele(s) IGHV4-61*02_a234g present on one chromosome, deletion on other (IGHJ6-02_03): 15: 83.43
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P9_I13_S3, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV3-48*01_a39c: Inferred allele on both chromosomes: In sample P9_I14_S3, allele IGHV3-48*01_a39c is present on both chromosomes (IGHD2-21-01_02).: 1: 42.49
-IGHV1-18*01_a190g: Inferred allele on both chromosomes: In sample P9_I17_S1, allele IGHV1-18*01_a190g is present on both chromosomes (IGHD2-21-01_02).: 3: 54.23
-IGHV1-18*01_a190g: Inferred allele on both chromosomes: In sample P9_I17_S2, allele IGHV1-18*01_a190g is present on both chromosomes (IGHJ6-02_03).: 3: 54.23
-IGHV1-18*01_a190g: Inferred allele on both chromosomes: In sample P9_I17_S3, allele IGHV1-18*01_a190g is present on both chromosomes (IGHD2-21-01_02).: 3: 54.23
-IGHV1-18*01_a196g: Inferred allele on both chromosomes: In sample P9_I4_S1, allele IGHV1-18*01_a196g is present on both chromosomes (IGHD2-21-01_02).: 1: 96.49
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P9_I4_S1, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV1-18*01_a196g: Inferred allele on both chromosomes: In sample P9_I4_S2, allele IGHV1-18*01_a196g is present on both chromosomes (IGHD2-21-01_02).: 1: 96.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P9_I4_S2, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV3-43*01_t177a: Deletion on other chromosome: In sample P9_I4_S2, allele(s) IGHV3-43*01_t177a present on one chromosome, deletion on other (IGHJ6-02_03): 1: 6.49
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P9_I4_S2, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV1-18*01_a196g: Inferred allele on both chromosomes: In sample P9_I4_S3, allele IGHV1-18*01_a196g is present on both chromosomes (IGHD2-21-01_02).: 1: 96.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P9_I4_S3, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-21-01_02).: 35: 151.98
-IGHV3-43*01_t177a: Deletion on other chromosome: In sample P9_I4_S3, allele(s) IGHV3-43*01_t177a present on one chromosome, deletion on other (IGHJ6-02_03): 1: 6.49
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P9_I4_S3, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P9_I5_S2, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-8-01_02).: 49: 166.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P9_I5_S2, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P9_I5_S2, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV1-69*08_c191t: Inferred allele on both chromosomes: In sample P9_I5_S3, allele IGHV1-69*08_c191t is present on both chromosomes (IGHD2-8-01_02).: 49: 166.49
-IGHV4-38-2*02_a70g: Inferred allele on both chromosomes: In sample P9_I5_S3, allele IGHV4-38-2*02_a70g is present on both chromosomes (IGHD2-8-01_02).: 35: 151.98
-IGHV4-38-2*02_a70g: Deletion on other chromosome: In sample P9_I5_S3, allele(s) IGHV4-38-2*02_a70g present on one chromosome, deletion on other (IGHJ6-02_03): 35: 151.98
-IGHV3-69-1*01_a107t_a110g_t112a_a113g_g157a_c159t_c164a_t168g_g170c_a172g_t174a_a187g_t189c_c192t_a193g_t196a_a197t_c198g_c201t_a215g_c246t_a263t_g282a: Repeated Read: Possible repeated read error(s) at 215gggg218: 1: 1.40
-IGHV3-9*01_t78g_g103a_g129a_a175g_a176g_t186c_g188c_g197c_c258a_t279c_t288c_c300t_t301g: Repeated Read: Possible repeated read error(s) at 175gggg178: 1: 61.88
-IGHV4-61*01_a41g: Novel AA: Amino Acid(s) previously unreported in this family - R14: 1: 19.54
-IGHV3-53*02_g88a: Novel AA: Amino Acid(s) previously unreported in this family - I30: 2: 24.30
-IGHV3-72*01_a169g_a173g_a177g_t187g_a188t_c287g: Novel AA: Amino Acid(s) previously unreported in this family - V63, S96: 1: 12.75
-IGHV1-58*02_g61t: Novel AA: Amino Acid(s) previously unreported in this family - F21: 1: 44.11
-IGHV1-8*02_a250g: Novel AA: Amino Acid(s) previously unreported in this family - V84: 1: 37.68
-IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a: Novel AA: Amino Acid(s) previously unreported in this family - V27, G59, T64, I80, D96: 1: 0.18
-IGHV6-1*01_02_a163c_c174t_g176t_a207c_c230t_a275c: Novel AA: Amino Acid(s) previously unreported in this family - M59, I77, T92: 1: 39.03
-IGHV4-38-2*01_t247c: Novel AA: Amino Acid(s) previously unreported in this family - P83: 1: 10.59
-IGHV1-3*01_05_c134a: Novel AA: Amino Acid(s) previously unreported in this family - D45: 1: 7.49
-IGHV4/OR15-8*01_c193a: Novel AA: Amino Acid(s) previously unreported in this family - T65: 8: 53.43
-IGHV4-30-2*01_g139c: Novel AA: Amino Acid(s) previously unreported in this family - R47: 1: 1.69
-IGHV3-66*01_a193g: Novel AA: Amino Acid(s) previously unreported in this family - A65: 2: 50.69
-IGHV3-30*02_a245g: Novel AA: Amino Acid(s) previously unreported in this family - S82: 1: 131.74
-IGHV1-18*01_a190g: Novel AA: Amino Acid(s) previously unreported in this family - D64: 3: 54.23
-IGHV3-30*04_g160a: Novel AA: Amino Acid(s) previously unreported in this family - T54: 1: 71.95
-IGHV3-74*03_t105g_g156c_t171g_g191t_c197g_g198t_g258t: Novel AA: Amino Acid(s) previously unreported in this family - R35, C52, I64: 1: 81.70
-IGHV4-31*02_g92a_c111t_a113t_a138t_a164g_a225c_a234c_g238c_a240t_t249c_a250g: Novel AA: Amino Acid(s) previously unreported in this family - N31, F38, L80, E84: 1: 6.16
-IGHV3-72*01_c194a_g239c: Novel AA: Amino Acid(s) previously unreported in this family - T80: 1: 5.18
-IGHV1-69*04_09_t89c: Novel AA: Amino Acid(s) previously unreported in this family - S30: 1: 13.10
-IGHV1-24*01_g278t: Novel AA: Amino Acid(s) previously unreported in this family - I93: 1: 61.88
-IGHV3-69-1*01_a107t_a110g_t112a_a113g_g157a_c159t_c164a_t168g_g170c_a172g_t174a_a187g_t189c_c192t_a193g_t196a_a197t_c198g_c201t_a215g_c246t_a263t_g282a: Novel AA: Amino Acid(s) previously unreported in this family - V36, C37, I53, M56, T57, M66, R72: 1: 1.40
-IGHV1/OR15-2*02_03_t81a_t90c_a106g_t127c_a140g_a170g_a172g_c201t_c202g_a240g_a246g_c260t_c291g_t296c: Novel AA: Amino Acid(s) previously unreported in this family - G36, S57, V87: 2: 3.70
-IGHV3-9*01_t78g_g103a_g129a_a175g_a176g_t186c_g188c_g197c_c258a_t279c_t288c_c300t_t301g: Novel AA: Amino Acid(s) previously unreported in this family - N35, A63: 1: 61.88
-IGHV7-4-1*02_g224a: Novel AA: Amino Acid(s) previously unreported in this family - Q75: 1: 5.70
-IGHV3-69-1*01_a193t_c198t_a200c_c201t_t210a: Novel AA: Amino Acid(s) previously unreported in this family - S67: 1: 13.07
-IGHV1-58*02_c86g_t90c_c104g_t105c_g107c_g117t_t150g_g169a_g185a_c192g_a204g_g210c_t211g_g216a_c231t_g254a_c288t: Novel AA: Amino Acid(s) previously unreported in this family - S29, T36, K64, N70, V71, N85: 1: 34.13
-IGHV3-74*03_t82c_g107a_c108a_c118t_t168c_a169g_t177c_a195g_c197a_g198t_c234t_t279c: Novel AA: Amino Acid(s) previously unreported in this family - K36, D57: 1: 37.63
-IGHV3-69-1*01_t112a_a113g_g147a_g157a_c165a_g188a_a190t_c191a_c198t_a200c_g211c_a275g_a295t_g303a: Novel AA: Amino Acid(s) previously unreported in this family - I53, N63, S67, S99: 1: 4.53
-IGHV4-34*01_a220g_a225g: Novel AA: Amino Acid(s) previously unreported in this family - G74: 2: 71.12
-IGHV4-39*01_a220g: Novel AA: Amino Acid(s) previously unreported in this family - G74: 1: 5.43
-IGHV4-4*02_a220g_a225g: Novel AA: Amino Acid(s) previously unreported in this family - G74: 1: 0.38
-IGHV4-39*07_a220g_a225g: Novel AA: Amino Acid(s) previously unreported in this family - G74: 1: 29.72
-IGHV4-59*08_a220g: Novel AA: Amino Acid(s) previously unreported in this family - G74: 1: 13.55
-IGHV7-4-1*02_a200t: Novel AA: Amino Acid(s) previously unreported in this family - F67: 1: 21.57
-IGHV4-39*01_a220g_a225g: Novel AA: Amino Acid(s) previously unreported in this family - G74: 1: 52.35
-IGHV3-53*04_c241g_g273a_c300t: Novel AA: Amino Acid(s) previously unreported in this family - I91: 1: 9.64
-IGHV3-7*03_a131c: Novel AA: Amino Acid(s) previously unreported in this family - P44: 1: 0.34
-IGHV1-18*01_a196g: Novel AA: Amino Acid(s) previously unreported in this family - D66: 1: 96.49
-IGHV3-43*01_t177a: Novel AA: Amino Acid(s) previously unreported in this family - E59: 1: 6.49
-IGHV3-21*01_a131c: Novel AA: Amino Acid(s) previously unreported in this family - P44: 1: 8.85
-IGHV3-30*18_g113c_c114t: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g113c: 1: 107.67
-IGHV3-72*01_a169g_a173g_a177g_t187g_a188t_c287g: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - c287g: 1: 12.75
-IGHV4-61*08_g48a_g49c_g88a_g107a_g129c_a147c_t165c: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g129c: 1: 13.52
-IGHV4-61*08_g48a_g49c_g88a_g129c_c134a_a147c: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g129c: 1: 49.45
-IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g248c: 2: 30.67
-IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g191c: 1: 0.18
-IGHV3-23*01_04_c113g: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - c113g: 1: 100.94
-IGHV4-31*02_g92a_c111t_a113t_a138t_a164g_a225c_a234c_g238c_a240t_t249c_a250g: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g238c: 1: 6.16
-IGHV3-69-1*01_a107t_a110g_t112a_a113g_g157a_c159t_c164a_t168g_g170c_a172g_t174a_a187g_t189c_c192t_a193g_t196a_a197t_c198g_c201t_a215g_c246t_a263t_g282a: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g170c, c198g: 1: 1.40
-IGHV3-9*01_t78g_g103a_g129a_a175g_a176g_t186c_g188c_g197c_c258a_t279c_t288c_c300t_t301g: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g188c, g197c: 1: 61.88
-IGHV1-58*02_c86g_t90c_c104g_t105c_g107c_g117t_t150g_g169a_g185a_c192g_a204g_g210c_t211g_g216a_c231t_g254a_c288t: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g107c, g210c, c104g: 1: 34.13
-IGHV3-43*01_c246t_a247t_g248c_a252g_t256a_c258g_t279c_a286g_t288c_c297g_c300t_t301g: Hotspot SNP: G/C SNP in RGYW/WRCY hotspot(s) - g248c: 1: 28.36
-IGHV1-45*02_a297g_a301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-20*04_t279c_c300t_t301g, IGHV3-20*04_c258a_t279c_c300t_t301g in sample P14_I10_S1: 2: 10.20
-IGHV3-20*04_t279c_c300t_t301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV1-45*02_a297g_a301g, IGHV3-20*04_c258a_t279c_c300t_t301g in sample P14_I10_S1: 1: 24.36
-IGHV3-20*04_c258a_t279c_c300t_t301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV1-45*02_a297g_a301g, IGHV3-20*04_t279c_c300t_t301g in sample P14_I10_S1: 1: 24.36
-IGHV3-30*03_t288c: Shared SNP: SNP(s) shared with inferences in 6 sample(s).<br>Example: IGHV3-64*04_a210c_t288c in sample P14_I10_S1: 7: 79.62
-IGHV3-33*06_t300c_g303a: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-66*01_g13t_c39a_a223c_t300c in sample P14_I10_S1: 2: 30.00
-IGHV3-64*04_a210c_t288c: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-30*03_t288c in sample P14_I10_S1: 2: 18.09
-IGHV3-66*01_g13t_c39a_a223c_t300c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-33*06_t300c_g303a in sample P14_I10_S1: 1: 11.03
-IGHV6-1*01_a315g: Shared SNP: SNP(s) shared with inferences in 3 sample(s).<br>Example: IGHV4-30-4*01_c315g in sample P14_I4_S1: 6: 54.51
-IGHV3-NL1*01_g49a_g75c_t201c_c223a_g267t_t288c_a317g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-NL1*01_g49a_c159g_t160g_t201c_c223a_g267t_t288c_a317g in sample P14_I1_S1: 1: 4.11
-IGHV3-NL1*01_g49a_c159g_t160g_t201c_c223a_g267t_t288c_a317g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-NL1*01_g49a_g75c_t201c_c223a_g267t_t288c_a317g in sample P14_I1_S1: 1: 4.11
-IGHV3-66*03_t175g_t267g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*01_t267g_g303a in sample P14_I5_S1: 2: 11.68
-IGHV4-30-2*01_c315g: Shared SNP: SNP(s) shared with inferences in 3 sample(s).<br>Example: IGHV4-30-4*01_c315g in sample P14_I5_S1: 5: 36.65
-IGHV2-70*15_g303a: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-53*04_t267g_t288c_g303a in sample P14_I4_S1: 2: 20.62
-IGHV3-20*04_t279c_c288t_c300t_t301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*04_c300t, IGHV3-74*01_t279c, IGHV3-74*01_t279c_c288t in sample P14_I4_S1: 1: 23.40
-IGHV3-53*04_c300t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-20*04_t279c_c288t_c300t_t301g in sample P14_I4_S1: 1: 7.59
-IGHV3-53*04_t267g_t288c_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV2-70*15_g303a, IGHV3-30*03_t288c in sample P14_I4_S1: 1: 7.59
-IGHV3-64*04_a210c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-64*04_a210c_t288c_t300c_g303a in sample P14_I9_S1: 2: 32.55
-IGHV3-74*01_t279c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-20*04_t279c_c288t_c300t_t301g, IGHV3-74*01_t279c_c288t in sample P14_I4_S1: 2: 32.64
-IGHV3-74*01_t279c_c288t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-20*04_t279c_c288t_c300t_t301g, IGHV3-74*01_t279c in sample P14_I4_S1: 1: 32.64
-IGHV4-30-4*01_c315g: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV6-1*01_a315g in sample P14_I4_S1: 2: 36.80
-IGHV3-53*01_t267g_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-64*04_a172g_a176g_g186t_a210c_a223c_a225g_t288c_t300c_g303a, IGHV3-66*03_t175g_t267g in sample P14_I5_S1: 1: 60.50
-IGHV3-64*04_a172g_a176g_g186t_a210c_a223c_a225g_t288c_t300c_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-53*01_t267g_g303a, IGHV3-64*04_a210c_t288c, IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c in sample P14_I5_S1: 1: 2.88
-IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-64*04_a210c_t288c, IGHV3-64*04_a172g_a176g_g186t_a210c_a223c_a225g_t288c_t300c_g303a in sample P14_I5_S1: 2: 13.25
-IGHV3-66*01_a223c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-66*01_a223c_t267g_t300c_g303a in sample P14_I6_S1: 2: 63.71
-IGHV3-66*01_a223c_t267g_t300c_g303a: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV2-70*15_g303a, IGHV3-66*01_a223c in sample P14_I6_S1: 2: 60.26
-IGHV3-66*01_t267g_t300c_g303a_g317a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-33*06_t300c_g303a, IGHV3-NL1*01_g49a_c159g_t160g_t201c_g267t_t288c_t300c in sample P14_I7_S1: 1: 21.43
-IGHV3-NL1*01_g49a_c159g_t160g_t201c_g267t_t288c_t300c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-33*06_t300c_g303a, IGHV3-66*01_t267g_t300c_g303a_g317a, IGHV3-NL1*01_g49a_g75c_t201c_c223a_g267t_t288c in sample P14_I7_S1: 1: 9.14
-IGHV3-NL1*01_g49a_g75c_t201c_c223a_g267t_t288c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-NL1*01_g49a_c159g_t160g_t201c_g267t_t288c_t300c in sample P14_I7_S1: 1: 9.14
-IGHV4-61*08_g48a_g49c_g88a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-61*08_g48a_g49c_g88a_g129c_c134a_a147c in sample P14_I7_S1: 1: 49.45
-IGHV4-61*08_g48a_g49c_g88a_g129c_c134a_a147c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-61*08_g48a_g49c_g88a in sample P14_I7_S1: 1: 49.45
-IGHV3-53*05_t267g_c300t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*02_t267g_c300t, IGHV3-66*01_a223c_t267g_t300c_g303a in sample P14_I8_S1: 1: 23.01
-IGHV3-53*02_t267g_c300t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*05_t267g_c300t, IGHV3-66*01_a223c_t267g_t300c_g303a in sample P14_I8_S1: 1: 23.01
-IGHV3-NL1*01_g49a_t201c_g267t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-NL1*01_t201c_g267t in sample P14_I8_S1: 1: 1.12
-IGHV3-NL1*01_t201c_g267t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-NL1*01_g49a_t201c_g267t in sample P14_I8_S1: 1: 1.12
-IGHV2-70*01_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-64*04_a210c_t288c_t300c_g303a in sample P14_I9_S1: 1: 25.18
-IGHV3-9*01_t279c_t288c_c300t_t301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*03_t288c, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV3-64*04_a210c_t288c_t300c_g303a, IGHV3-NL1*01_g49a_t201c_g267t_t288c_t300c, IGHV3-NL1*01_g49a_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c_a225g_t288c, IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c, IGHV4-4*07_c300t, IGHV4-30-2*01_c300t_c315g, IGHV4-59*12_c300t in sample P14_I9_S1: 1: 88.81
-IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-30*03_t288c, IGHV3-64*04_a210c_t288c_t300c_g303a, IGHV3-NL1*01_g49a_t201c_g267t_t288c_t300c, IGHV3-NL1*01_g49a_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c_a225g_t288c, IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c, IGHV4-4*07_c300t, IGHV4-30-2*01_c300t_c315g, IGHV4-59*12_c300t in sample P14_I9_S1: 2: 30.67
-IGHV3-64*04_a210c_t288c_t300c_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV2-70*01_g303a, IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-30*03_t288c, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV3-64*04_a210c, IGHV3-NL1*01_g49a_t201c_g267t_t288c_t300c, IGHV3-NL1*01_g49a_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c_a225g_t288c, IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c in sample P14_I9_S1: 1: 14.06
-IGHV3-NL1*01_g49a_t201c_g267t_t288c_t300c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-30*03_t288c, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV3-64*04_a210c_t288c_t300c_g303a, IGHV3-NL1*01_g49a_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c_a225g_t288c, IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c in sample P14_I9_S1: 1: 13.25
-IGHV3-NL1*01_g49a_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c_a225g_t288c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-30*03_t288c, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV3-64*04_a210c_t288c_t300c_g303a, IGHV3-NL1*01_g49a_t201c_g267t_t288c_t300c, IGHV3-NL1*01_g49a_g75c_t201c_g267t_t288c_t300c in sample P14_I9_S1: 1: 13.25
-IGHV4-4*07_c300t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV4-30-2*01_c300t_c315g, IGHV4-59*12_c300t in sample P14_I9_S1: 1: 40.63
-IGHV4-30-2*01_c300t_c315g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV4-4*07_c300t, IGHV4-30-2*01_c315g, IGHV4-59*12_c300t, IGHV6-1*01_a315g in sample P14_I9_S1: 1: 36.65
-IGHV4-59*12_c300t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_t279c_t288c_c300t_t301g, IGHV3-43*01_a247g_g248c_a252g_c258a_t279c_a286g_t288c_c297g_c300t_t301g, IGHV4-4*07_c300t, IGHV4-30-2*01_c300t_c315g in sample P14_I9_S1: 1: 3.90
-IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV6-1*01_02_a163c_c174t_g176t_a207c_c230t_a275c in sample P15_I12_S1: 1: 0.18
-IGHV6-1*01_02_a163c_c174t_g176t_a207c_c230t_a275c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a in sample P15_I12_S1: 1: 39.03
-IGHV3-NL1*01_c141g_t201c_g267t: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-NL1*01_c141g_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c in sample P15_I9_S1: 1: 49.25
-IGHV3-NL1*01_c141g_t164c_t169a_a170g_a172g_c174t_g175a_a187g_t201c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-NL1*01_c141g_t201c_g267t in sample P15_I9_S1: 1: 49.25
-IGHV3-53*01_02_a225g_t267g_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*01_02_g81a_a225g_t267g_g303a in sample P6_I46_S1: 4: 43.48
-IGHV3-30*04_c203t: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-30*07_a150g_c203t_t300c_g303a in sample P6_I69_S1: 3: 77.85
-IGHV3-74*01_02_c246t_g247t_t279c_t300c_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*01_02_g81a_a225g_t267g_g303a in sample P6_I31_S1: 2: 62.00
-IGHV3-9*01_a104g_c258a_t279c_t288c_c300t_t301g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_a104g in sample P6_I27_S1: 1: 56.32
-IGHV3-9*01_a104g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-9*01_a104g_c258a_t279c_t288c_c300t_t301g in sample P6_I27_S1: 2: 91.63
-IGHV3-53*01_02_g81a_a225g_t267g_g303a: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-74*01_02_c246t_g247t_t279c_t300c_g303a in sample P6_I31_S1: 4: 60.79
-IGHV1/OR15-2*02_03_t81a_t90c_a106g_t127c_a140g_a170g_a172g_c201t_c202g_a240g_a246g_c260t_c291g_t296c: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-53*01_02_g81a_a225g_t267g_g303a in sample P6_I46_S1: 2: 3.70
-IGHV3-30*18_g261c_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-NL1*01_g261c_g303a in sample P6_I4_S1: 1: 12.56
-IGHV3-NL1*01_g261c_g303a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV3-30*18_g261c_g303a in sample P6_I4_S1: 1: 7.79
-IGHV3-30*07_a150g_c203t_t300c_g303a: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV3-30*04_c203t in sample P6_I69_S1: 2: 77.85
-IGHV1-69*01_g54a: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV1-69*01_g54a_a225g in sample P8_I10_S1: 2: 34.61
-IGHV1-69*01_g54a_a225g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV1-69*01_g54a, IGHV4-34*01_a220g_a225g in sample P8_I10_S1: 1: 34.61
-IGHV4-34*01_a220g_a225g: Shared SNP: SNP(s) shared with inferences in 2 sample(s).<br>Example: IGHV1-69*01_g54a_a225g, IGHV4-39*01_a220g in sample P8_I10_S1: 2: 71.12
-IGHV4-39*01_a220g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-34*01_a220g_a225g in sample P8_I10_S1: 1: 5.43
-IGHV4-4*02_a220g_a225g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-34*01_a220g_a225g, IGHV4-39*07_a220g_a225g, IGHV4-59*08_a220g in sample P8_I8_S1: 1: 0.38
-IGHV4-39*07_a220g_a225g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-4*02_a220g_a225g, IGHV4-34*01_a220g_a225g, IGHV4-59*08_a220g in sample P8_I8_S1: 1: 29.72
-IGHV4-59*08_a220g: Shared SNP: SNP(s) shared with inferences in 1 sample(s).<br>Example: IGHV4-4*02_a220g_a225g, IGHV4-34*01_a220g_a225g, IGHV4-39*07_a220g_a225g in sample P8_I8_S1: 1: 13.55

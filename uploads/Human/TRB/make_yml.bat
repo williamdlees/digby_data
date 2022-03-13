@@ -1,0 +1,1 @@
+cat ../TCR_June_2021_2/DS1/P4.yml ../TCR_June_2021_2/DS2/P16.yml ../TCR_June_2021_2/DS2/P17.yml ../TCR_June_2021_2/DS2/P18.yml ../TCR_June_2021_2/DS3/P19.yml ../TCR_June_2021_2/DS4/P20.yml >projects.yml
