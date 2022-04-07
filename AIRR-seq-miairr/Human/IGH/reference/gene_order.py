@@ -454,7 +454,7 @@ ALPHA_ORDER = [
 "IGHJ6",
 ]
 
-# From www.imgt.org/genedb/tableC   (anything with P in the functionality column)
+# From www.imgt.org/genedb/tableC   (anything with P in the functionality column that does not also have another classification (F, ORF))
 
 PSEUDO_GENES = [
 "IGHJ1P",
@@ -524,10 +524,8 @@ PSEUDO_GENES = [
 "IGHV1/OR16-3",
 "IGHV1/OR16-4",
 "IGHV2-10",
-"IGHV3-11",
 "IGHV3-19",
 "IGHV3-22",
-"IGHV3-25",
 "IGHV3-29",
 "IGHV3-30-2",
 "IGHV3-30-22",
@@ -548,7 +546,6 @@ PSEUDO_GENES = [
 "IGHV3-57",
 "IGHV3-6",
 "IGHV3-60",
-"IGHV3-62",
 "IGHV3-63",
 "IGHV3-65",
 "IGHV3-69-1",
@@ -556,22 +553,18 @@ PSEUDO_GENES = [
 "IGHV3-75",
 "IGHV3-76",
 "IGHV3-79",
-"IGHV3/OR15-7",
 "IGHV3/OR16-11",
 "IGHV3/OR16-14",
 "IGHV3/OR16-15",
-"IGHV3/OR16-16",
 "IGHV3/OR16-6",
 "IGHV3/OR16-7",
 "IGHV4-55",
 "IGHV4-80",
 "IGHV5-78",
-"IGHV6-1",
 "IGHV7-27",
 "IGHV7-34-1",
 "IGHV7-40",
 "IGHV7-40D",
 "IGHV7-56",
 "IGHV7-NL1",
-"IGHV8-51-1",
 ]

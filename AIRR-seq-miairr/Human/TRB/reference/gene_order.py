@@ -187,28 +187,22 @@ LOCUS_ORDER = [
 "TRBV30",
 ]
 
-# From www.imgt.org/genedb/tableC   (anything with P in the functionality column)
+# From www.imgt.org/genedb/tableC   (anything with P in the functionality column that does not have anything else in that column)
 
 PSEUDO_GENES = [
 "TRBV1",
-"TRBV10-1",
 "TRBV12-1",
 "TRBV12-2",
-"TRBV16",
 "TRBV17",
 "TRBV21-1",
 "TRBV21/OR9-2",
 "TRBV22-1",
 "TRBV22/OR9-2",
-"TRBV23/OR9-2",
-"TRBV24/OR9-2",
 "TRBV25/OR9-2",
 "TRBV26",
 "TRBV26/OR9-2",
 "TRBV3-2",
-"TRBV30",
 "TRBV5-2",
-"TRBV7-4",
 "TRBV7-5",
 "TRBV8-1",
 "TRBV8-2",

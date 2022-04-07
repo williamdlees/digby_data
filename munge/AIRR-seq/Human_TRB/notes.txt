@@ -21,7 +21,7 @@ create an *empty* samples subdirectory in the work directory:
 rm -rf samples
 mkdir samples
 
-Run munge_tcr_data in the work directory to copy the data files into the correct directory structure
+Run munge_tcr_data.py in the work directory to copy the data files into the correct directory structure
 
 Run make.bat in the work directory to build the database using digby_backend's standalone mode and archive the samples
 
