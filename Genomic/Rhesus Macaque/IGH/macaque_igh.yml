@@ -1,5 +1,7 @@
 Reference_sets: 
-    - cirelli_IGH_gapped.fasta
+    - Macaca_mulatta_IGHD.fasta
+    - Macaca_mulatta_IGHJ.fasta
+    - Macaca_mulatta_igdiscover_IGHV_gapped.fasta
 Studies:
     G1:
         Study: Rhemac10 reference assembly
