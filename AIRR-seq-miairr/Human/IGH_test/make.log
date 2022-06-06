@@ -1,0 +1,15 @@
+status: Importing reference alleles
+status: Importing studies
+status: Processing deleted alleles
+status: Processing genotypes
+D:\Research\digby_data\AIRR-seq-miairr\Human\IGH_test\samples/P8/P8_I1_S1/P8_I1_S1_genotype.tsv
+status: Processing haplotypes
+status: Analyzing allele appearances
+status: Calculating gene frequencies
+status: Calculating patterns
+status: Creating confidence reports
+samples/P8/P8_I1_S1/P8_I1_S1_gene-IGHD2-8-01_02_haplotype.tsv
+either/or format in IGHV3-73*01_02 ignored
+samples/P8/P8_I1_S1/P8_I1_S1_gene-IGHJ6-02_03_haplotype.tsv
+either/or format in IGHV1-58*01_02 ignored
+either/or format in IGHV3-73*01_02 ignored
