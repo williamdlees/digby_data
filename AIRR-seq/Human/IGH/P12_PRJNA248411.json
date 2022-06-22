@@ -1,0 +1,3357 @@
+{
+    "Info": {
+        "title": "AIRR Data Commons API",
+        "description": "API response for repertoire query",
+        "version": 1.3,
+        "contact": {
+            "name": "AIRR Community",
+            "url": "https:\/\/github.com\/airr-community"
+        }
+    },
+    "Repertoire": [
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "43213",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 34,
+                "age_max": 34,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "34 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "43213_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "392",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 9444,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298742.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "5",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "402",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298742.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "402"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 9409,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "26712",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 54,
+                "age_max": 54,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "54 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "26712_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "407",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 118607,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1297001.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "59",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "417",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "25",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1297001.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "417"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 117778,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "29612",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 22,
+                "age_max": 22,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "22 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "29612_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "397",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 5637,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298733.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "63",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "407",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298733.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "407"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 5625,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "30512",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 34,
+                "age_max": 34,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "34 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "30512_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "404",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 176463,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298735.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "72",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "414",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298735.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "414"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 175140,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "34012",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 43,
+                "age_max": 43,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "43 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "34012_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "394",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 20873,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298738.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "85",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "404",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298738.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "404"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 20656,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "31012",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 37,
+                "age_max": 37,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "37 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "31012_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "395",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 13811,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298736.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "93",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "405",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298736.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "405"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 13686,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "43213",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 34,
+                "age_max": 34,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "34 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "43213_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "400",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 162675,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298743.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "123",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "410",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298743.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "410"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 162675,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "29612",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 22,
+                "age_max": 22,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "22 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": " 29612_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "405",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 149015,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298383.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "153",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "415",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298383.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "415"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 148142,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "26712",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 54,
+                "age_max": 54,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "54 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "26712_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "398",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 4854,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298732.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "151",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "408",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298732.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "408"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 4846,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "34012",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 43,
+                "age_max": 43,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "43 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "34012_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "402",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 97691,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298739.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "210",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "412",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298739.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "412"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 97286,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "31012",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 37,
+                "age_max": 37,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "37 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "31012_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "403",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 162264,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298737.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "263",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "413",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298737.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "413"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 161449,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "14711",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 20,
+                "age_max": 20,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "20 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "14711_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "406",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 142558,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298730.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "430",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "416",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "25",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298730.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "416"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 141696,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "30512",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 34,
+                "age_max": 34,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "34 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "30512_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "396",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 18009,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298734.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "446",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "406",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298734.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "406"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 17960,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "43113",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 31,
+                "age_max": 31,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "31 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "43113_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "393",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 5876,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298740.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "468",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "403",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298740.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "403"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 5840,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "14711",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "male",
+                "age_min": 20,
+                "age_max": 20,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "20 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "cerebrospinal fluid",
+                        "id": "UBERON:0001359"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "14711_CSF",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "399",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 20617,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298731.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "475",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "409",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298731.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "409"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 20488,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        },
+        {
+            "study": {
+                "study_title": "Palanichamy et al., Immunoglobulin class-switched B cells provide an active immune axis between CNS and periphery in multiple sclerosis",
+                "lab_name": "von Buedingen Lab, Department of Neurology, University of California San Francisco",
+                "pub_ids": "PMID: 25100740",
+                "study_id": "PRJNA248411",
+                "study_type": {
+                    "label": "Study",
+                    "id": "NCIT:C63536"
+                },
+                "study_description": "Multiple Sclerosis Study",
+                "inclusion_exclusion_criteria": null,
+                "grants": null,
+                "study_contact": null,
+                "collected_by": "Hans-Christian.vonBuedingen@ucsf.edu",
+                "lab_address": "University of California San Francisco (UCSF), San Francisco, CA 94148 USA",
+                "submitted_by": "Palanichamy, Apeltsin et al ",
+                "keywords_study": [
+                    "contains_ig"
+                ],
+                "adc_publish_date": null,
+                "adc_update_date": null
+            },
+            "subject": {
+                "diagnosis": [
+                    {
+                        "disease_diagnosis": {
+                            "label": "multiple sclerosis",
+                            "id": "DOID:2377"
+                        },
+                        "study_group_description": "Case",
+                        "disease_length": null,
+                        "disease_stage": null,
+                        "prior_therapies": null,
+                        "immunogen": null,
+                        "intervention": null,
+                        "medical_history": null
+                    }
+                ],
+                "subject_id": "43113",
+                "synthetic": false,
+                "species": {
+                    "label": "Homo sapiens",
+                    "id": "NCBITAXON:9606"
+                },
+                "sex": "female",
+                "age_min": 31,
+                "age_max": 31,
+                "age_unit": {
+                    "label": "year",
+                    "id": "UO:0000036"
+                },
+                "age_event": null,
+                "age": "31 years",
+                "ancestry_population": null,
+                "ethnicity": null,
+                "race": null,
+                "strain_name": null,
+                "linked_subjects": null,
+                "link_type": null,
+                "genotype": {
+                    "receptor_genotype_set": {
+                        "receptor_genotype_set_id": null,
+                        "genotype_class_list": [
+                            {
+                                "receptor_genotype_id": null,
+                                "locus": null,
+                                "documented_alleles": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "undocumented_alleles": [
+                                    {
+                                        "allele_name": null,
+                                        "sequence": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "deleted_genes": [
+                                    {
+                                        "label": null,
+                                        "germline_set_ref": null,
+                                        "phasing": null
+                                    }
+                                ],
+                                "inference_process": null
+                            }
+                        ]
+                    },
+                    "mhc_genotype_set": {
+                        "mhc_genotype_set_id": null,
+                        "mhc_genotype_class_list": [
+                            {
+                                "mhc_genotype_id": null,
+                                "genotype_class": null,
+                                "germline_alleles": [
+                                    {
+                                        "gene_symbol": null,
+                                        "germline_set_ref": null
+                                    }
+                                ],
+                                "genotype_process": null
+                            }
+                        ]
+                    }
+                }
+            },
+            "sample": [
+                {
+                    "tissue": {
+                        "label": "blood",
+                        "id": "UBERON:0000178"
+                    },
+                    "pcr_target": [
+                        {
+                            "pcr_target_locus": "IGH",
+                            "forward_pcr_primer_target_location": "IgM-VH, IgG-VH",
+                            "reverse_pcr_primer_target_location": "IgG, IgM isotype specific reverse primers"
+                        }
+                    ],
+                    "cell_subset": {
+                        "label": null,
+                        "id": null
+                    },
+                    "cell_phenotype": null,
+                    "sample_id": "43113_PBMC",
+                    "template_class": "RNA",
+                    "sequencing_platform": "454 GS FLX Titanium",
+                    "sample_processing_id": "401",
+                    "sample_type": null,
+                    "anatomic_site": null,
+                    "disease_state_sample": "Multiple Sclerosis",
+                    "collection_time_point_relative": "Time 0",
+                    "collection_time_point_relative_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "collection_time_point_reference": "Sample collection",
+                    "biomaterial_provider": null,
+                    "tissue_processing": null,
+                    "cell_species": {
+                        "label": "Homo sapiens",
+                        "id": "NCBITAXON:9606"
+                    },
+                    "single_cell": false,
+                    "cell_number": null,
+                    "cells_per_reaction": 1000000000,
+                    "cell_storage": false,
+                    "cell_quality": null,
+                    "cell_isolation": null,
+                    "cell_processing_protocol": null,
+                    "template_quality": null,
+                    "template_amount": null,
+                    "template_amount_unit": {
+                        "label": null,
+                        "id": null
+                    },
+                    "library_generation_method": "PCR",
+                    "library_generation_protocol": null,
+                    "library_generation_kit_version": null,
+                    "complete_sequences": "partial",
+                    "physical_linkage": "none",
+                    "sequencing_run_id": null,
+                    "total_reads_passing_qc_filter": 179282,
+                    "sequencing_facility": null,
+                    "sequencing_run_date": null,
+                    "sequencing_kit": null,
+                    "sequencing_files": {
+                        "file_type": "fasta",
+                        "filename": "filtered_SRR1298741.fasta",
+                        "read_direction": null,
+                        "read_length": null,
+                        "paired_filename": null,
+                        "paired_read_direction": null,
+                        "paired_read_length": null
+                    }
+                }
+            ],
+            "repertoire_id": "483",
+            "repertoire_name": null,
+            "repertoire_description": null,
+            "data_processing": [
+                {
+                    "data_processing_id": "411",
+                    "primary_annotation": true,
+                    "software_versions": "SRA Toolkit 2.8.2-1, cutadapt 1.14, fastqc 0.11.5, pear 0.9.10, biopython 2.7.13, IMGT\/V-QUEST 3.4.8",
+                    "paired_reads_assembly": null,
+                    "quality_thresholds": "30",
+                    "primer_match_cutoffs": null,
+                    "collapsing_method": null,
+                    "data_processing_protocols": "Barcodes and primers removed and igblast\/imgt annotation of quality filtered sequences",
+                    "data_processing_files": [
+                        "SRR1298741.txz"
+                    ],
+                    "germline_database": "IMGT",
+                    "analysis_provenance_id": "411"
+                }
+            ],
+            "ir_real_rest_service_id": 19,
+            "ir_ir_sequence_count": 177810,
+            "ir_stats": 1,
+            "ir_rest_service_id": 22,
+            "ir_rest_service_name": "iReceptor Public Archive",
+            "ir_ncbi_url": "https:\/\/www.ncbi.nlm.nih.gov\/bioproject\/?term=PRJNA248411",
+            "ir_study_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25100740"
+        }
+    ]
+}
