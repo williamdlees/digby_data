@@ -1,1 +1,0 @@
-cat ../../../munge/AIRR-seq/Human_TRB/DS1/P4.yml ../../../munge/AIRR-seq/Human_TRB/DS2/P16.yml ../../../munge/AIRR-seq/Human_TRB/DS2/P17.yml ../../../munge/AIRR-seq/Human_TRB/DS2/P18.yml ../../../munge/AIRR-seq/Human_TRB/DS3/P19.yml ../../../munge/AIRR-seq/Human_TRB/DS4/P20.yml >projects.yml
