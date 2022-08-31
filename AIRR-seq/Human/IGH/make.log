@@ -324,6 +324,7 @@ adding  allele IGHV4-39*02_g164c_g191a_c258g
 adding ambiguous allele IGHV5-10-1*01_03
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P13/P13_I3_S1/P13_I3_S1_genotype.tsv
 adding  allele IGHV1-8*01_c90g_c177g_a241g_g284c
+adding ambiguous allele IGHV3/OR16-10*01_03
 adding ambiguous allele IGHV3-20*03_04_g119c_c120t_c134t_g141a_t160g_a169g_t186c_t189c_c192g_a204c_c230t_a250c_a263t_a270g_g284c_g303c
 adding ambiguous allele IGHV3-52*01_03
 adding ambiguous allele IGHV3-71*01_04
@@ -452,7 +453,6 @@ adding ambiguous allele IGHV1-58*01_03
 adding  allele IGHV4-31*02_c198t
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I11_S1/P15_I11_S1_genotype.tsv
 adding  allele IGHV1-8*02_a250g
-adding ambiguous allele IGHV3/OR16-10*01_03
 adding ambiguous allele IGHV3-22*01_02
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I12_S1/P15_I12_S1_genotype.tsv
 adding ambiguous allele IGHV4-28*02_05_g80t_a109c_g162a_t163c_a175g_g191c_c210a_g238a_c287a
@@ -461,6 +461,7 @@ adding ambiguous allele IGHV6-1*01_02_a163c_c174t_g176t_a207c_c230t_a275c
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I13_S1/P15_I13_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I14_S1/P15_I14_S1_genotype.tsv
 adding  allele IGHV1-18*01_g107a_g119a_t167a_c173g_g210a_g254a
+adding ambiguous allele IGHV3/OR16-10*01_02_03
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I15_S1/P15_I15_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I16_S1/P15_I16_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\IGH\samples/P15/P15_I1_S1/P15_I1_S1_genotype.tsv

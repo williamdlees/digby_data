@@ -213,223 +213,223 @@ status: Calculating gene frequencies
 status: Calculating patterns
 status: Creating confidence reports
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I100_S1/P1_I100_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I10_S1/P1_I10_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV2-11*01_T313A_T313A|IGLV2-11*01_T313A,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV2-11*01_T313A_T313A|IGLV2-11*01_T313A,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I14_S1/P1_I14_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I17_S1/P1_I17_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C,IGLV1-47*02_A207C|IGLV1-47*02_A207C_A207C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C,IGLV1-47*02_A207C_A207C|IGLV1-47*02_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I19_S1/P1_I19_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV7-43*01_G159A_G159A|IGLV7-43*01_G159A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV7-43*01_G159A|IGLV7-43*01_G159A_G159A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I20_S1/P1_I20_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I21_S1/P1_I21_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I22_S1/P1_I22_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-37*01_G103A_G103A|IGLV5-37*01_G103A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-37*01_G103A|IGLV5-37*01_G103A_G103A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I23_S1/P1_I23_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I24_S1/P1_I24_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I31_S1/P1_I31_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I37_S1/P1_I37_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C,IGLV2-14*01_T213C_T214C_A220G_T213C_T214C_A220G|IGLV2-14*01_T213C_T214C_A220G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C,IGLV2-14*01_T213C_T214C_A220G|IGLV2-14*01_T213C_T214C_A220G_T213C_T214C_A220G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I38_S1/P1_I38_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I3_S1/P1_I3_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-37*01_G103A_G103A|IGLV5-37*01_G103A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-37*01_G103A|IGLV5-37*01_G103A_G103A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I41_S1/P1_I41_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I44_S1/P1_I44_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I45_S1/P1_I45_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I46_S1/P1_I46_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I47_S1/P1_I47_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I48_S1/P1_I48_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I49_S1/P1_I49_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV3-1*01_G194C|IGLV3-1*01_G194C_G194C,IGLV3-1*01_G194A|IGLV3-1*01_G194A_G194A,IGLV3-9*02_G52A_C82A_T106A_A107G_G113T_A194G_G52A_C82A_T106A_A107G_G113T_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_G113T_A194G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV3-1*01_G194C|IGLV3-1*01_G194C_G194C,IGLV3-1*01_G194A|IGLV3-1*01_G194A_G194A,IGLV3-9*02_G52A_C82A_T106A_A107G_G113T_A194G_G52A_C82A_T106A_A107G_G113T_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_G113T_A194G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I4_S1/P1_I4_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV2-14*01_T213C_T214C_A220G_T213C_T214C_A220G|IGLV2-14*01_T213C_T214C_A220G,IGLV10-54*01_A207C_A228C_A207C_A228C|IGLV10-54*01_A207C_A228C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV2-14*01_T213C_T214C_A220G|IGLV2-14*01_T213C_T214C_A220G_T213C_T214C_A220G,IGLV10-54*01_A207C_A228C_A207C_A228C|IGLV10-54*01_A207C_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I53_S1/P1_I53_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I54_S1/P1_I54_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I57_S1/P1_I57_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I58_S1/P1_I58_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I59_S1/P1_I59_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I5_S1/P1_I5_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV2-14*04EXT3_T198G|IGLV2-14*04EXT3_T198G_T198G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV2-14*04EXT3_T198G|IGLV2-14*04EXT3_T198G_T198G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I60_S1/P1_I60_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_C146G_C146G|IGLV1-44*01_C146G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_C146G_C146G|IGLV1-44*01_C146G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I61_S1/P1_I61_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I62_S1/P1_I62_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV5-37*01_G103A_G103A|IGLV5-37*01_G103A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV5-37*01_G103A|IGLV5-37*01_G103A_G103A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I64_S1/P1_I64_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I65_S1/P1_I65_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-40*01_G38A|IGLV1-40*01_G38A_G38A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-40*01_G38A|IGLV1-40*01_G38A_G38A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I66_S1/P1_I66_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I67_S1/P1_I67_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T,IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G,IGLV4-60*02_C259T_T287C_C259T_T287C|IGLV4-60*02_C259T_T287C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T,IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G,IGLV4-60*02_C259T_T287C|IGLV4-60*02_C259T_T287C_C259T_T287C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I68_S1/P1_I68_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I69_S1/P1_I69_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C,IGLV3-21*04_T166G|IGLV3-21*04_T166G_T166G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C,IGLV3-21*04_T166G_T166G|IGLV3-21*04_T166G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I6_S1/P1_I6_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I70_S1/P1_I70_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I71_S1/P1_I71_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I72_S1/P1_I72_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_G54C|IGLV6-57*03_G54C_G54C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_G54C|IGLV6-57*03_G54C_G54C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I74_S1/P1_I74_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I78_S1/P1_I78_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_C215T|IGLV1-44*01_C215T_C215T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_C215T|IGLV1-44*01_C215T_C215T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I79_S1/P1_I79_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I80_S1/P1_I80_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I81_S1/P1_I81_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I83_S1/P1_I83_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-37*01_G103A_G103A|IGLV5-37*01_G103A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-37*01_G103A|IGLV5-37*01_G103A_G103A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I85_S1/P1_I85_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV1-40*01_G38A|IGLV1-40*01_G38A_G38A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV1-40*01_G38A|IGLV1-40*01_G38A_G38A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I86_S1/P1_I86_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-39*01_G198A|IGLV5-39*01_G198A_G198A,IGLV8-61*01_C223A_C223A|IGLV8-61*01_C223A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV5-39*01_G198A_G198A|IGLV5-39*01_G198A,IGLV8-61*01_C223A|IGLV8-61*01_C223A_C223A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I87_S1/P1_I87_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV5-37*01_G103A_G103A|IGLV5-37*01_G103A,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV5-37*01_G103A|IGLV5-37*01_G103A_G103A,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I8_S1/P1_I8_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I92_S1/P1_I92_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I93_S1/P1_I93_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I94_S1/P1_I94_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I95_S1/P1_I95_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I96_S1/P1_I96_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C,IGLV2-14*01_A207C_A207C|IGLV2-14*01_A207C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C,IGLV2-14*01_A207C|IGLV2-14*01_A207C_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I98_S1/P1_I98_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I9_S1/P1_I9_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T,IGLV2-14*01_T213C_T214C_A220G_T213C_T214C_A220G|IGLV2-14*01_T213C_T214C_A220G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T,IGLV2-14*01_T213C_T214C_A220G|IGLV2-14*01_T213C_T214C_A220G_T213C_T214C_A220G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I11_S1/P11_I11_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV7-46*01_A213G_A213G|IGLV7-46*01_A213G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV7-46*01_A213G|IGLV7-46*01_A213G_A213G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I12_S1/P11_I12_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I13_S1/P11_I13_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I15_S1/P11_I15_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I17_S1/P11_I17_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T,IGLV2-18*02_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A|IGLV2-18*02_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T,IGLV2-18*02_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A|IGLV2-18*02_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I18_S1/P11_I18_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I1_S1/P11_I1_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I20_S1/P11_I20_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I23_S1/P11_I23_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I24_S1/P11_I24_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV2-18*02_G234C_G234C|IGLV2-18*02_G234C,IGLV2-5*01_A200G|IGLV2-5*02_C255T|IGLV2-5*02_C255T_C255T|IGLV2-5*01_A200G_A200G,IGLV3-27*01_T313C_C315A_T318A|IGLV3-27*01_T313C_C315A_T318A_T313C_C315A_T318A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV2-18*02_G234C_G234C|IGLV2-18*02_G234C,IGLV2-5*02_C255T_C255T|IGLV2-5*01_A200G|IGLV2-5*01_A200G_A200G|IGLV2-5*02_C255T,IGLV3-27*01_T313C_C315A_T318A_T313C_C315A_T318A|IGLV3-27*01_T313C_C315A_T318A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I25_S1/P11_I25_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I26_S1/P11_I26_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I2_S1/P11_I2_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I30_S1/P11_I30_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-40*01_G286T_G286T|IGLV1-40*01_G286T,IGLV2-23*01_G93T_A103G_C112T_T113A_G168T_G170T_G93T_A103G_C112T_T113A_G168T_G170T|IGLV2-23*01_G93T_A103G_C112T_T113A_G168T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-40*01_G286T_G286T|IGLV1-40*01_G286T,IGLV2-23*01_G93T_A103G_C112T_T113A_G168T_G170T|IGLV2-23*01_G93T_A103G_C112T_T113A_G168T_G170T_G93T_A103G_C112T_T113A_G168T_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I31_S1/P11_I31_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV2-14*04EXT3_T198G|IGLV2-14*04EXT3_T198G_T198G,IGLV2-11*01_T168G_T168G|IGLV2-11*01_T168G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV2-14*04EXT3_T198G|IGLV2-14*04EXT3_T198G_T198G,IGLV2-11*01_T168G_T168G|IGLV2-11*01_T168G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I32_S1/P11_I32_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I33_S1/P11_I33_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I34_S1/P11_I34_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A,IGLV2-18*02_G234C_G234C|IGLV2-18*02_G234C,IGLV2-5*01_G309C_G309C|IGLV2-5*01_G309C,IGLV2-14*01_T198G_A322G_A325G|IGLV2-14*01_T198G_A322G_A325G_T198G_A322G_A325G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A,IGLV2-18*02_G234C_G234C|IGLV2-18*02_G234C,IGLV2-5*01_G309C_G309C|IGLV2-5*01_G309C,IGLV2-14*01_T198G_A322G_A325G_T198G_A322G_A325G|IGLV2-14*01_T198G_A322G_A325G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I35_S1/P11_I35_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T,IGLV3-25*02_C154T|IGLV3-25*02_C154T_C154T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T,IGLV3-25*02_C154T_C154T|IGLV3-25*02_C154T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I36_S1/P11_I36_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV1-40*01_G286T_G286T|IGLV1-40*01_G286T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV1-40*01_G286T_G286T|IGLV1-40*01_G286T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I38_S1/P11_I38_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I39_S1/P11_I39_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I40_S1/P11_I40_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV2-5*01_G309C_G309C|IGLV2-5*01_G309C
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV2-5*01_G309C_G309C|IGLV2-5*01_G309C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I41_S1/P11_I41_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G,IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G,IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I42_S1/P11_I42_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I43_S1/P11_I43_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV2-14*04EXT3_T198G|IGLV2-14*04EXT3_T198G_T198G,IGLV1-47*02_G291A_G291A|IGLV1-47*02_G291A,IGLV3-21*04_A27G_A27G|IGLV3-21*04_A27G
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV2-14*04EXT3_T198G|IGLV2-14*04EXT3_T198G_T198G,IGLV1-47*02_G291A|IGLV1-47*02_G291A_G291A,IGLV3-21*04_A27G_A27G|IGLV3-21*04_A27G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I5_S1/P11_I5_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A,IGLV2-23*01_G170T_A270C_T327C_T330C|IGLV2-23*01_G170T_A270C_T327C_T330C_G170T_A270C_T327C_T330C,IGLV3-16*01_T314A_T314A|IGLV3-16*01_T314A
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A,IGLV2-23*01_G170T_A270C_T327C_T330C|IGLV2-23*01_G170T_A270C_T327C_T330C_G170T_A270C_T327C_T330C,IGLV3-16*01_T314A_T314A|IGLV3-16*01_T314A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I7_S1/P11_I7_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I9_S1/P11_I9_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T|IGLV2-23*01_G170T_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_G170T_G170T|IGLV2-23*01_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I12_S1/P1_I12_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I26_S1/P1_I26_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I27_S1/P1_I27_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV1-36*01_A110G_C133G_A138G_A142C_A194G|IGLV1-36*01_A110G_C133G_A138G_A142C_A194G_A110G_C133G_A138G_A142C_A194G
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV1-36*01_A110G_C133G_A138G_A142C_A194G_A110G_C133G_A138G_A142C_A194G|IGLV1-36*01_A110G_C133G_A138G_A142C_A194G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I29_S1/P1_I29_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I30_S1/P1_I30_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I35_S1/P1_I35_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I39_S1/P1_I39_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I42_S1/P1_I42_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I50_S1/P1_I50_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I51_S1/P1_I51_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I55_S1/P1_I55_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I56_S1/P1_I56_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-47*01_G46A_G46A|IGLV1-47*01_G46A
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-47*01_G46A|IGLV1-47*01_G46A_G46A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I73_S1/P1_I73_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I75_S1/P1_I75_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV2-23*01_T32A_T32A|IGLV2-23*01_T32A
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV2-23*01_T32A|IGLV2-23*01_T32A_T32A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I89_S1/P1_I89_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-40*01_C275G|IGLV1-40*01_C275G_C275G,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV1-40*01_C275G|IGLV1-40*01_C275G_C275G,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I28_S1/P11_I28_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV2-23*01_T32A_T32A|IGLV2-23*01_T32A,IGLV2-5*01_A200G|IGLV2-5*02_C255T|IGLV2-5*02_C255T_C255T|IGLV2-5*01_A200G_A200G
+missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV2-23*01_T32A|IGLV2-23*01_T32A_T32A,IGLV2-5*02_C255T_C255T|IGLV2-5*01_A200G|IGLV2-5*01_A200G_A200G|IGLV2-5*02_C255T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I3_S1/P11_I3_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C,IGLV2-11*01_G259A|IGLV2-11*01_G259A_G259A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I4_S1/P11_I4_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*03_G74C_G74C|IGLV3-25*03_G74C,IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I11_S1/P1_I11_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-8*01_C257T|IGLV2-8*01_C257T_C257T
+missing novels , novels listed as non-novel: IGLV2-8*01_C257T_C257T|IGLV2-8*01_C257T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I99_S1/P1_I99_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-8*01_C257T|IGLV2-8*01_C257T_C257T
+missing novels , novels listed as non-novel: IGLV2-8*01_C257T_C257T|IGLV2-8*01_C257T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I1_S1/P1_I1_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C,IGLV2-23*01_T32A_T32A|IGLV2-23*01_T32A,IGLV2-8*01_C136T|IGLV2-8*01_C136T_C136T,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
+missing novels , novels listed as non-novel: IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C,IGLV2-23*01_T32A|IGLV2-23*01_T32A_T32A,IGLV2-8*01_C136T_C136T|IGLV2-8*01_C136T,IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I2_S1/P1_I2_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV10-54*01_A228C|IGLV10-54*01_A228C_A228C
+missing novels , novels listed as non-novel: IGLV10-54*01_A228C_A228C|IGLV10-54*01_A228C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I43_S1/P1_I43_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I52_S1/P1_I52_S1_ogrdb_report.csv:
@@ -441,33 +441,33 @@ missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I88_S1/P1_I88_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I91_S1/P1_I91_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-21*04_T166G|IGLV3-21*04_T166G_T166G
+missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV3-21*04_T166G_T166G|IGLV3-21*04_T166G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I97_S1/P1_I97_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-44*01_G33A_G33A|IGLV1-44*01_G33A,IGLV1-47*02_G291A_G291A|IGLV1-47*02_G291A
+missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G,IGLV1-44*01_G33A_G33A|IGLV1-44*01_G33A,IGLV1-47*02_G291A|IGLV1-47*02_G291A_G291A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I22_S1/P11_I22_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV6-57*03_C21G|IGLV6-57*03_C21G_C21G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I15_S1/P1_I15_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-44*01_A207C|IGLV1-44*01_A207C_A207C,IGLV1-40*01_G38A|IGLV1-40*01_G38A_G38A
+missing novels , novels listed as non-novel: IGLV1-44*01_A207C_A207C|IGLV1-44*01_A207C,IGLV1-40*01_G38A|IGLV1-40*01_G38A_G38A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I16_S1/P1_I16_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-40*01_C275G|IGLV1-40*01_C275G_C275G,IGLV2-23*01_T32A_T32A|IGLV2-23*01_T32A
+missing novels , novels listed as non-novel: IGLV1-40*01_C275G|IGLV1-40*01_C275G_C275G,IGLV2-23*01_T32A|IGLV2-23*01_T32A_T32A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I10_S1/P11_I10_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-40*01_C275G|IGLV1-40*01_C275G_C275G,IGLV2-18*02_G168T_G168T|IGLV2-18*02_G168T
+missing novels , novels listed as non-novel: IGLV1-40*01_C275G|IGLV1-40*01_C275G_C275G,IGLV2-18*02_G168T|IGLV2-18*02_G168T_G168T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I63_S1/P1_I63_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_T32A_T32A|IGLV2-23*01_T32A
+missing novels , novels listed as non-novel: IGLV2-23*01_T32A|IGLV2-23*01_T32A_T32A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I16_S1/P11_I16_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_T32A_T32A|IGLV2-23*01_T32A,IGLV1-47*02_G284A_C288T|IGLV1-47*02_G284A_C288T_G284A_C288T,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A,IGLV2-18*02_G234C_G234C|IGLV2-18*02_G234C,IGLV2-23*01_G168C_G170T_G168C_G170T|IGLV2-23*01_G168C_G170T
+missing novels , novels listed as non-novel: IGLV2-23*01_T32A|IGLV2-23*01_T32A_T32A,IGLV1-47*02_G284A_C288T_G284A_C288T|IGLV1-47*02_G284A_C288T,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A,IGLV2-18*02_G234C_G234C|IGLV2-18*02_G234C,IGLV2-23*01_G168C_G170T|IGLV2-23*01_G168C_G170T_G168C_G170T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I8_S1/P11_I8_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-10*01_G115C|IGLV3-10*01_G115C_G115C,IGLV2-8*01_G271A_G271A|IGLV2-8*01_G271A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I19_S1/P11_I19_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-47*01_G39T_G39T|IGLV1-47*01_G39T
+missing novels , novels listed as non-novel: IGLV1-47*01_G39T|IGLV1-47*01_G39T_G39T
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I32_S1/P1_I32_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-1*01_G153A_G194A_G153A_G194A|IGLV3-1*01_G153A_G194A
+missing novels , novels listed as non-novel: IGLV3-1*01_G153A_G194A|IGLV3-1*01_G153A_G194A_G153A_G194A
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I34_S1/P1_I34_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV3-25*02_A81G|IGLV3-25*02_A81G_A81G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I40_S1/P1_I40_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-9*02_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G
+missing novels , novels listed as non-novel: IGLV3-9*02_G52A_C82A_T106A_A107G_A194G_G52A_C82A_T106A_A107G_A194G|IGLV3-9*02_G52A_C82A_T106A_A107G_A194G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I37_S1/P11_I37_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-1*01_G194C|IGLV3-1*01_G194C_G194C,IGLV3-1*01_G194A|IGLV3-1*01_G194A_G194A,IGLV2-23*01_G168C_G170T_G168C_G170T|IGLV2-23*01_G168C_G170T,IGLV3-12*02_C195A_A267G_C195A_A267G|IGLV3-12*02_C195A_A267G
+missing novels , novels listed as non-novel: IGLV3-1*01_G194C|IGLV3-1*01_G194C_G194C,IGLV3-1*01_G194A|IGLV3-1*01_G194A_G194A,IGLV2-23*01_G168C_G170T|IGLV2-23*01_G168C_G170T_G168C_G170T,IGLV3-12*02_C195A_A267G|IGLV3-12*02_C195A_A267G_C195A_A267G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I82_S1/P1_I82_S1_ogrdb_report.csv:
 missing novels , novels listed as non-novel: IGLV1-36*01_C330G|IGLV1-36*01_C330G_C330G
 Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I14_S1/P11_I14_S1_ogrdb_report.csv:
