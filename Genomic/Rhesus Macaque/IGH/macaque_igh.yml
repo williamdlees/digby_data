@@ -2,6 +2,7 @@ Reference_sets:
     - cirelli_IGH_gapped.fasta
 Studies:
     G1:
+        Id: Rhemac10
         Study: Rhemac10 reference assembly
         Date: 2019-01-15
         Institute: Washington University School of Medicine
@@ -28,6 +29,7 @@ Studies:
                         Start_CoOrd: 165128660
                         End_CoOrd: 169868564
     G2:
+        Id: RUp15
         Study: RUp15
         Date: 2019-01-11
         Institute: La Jolla Institute for Immunology
