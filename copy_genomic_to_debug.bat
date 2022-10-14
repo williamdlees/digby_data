@@ -1,0 +1,5 @@
+cp "Genomic/Rhesus Macaque/IGH/db.sqlite3" "../digby_backend/static/study_data/Genomic/db/Rhesus Macaque/IGH/db.sqlite3"
+cp "Genomic/Rhesus Macaque/IGH/db_description.txt" "../digby_backend/static/study_data/Genomic/db/Rhesus Macaque/IGH/db_description.txt"
+rm -rf "../digby_backend/static/study_data/Genomic/samples/Rhesus Macaque/IGH"
+mkdir "../digby_backend/static/study_data/Genomic/samples/Rhesus Macaque/IGH"
+unzip -q "Genomic/Rhesus Macaque/IGH/samples.zip" -d "../digby_backend/static/study_data/Genomic/samples/Rhesus Macaque/IGH"

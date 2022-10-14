@@ -1,7 +1,8 @@
 Reference_sets: 
     - cirelli_IGH_gapped.fasta
+Reference_set_version: 2019-05-16 (as published)    
 Studies:
-    G1:
+    P24:
         Id: Rhemac10
         Study: Rhemac10 reference assembly
         Date: 2019-01-15
@@ -11,7 +12,7 @@ Studies:
         Reference: https://pubmed.ncbi.nlm.nih.gov/22367542/
         Contact: jhughes@wi.mit.edu
         Subjects:
-            G1_I1:
+            P24_I1:
                 Name_in_study:
                 Age:
                 Sex:
@@ -28,7 +29,7 @@ Studies:
                         Chromosome: 7
                         Start_CoOrd: 165128660
                         End_CoOrd: 169868564
-    G2:
+    P25:
         Id: RUp15
         Study: RUp15
         Date: 2019-01-11
@@ -41,7 +42,7 @@ Studies:
         Start_CoOrd:
         End_CoOrd:
         Subjects:
-            G2_I1:
+            P25_I1:
                 Name_in_study:
                 Age:
                 Sex:
