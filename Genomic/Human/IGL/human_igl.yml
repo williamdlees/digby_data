@@ -1,0 +1,827 @@
+Reference_assemblies:
+  Human_IGL:
+    chromosome: 22
+    end: 0
+    locations:
+    - GENE.bed
+    - HEPTAMER.bed
+    - NONAMER.bed
+    - SPACER.bed
+    - EXON_1.bed
+    - EXON_2.bed
+    - INTRON.bed
+    - UTR.bed
+    name: chr22
+    reference: ''
+    sense: '+'
+    sequence_file: chr22.fa
+    start: 0
+Reference_sets:
+- Homo_sapiens_IGLV_gapped.fasta
+- Homo_sapiens_IGLJ.fasta
+Reference_set_version: IMGT:Homo sapiens:2022-08-15
+Studies:
+  P26:
+    Contact: corey.watson@louisville.edu
+    Date: '2022-07-21'
+    Id: Capture
+    Institute: University of Louisville
+    Reference: https://doi.org/10.1101/2022.07.20.500849
+    Researcher: Corey T. Watson
+    Study: Characterization of the immunoglobulin lambda chain locus from diverse
+      populations reveals extensive genetic variation - assemblies derived from IG-Capture
+    Study_description: Characterization of the immunoglobulin lambda chain locus from
+      diverse populations reveals extensive genetic variation
+    Subjects:
+      P26_I1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01104
+        Mother_in_study: HG01105
+        Name_in_study: HG01106
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P26_I10:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: NA18517
+        Pop: YRI
+        Population: Yoruban
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P26_I2:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: HG01256
+        Mother_in_study: HG01257
+        Name_in_study: HG01258
+        Pop: CLM
+        Population: Columbian
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P26_I3:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: HG02061
+        Mother_in_study: HG02060
+        Name_in_study: HG02059
+        Pop: KHV
+        Population: Vietnamese
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EAS
+      P26_I4:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: HG02061
+        Pop: KHV
+        Population: Vietnamese
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: EAS
+      P26_I5:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02570
+        Mother_in_study: HG02571
+        Name_in_study: HG02572
+        Pop: GWD
+        Population: "Gambian in Western Division \xE2\u20AC\u201C Mandinka "
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+      P26_I6:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: NA12155
+        Mother_in_study: NA12156
+        Name_in_study: NA10831
+        Pop: CEU
+        Population: European (CEU)
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EUR
+      P26_I7:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: NA18507
+        Pop: YRI
+        Population: Yoruban
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+      P26_I8:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: NA18508
+        Pop: YRI
+        Population: Yoruban
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P26_I9:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Capture
+        DNA_source: LCL
+        Father_in_study: NA18516
+        Mother_in_study: NA18517
+        Name_in_study: NA18515
+        Pop: YRI
+        Population: Yoruban
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+  P27:
+    Contact: egarris5@uthsc.edu
+    Date: '2022-07-09'
+    Id: Pangenome
+    Institute: Human Pangenome Reference Consortium
+    Reference: https://doi.org/10.1101/2022.07.09.499321
+    Researcher: Erik Garrison, Tobias Marschall, Ira Hall, Heng Li, Benedict Paten
+    Study: A Draft Human Pangenome Reference
+    Study_description: Characterization of the immunoglobulin lambda chain locus from
+      diverse populations reveals extensive genetic variation
+    Subjects:
+      P27_I1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: HG005
+        Pop: CHS
+        Population: 'Han Chinese South '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: EAS
+      P27_I10:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01173
+        Mother_in_study: HG01174
+        Name_in_study: HG01175
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I11:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01241
+        Mother_in_study: HG01242
+        Name_in_study: HG01243
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P27_I12:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01356
+        Mother_in_study: HG01357
+        Name_in_study: HG01358
+        Pop: CLM
+        Population: "Colombian in Medell\xC3\xADn, Colombia "
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P27_I13:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01359
+        Mother_in_study: HG01360
+        Name_in_study: HG01361
+        Pop: CLM
+        Population: "Colombian in Medell\xC3\xADn, Colombia "
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I14:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01890
+        Mother_in_study: HG01889
+        Name_in_study: HG01891
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I15:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01926
+        Mother_in_study: HG01927
+        Name_in_study: HG01928
+        Pop: PEL
+        Population: 'Peruvian in Lima Peru '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P27_I16:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01977
+        Mother_in_study: HG01976
+        Name_in_study: HG01978
+        Pop: PEL
+        Population: 'Peruvian in Lima Peru '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I17:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02053
+        Mother_in_study: HG02054
+        Name_in_study: HG02055
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+      P27_I18:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02082
+        Mother_in_study: HG02081
+        Name_in_study: HG02080
+        Pop: KHV
+        Population: 'Kinh in Ho Chi Minh City, Vietnam '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EAS
+      P27_I19:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02107
+        Mother_in_study: HG02108
+        Name_in_study: HG02109
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I2:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG00619
+        Mother_in_study: HG00620
+        Name_in_study: HG00621
+        Pop: CHS
+        Population: 'Han Chinese South '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: EAS
+      P27_I20:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02143
+        Mother_in_study: HG02144
+        Name_in_study: HG02145
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+      P27_I21:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02146
+        Mother_in_study: HG02147
+        Name_in_study: HG02148
+        Pop: PEL
+        Population: 'Peruvian in Lima Peru '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I22:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02255
+        Mother_in_study: HG02256
+        Name_in_study: HG02257
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I23:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02484
+        Mother_in_study: HG02485
+        Name_in_study: HG02486
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+      P27_I24:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02557
+        Mother_in_study: HG02558
+        Name_in_study: HG02559
+        Pop: ACB
+        Population: 'African Caribbean in Barbados '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I25:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02570
+        Mother_in_study: HG02571
+        Name_in_study: HG02572
+        Pop: GWD
+        Population: "Gambian in Western Division \xE2\u20AC\u201C Mandinka "
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AFR
+      P27_I26:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02620
+        Mother_in_study: HG02621
+        Name_in_study: HG02622
+        Pop: GWD
+        Population: "Gambian in Western Division \xE2\u20AC\u201C Mandinka "
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I27:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02721
+        Mother_in_study: HG02722
+        Name_in_study: HG02723
+        Pop: GWD
+        Population: "Gambian in Western Division \xE2\u20AC\u201C Mandinka "
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I28:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG02884
+        Mother_in_study: HG02885
+        Name_in_study: HG02886
+        Pop: GWD
+        Population: "Gambian in Western Division \xE2\u20AC\u201C Mandinka "
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I29:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG03451
+        Mother_in_study: HG03452
+        Name_in_study: HG03453
+        Pop: MSL
+        Population: 'Mende in Sierra Leone '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I3:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG00671
+        Mother_in_study: HG00672
+        Name_in_study: HG00673
+        Pop: CHS
+        Population: 'Han Chinese South '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: EAS
+      P27_I30:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG03515
+        Mother_in_study: HG03514
+        Name_in_study: HG03516
+        Pop: ESN
+        Population: 'Esan in Nigeria '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I31:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: NA18877
+        Mother_in_study: NA18876
+        Name_in_study: NA18906
+        Pop: YRI
+        Population: 'Yoruba in Ibadan, Nigeria '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I32:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: NA19920
+        Mother_in_study: NA19921
+        Name_in_study: NA20129
+        Pop: ASW
+        Population: 'African Ancestry in SW USA '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P27_I4:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG00731
+        Mother_in_study: HG00732
+        Name_in_study: HG00733
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I5:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01047
+        Mother_in_study: HG00734
+        Name_in_study: HG00735
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I6:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01069
+        Mother_in_study: HG01070
+        Name_in_study: HG01071
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+      P27_I7:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01104
+        Mother_in_study: HG01105
+        Name_in_study: HG01106
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P27_I8:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01107
+        Mother_in_study: HG01108
+        Name_in_study: HG01109
+        Pop: PUR
+        Population: 'Puerto Rican in Puerto Rico '
+        Reference_assembly: chr22
+        Sex: male
+        Superpopulation: AMR
+      P27_I9:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: HG01121
+        Mother_in_study: HG01122
+        Name_in_study: HG01123
+        Pop: CLM
+        Population: "Colombian in Medell\xC3\xADn, Colombia "
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AMR
+  P28:
+    Contact: corey.watson@louisville.edu
+    Date: '2022-07-21'
+    Id: Hybrid
+    Institute: University of Louisville
+    Reference: https://doi.org/10.1101/2022.07.20.500849
+    Researcher: Corey T. Watson
+    Study: Characterization of the immunoglobulin lambda chain locus from diverse
+      populations reveals extensive genetic variation - assemblies derived by hybrid
+      assembly
+    Study_description: Characterization of the immunoglobulin lambda chain locus from
+      diverse populations reveals extensive genetic variation
+    Subjects:
+      P28_I1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Hybrid Assembly
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: NA12156
+        Pop: CEU
+        Population: European (CEU)
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EUR
+      P28_I2:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Hybrid Assembly
+        DNA_source: LCL
+        Father_in_study: NA12891
+        Mother_in_study: NA12892
+        Name_in_study: NA12878
+        Pop: CEU
+        Population: European (CEU)
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EUR
+      P28_I3:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Hybrid Assembly
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: NA18555
+        Pop: CHB
+        Population: Chinese
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EAS
+      P28_I4:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Hybrid Assembly
+        DNA_source: LCL
+        Father_in_study: '0'
+        Mother_in_study: '0'
+        Name_in_study: NA18956
+        Pop: JPT
+        Population: Japanese
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: EAS
+      P28_I5:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: Hybrid Assembly
+        DNA_source: LCL
+        Father_in_study: NA19128
+        Mother_in_study: NA19127
+        Name_in_study: NA19129
+        Pop: YRI
+        Population: Yoruban
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
+      P28_I6:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Assembly_method: HPRC
+        DNA_source: LCL
+        Father_in_study: NA19239
+        Mother_in_study: NA19238
+        Name_in_study: NA19240
+        Pop: YRI
+        Population: 'Yoruba in Ibadan, Nigeria '
+        Reference_assembly: chr22
+        Sex: female
+        Superpopulation: AFR
