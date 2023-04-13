@@ -26,7 +26,7 @@ Studies:
     Date: '2022-07-21'
     Id: Capture
     Institute: University of Louisville
-    Reference: https://doi.org/10.1101/2022.07.20.500849
+    Reference: http://dx.doi.org/10.1038/s41435-022-00188-2
     Researcher: Corey T. Watson
     Study: Characterization of the immunoglobulin lambda chain locus from diverse
       populations reveals extensive genetic variation - assemblies derived from IG-Capture
@@ -721,7 +721,7 @@ Studies:
     Date: '2022-07-21'
     Id: Hybrid
     Institute: University of Louisville
-    Reference: https://doi.org/10.1101/2022.07.20.500849
+    Reference: http://dx.doi.org/10.1038/s41435-022-00188-2
     Researcher: Corey T. Watson
     Study: Characterization of the immunoglobulin lambda chain locus from diverse
       populations reveals extensive genetic variation - assemblies derived by hybrid
