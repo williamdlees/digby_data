@@ -3,3 +3,8 @@ cp "Genomic/Rhesus Macaque/IGH/db_description.txt" "../digby_backend/static/stud
 rm -rf "../digby_backend/static/study_data/Genomic/samples/Rhesus Macaque/IGH"
 mkdir "../digby_backend/static/study_data/Genomic/samples/Rhesus Macaque/IGH"
 unzip -q "Genomic/Rhesus Macaque/IGH/samples.zip" -d "../digby_backend/static/study_data/Genomic/samples/Rhesus Macaque/IGH"
+cp "Genomic/Human/IGL/db.sqlite3" "../digby_backend/static/study_data/Genomic/db/Human/IGL/db.sqlite3"
+cp "Genomic/Human/IGL/db_description.txt" "../digby_backend/static/study_data/Genomic/db/Human/IGL/db_description.txt"
+rm -rf "../digby_backend/static/study_data/Genomic/samples/Human/IGL"
+mkdir "../digby_backend/static/study_data/Genomic/samples/Human/IGL"
+unzip -q "Genomic/Human/IGL/samples.zip" -d "../digby_backend/static/study_data/Genomic/samples/Human/IGL"

@@ -1,0 +1,4 @@
+Id,Study,Date,Institute,Study_description,Researcher,Reference,Contact
+B,Study B,2021-01-01,Institute B,A short description of study B,Researcher B,,researcher@B.edu
+SC,Study SC,2021-01-01,Institute SC,A short description of study SC,Researcher SC,,researcher@SC.edu
+W,Study W,2021-01-01,Institute W,A short description of study W,Researcher W,,researcher@W.edu

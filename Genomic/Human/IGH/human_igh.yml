@@ -1,0 +1,2211 @@
+Reference_assemblies:
+  Human_IGH:
+    chromosome: 7
+    end: 0
+    locations:
+    - GENE.bed
+    - HEPTAMER.bed
+    - NONAMER.bed
+    - SPACER.bed
+    - EXON_1.bed
+    - EXON_2.bed
+    - INTRON.bed
+    - UTR.bed
+    name: igh
+    reference: ''
+    sense: '-'
+    sequence_file: igh.fasta
+    start: 0
+Reference_sets:
+- Homo_sapiens_IGHV_gapped.fasta
+- Homo_sapiens_IGHD.fasta
+- Homo_sapiens_IGHJ.fasta
+Reference_set_version: IMGT:Homo sapiens:2021-12-12
+Studies:
+  P29:
+    Contact: researcher@W.edu
+    Date: '2021-01-01'
+    Id: W
+    Institute: Institute W
+    Reference: ''
+    Researcher: Researcher W
+    Study: Study W
+    Study_description: A short description of study W
+    Subjects:
+      P29_I1:
+        Age: 32
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 148.72
+        Name_in_study: 1
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I10:
+        Age: 24
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 2.36
+        Name_in_study: 109
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I11:
+        Age: 29
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 65.08
+        Name_in_study: 11
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUEL
+        Sex: not recorded
+      P29_I12:
+        Age: 48
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 65.81
+        Name_in_study: 110
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: SEQUEL
+        Sex: not recorded
+      P29_I13:
+        Age: 54
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 25.28
+        Name_in_study: 111
+        Reference_assembly: igh
+        Self-reported Ethnicity: African American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I14:
+        Age: 32
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 58.76
+        Name_in_study: 112
+        Reference_assembly: igh
+        Self-reported Ethnicity: AF/Frican American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I15:
+        Age: 31
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 58.46
+        Name_in_study: 114
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I16:
+        Age: 47
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 6.14
+        Name_in_study: 115
+        Reference_assembly: igh
+        Self-reported Ethnicity: AF/Frican American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I17:
+        Age: 35
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 114.47
+        Name_in_study: 117
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I18:
+        Age: 30
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 73.35
+        Name_in_study: 119
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I19:
+        Age: 26
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 35.08
+        Name_in_study: 120
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I2:
+        Age: 32
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 231.07
+        Name_in_study: 10
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I20:
+        Age: 20
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 67.78
+        Name_in_study: 121
+        Reference_assembly: igh
+        Self-reported Ethnicity: African American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I21:
+        Age: 37
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 31.4
+        Name_in_study: 122
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I22:
+        Age: 36
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 22.47
+        Name_in_study: 123
+        Reference_assembly: igh
+        Self-reported Ethnicity: AF/Frican American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I23:
+        Age: 30
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 9.27
+        Name_in_study: 124
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I24:
+        Age: 40
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 58.38
+        Name_in_study: 125
+        Reference_assembly: igh
+        Self-reported Ethnicity: AF/Frican American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I25:
+        Age: 31
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 56.59
+        Name_in_study: 127
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I26:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 56.34
+        Name_in_study: 128
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I27:
+        Age: 63
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 53.28
+        Name_in_study: 129
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I28:
+        Age: 29
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 63.03
+        Name_in_study: 130
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I29:
+        Age: 42
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 39.17
+        Name_in_study: 131
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I3:
+        Age: 43
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 47.83
+        Name_in_study: 100
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I30:
+        Age: 50
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 35.28
+        Name_in_study: 132
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I31:
+        Age: 21
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 58.27
+        Name_in_study: 133
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I32:
+        Age: 39
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 54.42
+        Name_in_study: 134
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I33:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 85.29
+        Name_in_study: 135
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I34:
+        Age: 54
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 29.73
+        Name_in_study: 14
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I35:
+        Age: 30
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 92.6
+        Name_in_study: 15
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUEL
+        Sex: not recorded
+      P29_I36:
+        Age: 28
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 141.21
+        Name_in_study: 19
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I37:
+        Age: 25
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 28.65
+        Name_in_study: 2
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I38:
+        Age: 58
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 42.29
+        Name_in_study: 22
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I39:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 47.25
+        Name_in_study: 23
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I4:
+        Age: 66
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 21.18
+        Name_in_study: 101
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I40:
+        Age: 46
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 145.1
+        Name_in_study: 25
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I41:
+        Age: 49
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Native Hawaiian or Other Pacific Islander
+        IGH_coverage: 50.54
+        Name_in_study: 26
+        Reference_assembly: igh
+        Self-reported Ethnicity: Native Hawaiian
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I42:
+        Age: 28
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 17.31
+        Name_in_study: 3
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Cambodian
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I43:
+        Age: 34
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 208.57
+        Name_in_study: 30
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I44:
+        Age: 41
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 138.38
+        Name_in_study: 32
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I45:
+        Age: 30
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 230.32
+        Name_in_study: 34
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I46:
+        Age: 32
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 58.08
+        Name_in_study: 35
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I47:
+        Age: 53
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 79.63
+        Name_in_study: 36
+        Reference_assembly: igh
+        Self-reported Ethnicity: Black or African American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I48:
+        Age: 50
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 248.58
+        Name_in_study: 37
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/L/Latino
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I49:
+        Age: 35
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 47.09
+        Name_in_study: 38
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I5:
+        Age: 23
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 58.07
+        Name_in_study: 102
+        Reference_assembly: igh
+        Self-reported Ethnicity: AF/Frican American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I50:
+        Age: 25
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 43.55
+        Name_in_study: 40
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I51:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 41.51
+        Name_in_study: 43
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I52:
+        Age: 29
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 37.99
+        Name_in_study: 45
+        Reference_assembly: igh
+        Self-reported Ethnicity: White/Spanish (European)
+        Sequencing_platform: SEQUEL
+        Sex: not recorded
+      P29_I53:
+        Age: 25
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 60.64
+        Name_in_study: 46
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I54:
+        Age: 41
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 27.84
+        Name_in_study: 48
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I55:
+        Age: 30
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 90.81
+        Name_in_study: 50
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/latino
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I56:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 69.24
+        Name_in_study: 51
+        Reference_assembly: igh
+        Self-reported Ethnicity: Black or African American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I57:
+        Age: 25
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 69.82
+        Name_in_study: 52
+        Reference_assembly: igh
+        Self-reported Ethnicity: Black or African American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I58:
+        Age: 38
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 52.86
+        Name_in_study: 53
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/L/Latino
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I59:
+        Age: 34
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 80.27
+        Name_in_study: 54
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/L/Latino
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I6:
+        Age: 60
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 89.31
+        Name_in_study: 103
+        Reference_assembly: igh
+        Self-reported Ethnicity: African American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I60:
+        Age: 42
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 203.87
+        Name_in_study: 55
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I61:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 46.76
+        Name_in_study: 56
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I62:
+        Age: 31
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 55.32
+        Name_in_study: 57
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I63:
+        Age: 23
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 113.86
+        Name_in_study: 59
+        Reference_assembly: igh
+        Self-reported Ethnicity: Black or African American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I64:
+        Age: 59
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 50.86
+        Name_in_study: 60
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I65:
+        Age: 31
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 174.81
+        Name_in_study: 61
+        Reference_assembly: igh
+        Self-reported Ethnicity: White/Asian - Chinese
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I66:
+        Age: 35
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 48.12
+        Name_in_study: 62
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I67:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 65.59
+        Name_in_study: 64
+        Reference_assembly: igh
+        Self-reported Ethnicity: BL/Lack or AF/Frican American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I68:
+        Age: 43
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 162.64
+        Name_in_study: 67
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I69:
+        Age: 46
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 70.27
+        Name_in_study: 69
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I7:
+        Age: 56
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 58.35
+        Name_in_study: 104
+        Reference_assembly: igh
+        Self-reported Ethnicity: African American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I70:
+        Age: 24
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 72.6
+        Name_in_study: 7
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/L/Latino
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I71:
+        Age: 27
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 145.11
+        Name_in_study: 70
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I72:
+        Age: 44
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 120.59
+        Name_in_study: 71
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I73:
+        Age: 37
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 96.83
+        Name_in_study: 75
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I74:
+        Age: 68
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 27.22
+        Name_in_study: 76
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I75:
+        Age: 58
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 81.23
+        Name_in_study: 79
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I76:
+        Age: 27
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 67.67
+        Name_in_study: 81
+        Reference_assembly: igh
+        Self-reported Ethnicity: BL/Lack or AF/Frican American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I77:
+        Age: 47
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 114.57
+        Name_in_study: 82
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I78:
+        Age: 51
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 154.17
+        Name_in_study: 83
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I79:
+        Age: 66
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 233.78
+        Name_in_study: 84
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I8:
+        Age: 39
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 22.32
+        Name_in_study: 105
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I80:
+        Age: 40
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 44.13
+        Name_in_study: 85
+        Reference_assembly: igh
+        Self-reported Ethnicity: Black or African American
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I81:
+        Age: 54
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 331.71
+        Name_in_study: 86
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I82:
+        Age: 44
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 61.6
+        Name_in_study: 88
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I83:
+        Age: 31
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 113.73
+        Name_in_study: 89
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian Indian
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I84:
+        Age: 46
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 194.89
+        Name_in_study: 9
+        Reference_assembly: igh
+        Self-reported Ethnicity: Black or African American
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I85:
+        Age: 49
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 32.96
+        Name_in_study: 90
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/L/Latino
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I86:
+        Age: 62
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 22.38
+        Name_in_study: 91
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I87:
+        Age: 66
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 89.17
+        Name_in_study: 92
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I88:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 208.04
+        Name_in_study: 95
+        Reference_assembly: igh
+        Self-reported Ethnicity: White
+        Sequencing_platform: SEQUELII
+        Sex: not recorded
+      P29_I89:
+        Age: 36
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 63.21
+        Name_in_study: 97
+        Reference_assembly: igh
+        Self-reported Ethnicity: Asian - Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I9:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 41.62
+        Name_in_study: 107
+        Reference_assembly: igh
+        Self-reported Ethnicity: Chinese
+        Sequencing_platform: RS
+        Sex: not recorded
+      P29_I90:
+        Age: 48
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 60.95
+        Name_in_study: 99
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic/L/Latino
+        Sequencing_platform: RS
+        Sex: not recorded
+  P30:
+    Contact: researcher@SC.edu
+    Date: '2021-01-01'
+    Id: SC
+    Institute: Institute SC
+    Reference: ''
+    Researcher: Researcher SC
+    Study: Study SC
+    Study_description: A short description of study SC
+    Subjects:
+      P30_I1:
+        Age: 32
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 83.55
+        Name_in_study: 1
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I10:
+        Age: 27
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 169.28
+        Name_in_study: 20
+        Reference_assembly: igh
+        Self-reported Ethnicity: Hispanic
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I11:
+        Age: 42
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 212.28
+        Name_in_study: 21
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I12:
+        Age: 44
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 151.95
+        Name_in_study: 23
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P30_I13:
+        Age: 31
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 189.64
+        Name_in_study: 24
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I14:
+        Age: 21
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Unknown
+        IGH_coverage: 68.61
+        Name_in_study: 27
+        Reference_assembly: igh
+        Self-reported Ethnicity: Unknown
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P30_I15:
+        Age: 22
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 50.37
+        Name_in_study: 4
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P30_I16:
+        Age: 33
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 137.13
+        Name_in_study: 6
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I2:
+        Age: 33
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 87.88
+        Name_in_study: 11
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I3:
+        Age: 23
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 60.84
+        Name_in_study: 13
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P30_I4:
+        Age: 36
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 42.6
+        Name_in_study: 14
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I5:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 90.16
+        Name_in_study: 15
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I6:
+        Age: 20
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 130.72
+        Name_in_study: 16
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I7:
+        Age: 28
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 76.72
+        Name_in_study: 17
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P30_I8:
+        Age: 43
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 111.05
+        Name_in_study: 18
+        Reference_assembly: igh
+        Self-reported Ethnicity: Caucasian
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P30_I9:
+        Age: 34
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 84.57
+        Name_in_study: 19
+        Reference_assembly: igh
+        Self-reported Ethnicity: African American
+        Sequencing_platform: SEQUELII
+        Sex: male
+  P31:
+    Contact: researcher@B.edu
+    Date: '2021-01-01'
+    Id: B
+    Institute: Institute B
+    Reference: ''
+    Researcher: Researcher B
+    Study: Study B
+    Study_description: A short description of study B
+    Subjects:
+      P31_I1:
+        Age: 38
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 111.47
+        Name_in_study: 101
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P31_I10:
+        Age: 54
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 52.85
+        Name_in_study: 113
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P31_I11:
+        Age: 27
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 27.38
+        Name_in_study: 114
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I12:
+        Age: 60
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 67.11
+        Name_in_study: 2
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I13:
+        Age: 17
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: American Indian or Alaska Native
+        IGH_coverage: 65.98
+        Name_in_study: 20
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN + NATIVE AMERICAN
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I14:
+        Age: 34
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 45.08
+        Name_in_study: 21
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I15:
+        Age: 63
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 12.65
+        Name_in_study: 33
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I16:
+        Age: 56
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 18.8
+        Name_in_study: 35
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I17:
+        Age: 58
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 17.62
+        Name_in_study: 36
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I18:
+        Age: 43
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 7.62
+        Name_in_study: 37
+        Reference_assembly: igh
+        Self-reported Ethnicity: INDIA/ARABIA/IRAN (AKA PERSIA)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I19:
+        Age: 17
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 9.92
+        Name_in_study: 39
+        Reference_assembly: igh
+        Self-reported Ethnicity: INDIA/ARABIA/IRAN (AKA PERSIA)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I2:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: South Asian
+        IGH_coverage: 38.86
+        Name_in_study: 104
+        Reference_assembly: igh
+        Self-reported Ethnicity: INDIA/ARABIA/IRAN (AKA PERSIA)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I20:
+        Age: 68
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 56.08
+        Name_in_study: 4
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I21:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 7.09
+        Name_in_study: 43
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I22:
+        Age: 71
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 16.87
+        Name_in_study: 45
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I23:
+        Age: 59
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 77.27
+        Name_in_study: 5
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I24:
+        Age: 65
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 26.57
+        Name_in_study: 51
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I25:
+        Age: 45
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 32.27
+        Name_in_study: 52
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I26:
+        Age: 66
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 18.2
+        Name_in_study: 53
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I27:
+        Age: 61
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 20.26
+        Name_in_study: 55
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I28:
+        Age: 54
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 26.29
+        Name_in_study: 58
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I29:
+        Age: 58
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Black or African American
+        IGH_coverage: 48.59
+        Name_in_study: 6
+        Reference_assembly: igh
+        Self-reported Ethnicity: AFRICAN AMERICAN
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I3:
+        Age: 38
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 32.32
+        Name_in_study: 105
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I30:
+        Age: 48
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 153.31
+        Name_in_study: 60
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I31:
+        Age: 39
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 21.59
+        Name_in_study: 62
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I32:
+        Age: 26
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 20.32
+        Name_in_study: 65
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I33:
+        Age: 54
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 33.76
+        Name_in_study: 68
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I34:
+        Age: 55
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 170.7
+        Name_in_study: 69
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I35:
+        Age: 43
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 30.83
+        Name_in_study: 70
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I36:
+        Age: 37
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 57.84
+        Name_in_study: 73
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I37:
+        Age: 69
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 67.8
+        Name_in_study: 74
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I38:
+        Age: 48
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 75.98
+        Name_in_study: 75
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I39:
+        Age: 62
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 95.44
+        Name_in_study: 77
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I4:
+        Age: 39
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Hispanic or Latino
+        IGH_coverage: 26.94
+        Name_in_study: 107
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN + CENTRAL/SOUTH AMERICAN
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I40:
+        Age: 55
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 56.18
+        Name_in_study: 85
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I41:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 51.89
+        Name_in_study: 86
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I42:
+        Age: 49
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 51.89
+        Name_in_study: 87
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I43:
+        Age: 46
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 149.4
+        Name_in_study: 89
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I44:
+        Age: 59
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 96.62
+        Name_in_study: 92
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: female
+      P31_I45:
+        Age: 50
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 85.37
+        Name_in_study: 93
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I46:
+        Age: 22
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: Unknown
+        IGH_coverage: 65.96
+        Name_in_study: 95
+        Reference_assembly: igh
+        Self-reported Ethnicity: '#N/A'
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I5:
+        Age: 49
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 33.34
+        Name_in_study: 108
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I6:
+        Age: 19
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 17.17
+        Name_in_study: 109
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUEL
+        Sex: male
+      P31_I7:
+        Age: 28
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: East Asian
+        IGH_coverage: 36.67
+        Name_in_study: 110
+        Reference_assembly: igh
+        Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
+        Sequencing_platform: SEQUEL
+        Sex: female
+      P31_I8:
+        Age: 57
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 58.57
+        Name_in_study: 111
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: male
+      P31_I9:
+        Age: 18
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: IGenotyper
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Grouped Ethnicity: White
+        IGH_coverage: 56.21
+        Name_in_study: 112
+        Reference_assembly: igh
+        Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
+          GREECE, ISRAEL)
+        Sequencing_platform: SEQUELII
+        Sex: male

@@ -1086,8 +1086,8 @@ D:\Research\digby_data\AIRR-seq\Human\TRB\samples\P20\P20_I55_S1\P20_I55_S1_geno
 D:\Research\digby_data\AIRR-seq\Human\TRB\samples\P20\P20_I560_S1\P20_I560_S1_genotype.tsv
 D:\Research\digby_data\AIRR-seq\Human\TRB\samples\P20\P20_I561_S1\P20_I561_S1_genotype.tsv
 Traceback (most recent call last):
-  File "D:\Research\digby_backend\db\vdjbase_maint.py", line 66, in create_single_database
+  File "D:\Research\digby_backend\db\vdjbase_maint.py", line 65, in create_single_database
     result.extend(process_genotypes(ds_dir, species, dataset, session))
-  File "D:\Research\digby_backend\db\vdjbase_genotypes.py", line 36, in process_genotypes
+  File "D:\Research\digby_backend\db\vdjbase_genotypes.py", line 56, in process_genotypes
     sample_genotype(sample, pipeline_names, session)
 db.vdjbase_exceptions.DbCreationError: Error processing allele TRBV6-56*ap01_327326: base allele not in reference set
