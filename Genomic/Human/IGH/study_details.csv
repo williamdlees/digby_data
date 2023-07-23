@@ -1,4 +1,2 @@
-Id,Study,Date,Institute,Study_description,Researcher,Reference,Contact
-B,Study B,2021-01-01,Institute B,A short description of study B,Researcher B,,researcher@B.edu
-SC,Study SC,2021-01-01,Institute SC,A short description of study SC,Researcher SC,,researcher@SC.edu
-W,Study W,2021-01-01,Institute W,A short description of study W,Researcher W,,researcher@W.edu
+Id,Date,Institute,Study,Study_description,Researcher,Reference,Contact
+PRJNA555323,2023-07-21,"University of Louisville School of Medicine, Louisville, KY, USA",Genetic variation in the immunoglobulin heavy chain locus shapes the human antibody repertoire,Linked genomic and AIRR-seq sequencing of 154 healthy individuals,Corey T. Watson,https://doi.org/10.1038/s41467-023-40070-x,corey/watson@louisville.edu

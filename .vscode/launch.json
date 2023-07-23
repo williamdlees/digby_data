@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "make_genomic_yml_human_igh",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/python/make_genomic_yml_human_igh.py",
+            "args": ["imported_genes.csv","sample_metadata_from_paper.csv","human_igh.yml","study_details.csv"],
+            "cwd": "${workspaceFolder}/Genomic/Human/IGH",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

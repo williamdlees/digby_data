@@ -8,3 +8,8 @@ cp "Genomic/Human/IGL/db_description.txt" "../digby_backend/static/study_data/Ge
 rm -rf "../digby_backend/static/study_data/Genomic/samples/Human/IGL"
 mkdir "../digby_backend/static/study_data/Genomic/samples/Human/IGL"
 unzip -q "Genomic/Human/IGL/samples.zip" -d "../digby_backend/static/study_data/Genomic/samples/Human/IGL"
+cp "Genomic/Human/IGH/db.sqlite3" "../digby_backend/static/study_data/Genomic/db/Human/IGH/db.sqlite3"
+cp "Genomic/Human/IGH/db_description.txt" "../digby_backend/static/study_data/Genomic/db/Human/IGH/db_description.txt"
+rm -rf "../digby_backend/static/study_data/Genomic/samples/Human/IGH"
+mkdir "../digby_backend/static/study_data/Genomic/samples/Human/IGH"
+unzip -q "Genomic/Human/IGH/samples.zip" -d "../digby_backend/static/study_data/Genomic/samples/Human/IGH"
