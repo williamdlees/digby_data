@@ -9,6 +9,8 @@ Reference_assemblies:
     - SPACER.bed
     - EXON_1.bed
     - EXON_2.bed
+    - L-PART2.bed
+    - REGION.bed
     - INTRON.bed
     - UTR.bed
     name: igh
@@ -16,7 +18,7 @@ Reference_assemblies:
     sense: '-'
     sequence_file: igh.fasta
     start: 0
-Reference_set_version: IMGT:Homo sapiens:2022-07-23
+Reference_set_version: IMGT:Homo sapiens:2023-07-23
 Reference_sets:
 - Homo_sapiens_IGHV_gapped.fasta
 - Homo_sapiens_IGHD.fasta
@@ -29,13 +31,1382 @@ Studies:
     Institute: University of Louisville School of Medicine, Louisville, KY, USA
     Reference: https://doi.org/10.1038/s41467-023-40070-x
     Researcher: Corey T. Watson
+    Samples:
+      P25_I100_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-22
+        Subject_name: P25_I100
+      P25_I101_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-23
+        Subject_name: P25_I101
+      P25_I102_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-25
+        Subject_name: P25_I102
+      P25_I103_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-26
+        Subject_name: P25_I103
+      P25_I104_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-3
+        Subject_name: P25_I104
+      P25_I105_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-30
+        Subject_name: P25_I105
+      P25_I106_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-32
+        Subject_name: P25_I106
+      P25_I107_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-34
+        Subject_name: P25_I107
+      P25_I108_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-35
+        Subject_name: P25_I108
+      P25_I109_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-36
+        Subject_name: P25_I109
+      P25_I10_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-113
+        Subject_name: P25_I10
+      P25_I110_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-37
+        Subject_name: P25_I110
+      P25_I111_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-38
+        Subject_name: P25_I111
+      P25_I112_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-40
+        Subject_name: P25_I112
+      P25_I113_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-43
+        Subject_name: P25_I113
+      P25_I114_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-45
+        Subject_name: P25_I114
+      P25_I115_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-46
+        Subject_name: P25_I115
+      P25_I116_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-48
+        Subject_name: P25_I116
+      P25_I117_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-50
+        Subject_name: P25_I117
+      P25_I118_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-51
+        Subject_name: P25_I118
+      P25_I119_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-52
+        Subject_name: P25_I119
+      P25_I11_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-114
+        Subject_name: P25_I11
+      P25_I120_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-53
+        Subject_name: P25_I120
+      P25_I121_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-54
+        Subject_name: P25_I121
+      P25_I122_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-55
+        Subject_name: P25_I122
+      P25_I123_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-56
+        Subject_name: P25_I123
+      P25_I124_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-57
+        Subject_name: P25_I124
+      P25_I125_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-59
+        Subject_name: P25_I125
+      P25_I126_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-60
+        Subject_name: P25_I126
+      P25_I127_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-61
+        Subject_name: P25_I127
+      P25_I128_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-62
+        Subject_name: P25_I128
+      P25_I129_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-64
+        Subject_name: P25_I129
+      P25_I12_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-2
+        Subject_name: P25_I12
+      P25_I130_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-67
+        Subject_name: P25_I130
+      P25_I131_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-69
+        Subject_name: P25_I131
+      P25_I132_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-7
+        Subject_name: P25_I132
+      P25_I133_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-70
+        Subject_name: P25_I133
+      P25_I134_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-71
+        Subject_name: P25_I134
+      P25_I135_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-75
+        Subject_name: P25_I135
+      P25_I136_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-76
+        Subject_name: P25_I136
+      P25_I137_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-79
+        Subject_name: P25_I137
+      P25_I138_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-81
+        Subject_name: P25_I138
+      P25_I139_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-82
+        Subject_name: P25_I139
+      P25_I13_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-20
+        Subject_name: P25_I13
+      P25_I140_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-83
+        Subject_name: P25_I140
+      P25_I141_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-84
+        Subject_name: P25_I141
+      P25_I142_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-85
+        Subject_name: P25_I142
+      P25_I143_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-86
+        Subject_name: P25_I143
+      P25_I144_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-88
+        Subject_name: P25_I144
+      P25_I145_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-89
+        Subject_name: P25_I145
+      P25_I146_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-9
+        Subject_name: P25_I146
+      P25_I147_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-90
+        Subject_name: P25_I147
+      P25_I148_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-91
+        Subject_name: P25_I148
+      P25_I149_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-92
+        Subject_name: P25_I149
+      P25_I14_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-21
+        Subject_name: P25_I14
+      P25_I150_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-95
+        Subject_name: P25_I150
+      P25_I151_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-97
+        Subject_name: P25_I151
+      P25_I152_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-99
+        Subject_name: P25_I152
+      P25_I15_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-33
+        Subject_name: P25_I15
+      P25_I16_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-35
+        Subject_name: P25_I16
+      P25_I17_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-36
+        Subject_name: P25_I17
+      P25_I18_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-37
+        Subject_name: P25_I18
+      P25_I19_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-39
+        Subject_name: P25_I19
+      P25_I1_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-101
+        Subject_name: P25_I1
+      P25_I20_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-4
+        Subject_name: P25_I20
+      P25_I21_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-43
+        Subject_name: P25_I21
+      P25_I22_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-45
+        Subject_name: P25_I22
+      P25_I23_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-5
+        Subject_name: P25_I23
+      P25_I24_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-51
+        Subject_name: P25_I24
+      P25_I25_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-52
+        Subject_name: P25_I25
+      P25_I26_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-53
+        Subject_name: P25_I26
+      P25_I27_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-55
+        Subject_name: P25_I27
+      P25_I28_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-58
+        Subject_name: P25_I28
+      P25_I29_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-6
+        Subject_name: P25_I29
+      P25_I2_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-104
+        Subject_name: P25_I2
+      P25_I30_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-60
+        Subject_name: P25_I30
+      P25_I31_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-62
+        Subject_name: P25_I31
+      P25_I32_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-65
+        Subject_name: P25_I32
+      P25_I33_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-68
+        Subject_name: P25_I33
+      P25_I34_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-69
+        Subject_name: P25_I34
+      P25_I35_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-70
+        Subject_name: P25_I35
+      P25_I36_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-73
+        Subject_name: P25_I36
+      P25_I37_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-74
+        Subject_name: P25_I37
+      P25_I38_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-75
+        Subject_name: P25_I38
+      P25_I39_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-77
+        Subject_name: P25_I39
+      P25_I3_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-105
+        Subject_name: P25_I3
+      P25_I40_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-85
+        Subject_name: P25_I40
+      P25_I41_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-86
+        Subject_name: P25_I41
+      P25_I42_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-87
+        Subject_name: P25_I42
+      P25_I43_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-89
+        Subject_name: P25_I43
+      P25_I44_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-92
+        Subject_name: P25_I44
+      P25_I45_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-93
+        Subject_name: P25_I45
+      P25_I46_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-95
+        Subject_name: P25_I46
+      P25_I47_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-1
+        Subject_name: P25_I47
+      P25_I48_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-11
+        Subject_name: P25_I48
+      P25_I49_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-13
+        Subject_name: P25_I49
+      P25_I4_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-107
+        Subject_name: P25_I4
+      P25_I50_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-14
+        Subject_name: P25_I50
+      P25_I51_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-15
+        Subject_name: P25_I51
+      P25_I52_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-16
+        Subject_name: P25_I52
+      P25_I53_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-17
+        Subject_name: P25_I53
+      P25_I54_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-18
+        Subject_name: P25_I54
+      P25_I55_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-19
+        Subject_name: P25_I55
+      P25_I56_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-20
+        Subject_name: P25_I56
+      P25_I57_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-21
+        Subject_name: P25_I57
+      P25_I58_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-23
+        Subject_name: P25_I58
+      P25_I59_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-24
+        Subject_name: P25_I59
+      P25_I5_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-108
+        Subject_name: P25_I5
+      P25_I60_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-27
+        Subject_name: P25_I60
+      P25_I61_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-4
+        Subject_name: P25_I61
+      P25_I62_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: SC-6
+        Subject_name: P25_I62
+      P25_I63_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-1
+        Subject_name: P25_I63
+      P25_I64_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-10
+        Subject_name: P25_I64
+      P25_I65_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-100
+        Subject_name: P25_I65
+      P25_I66_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-101
+        Subject_name: P25_I66
+      P25_I67_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-102
+        Subject_name: P25_I67
+      P25_I68_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-103
+        Subject_name: P25_I68
+      P25_I69_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-104
+        Subject_name: P25_I69
+      P25_I6_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-109
+        Subject_name: P25_I6
+      P25_I70_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-105
+        Subject_name: P25_I70
+      P25_I71_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-107
+        Subject_name: P25_I71
+      P25_I72_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-109
+        Subject_name: P25_I72
+      P25_I73_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-11
+        Subject_name: P25_I73
+      P25_I74_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-110
+        Subject_name: P25_I74
+      P25_I75_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-111
+        Subject_name: P25_I75
+      P25_I76_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-112
+        Subject_name: P25_I76
+      P25_I77_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-114
+        Subject_name: P25_I77
+      P25_I78_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-115
+        Subject_name: P25_I78
+      P25_I79_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-117
+        Subject_name: P25_I79
+      P25_I7_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-110
+        Subject_name: P25_I7
+      P25_I80_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-119
+        Subject_name: P25_I80
+      P25_I81_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-120
+        Subject_name: P25_I81
+      P25_I82_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-121
+        Subject_name: P25_I82
+      P25_I83_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-122
+        Subject_name: P25_I83
+      P25_I84_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-123
+        Subject_name: P25_I84
+      P25_I85_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-124
+        Subject_name: P25_I85
+      P25_I86_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-125
+        Subject_name: P25_I86
+      P25_I87_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-127
+        Subject_name: P25_I87
+      P25_I88_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-128
+        Subject_name: P25_I88
+      P25_I89_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-129
+        Subject_name: P25_I89
+      P25_I8_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-111
+        Subject_name: P25_I8
+      P25_I90_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-130
+        Subject_name: P25_I90
+      P25_I91_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-131
+        Subject_name: P25_I91
+      P25_I92_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-132
+        Subject_name: P25_I92
+      P25_I93_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-133
+        Subject_name: P25_I93
+      P25_I94_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-134
+        Subject_name: P25_I94
+      P25_I95_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-135
+        Subject_name: P25_I95
+      P25_I96_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-14
+        Subject_name: P25_I96
+      P25_I97_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-15
+        Subject_name: P25_I97
+      P25_I98_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-19
+        Subject_name: P25_I98
+      P25_I99_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: W-2
+        Subject_name: P25_I99
+      P25_I9_S1:
+        Annotation_file: imported_genes.csv
+        Annotation_format: IGenotyper
+        Annotation_method: Coordinate localization
+        Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
+        Assemblies: {}
+        Reference_assembly: igh
+        Sample_name_in_study: B-112
+        Subject_name: P25_I9
     Study: Genetic variation in the immunoglobulin heavy chain locus shapes the human
       antibody repertoire
     Study_description: Linked genomic and AIRR-seq sequencing of 154 healthy individuals
     Subjects:
       P25_I1:
         Age: 38
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -43,13 +1414,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 111.47
         Name_in_study: B-101
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I10:
         Age: 54
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -57,14 +1428,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 52.85
         Name_in_study: B-113
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I100:
         Age: 58
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -72,13 +1443,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 42.29
         Name_in_study: W-22
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I101:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -86,13 +1457,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 47.25
         Name_in_study: W-23
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I102:
         Age: 46
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -100,13 +1471,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 145.1
         Name_in_study: W-25
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I103:
         Age: 49
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -114,13 +1485,13 @@ Studies:
         Grouped Ethnicity: Native Hawaiian or Other Pacific Islander
         IGH_coverage: 50.54
         Name_in_study: W-26
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Native Hawaiian
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I104:
         Age: 28
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -128,13 +1499,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 17.31
         Name_in_study: W-3
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Cambodian
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I105:
         Age: 34
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -142,13 +1513,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 208.57
         Name_in_study: W-30
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I106:
         Age: 41
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -156,13 +1527,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 138.38
         Name_in_study: W-32
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I107:
         Age: 30
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -170,13 +1541,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 230.32
         Name_in_study: W-34
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I108:
         Age: 32
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -184,13 +1555,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 58.08
         Name_in_study: W-35
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I109:
         Age: 53
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -198,13 +1569,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 79.63
         Name_in_study: W-36
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Black or African American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I11:
         Age: 27
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -212,14 +1583,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 27.38
         Name_in_study: B-114
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I110:
         Age: 50
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -227,13 +1598,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 248.58
         Name_in_study: W-37
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/L/Latino
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I111:
         Age: 35
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -241,13 +1612,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 47.09
         Name_in_study: W-38
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I112:
         Age: 25
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -255,13 +1626,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 43.55
         Name_in_study: W-40
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I113:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -269,13 +1640,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 41.51
         Name_in_study: W-43
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I114:
         Age: 29
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -283,13 +1654,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 37.99
         Name_in_study: W-45
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White/Spanish (European)
         Sequencing_platform: SEQUEL
         Sex: not recorded
       P25_I115:
         Age: 25
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -297,13 +1668,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 60.64
         Name_in_study: W-46
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I116:
         Age: 41
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -311,13 +1682,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 27.84
         Name_in_study: W-48
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I117:
         Age: 30
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -325,13 +1696,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 90.81
         Name_in_study: W-50
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/latino
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I118:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -339,13 +1710,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 69.24
         Name_in_study: W-51
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Black or African American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I119:
         Age: 25
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -353,13 +1724,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 69.82
         Name_in_study: W-52
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Black or African American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I12:
         Age: 60
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -367,14 +1738,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 67.11
         Name_in_study: B-2
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I120:
         Age: 38
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -382,13 +1753,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 52.86
         Name_in_study: W-53
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/L/Latino
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I121:
         Age: 34
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -396,13 +1767,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 80.27
         Name_in_study: W-54
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/L/Latino
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I122:
         Age: 42
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -410,13 +1781,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 203.87
         Name_in_study: W-55
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I123:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -424,13 +1795,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 46.76
         Name_in_study: W-56
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I124:
         Age: 31
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -438,13 +1809,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 55.32
         Name_in_study: W-57
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I125:
         Age: 23
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -452,13 +1823,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 113.86
         Name_in_study: W-59
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Black or African American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I126:
         Age: 59
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -466,13 +1837,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 50.86
         Name_in_study: W-60
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I127:
         Age: 31
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -480,13 +1851,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 174.81
         Name_in_study: W-61
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White/Asian - Chinese
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I128:
         Age: 35
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -494,13 +1865,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 48.12
         Name_in_study: W-62
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I129:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -508,13 +1879,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 65.59
         Name_in_study: W-64
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: BL/Lack or AF/Frican American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I13:
         Age: 17
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -522,13 +1893,13 @@ Studies:
         Grouped Ethnicity: American Indian or Alaska Native
         IGH_coverage: 65.98
         Name_in_study: B-20
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN + NATIVE AMERICAN
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I130:
         Age: 43
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -536,13 +1907,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 162.64
         Name_in_study: W-67
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I131:
         Age: 46
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -550,13 +1921,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 70.27
         Name_in_study: W-69
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I132:
         Age: 24
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -564,13 +1935,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 72.6
         Name_in_study: W-7
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/L/Latino
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I133:
         Age: 27
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -578,13 +1949,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 145.11
         Name_in_study: W-70
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I134:
         Age: 44
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -592,13 +1963,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 120.59
         Name_in_study: W-71
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I135:
         Age: 37
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -606,13 +1977,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 96.83
         Name_in_study: W-75
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I136:
         Age: 68
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -620,13 +1991,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 27.22
         Name_in_study: W-76
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I137:
         Age: 58
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -634,13 +2005,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 81.23
         Name_in_study: W-79
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I138:
         Age: 27
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -648,13 +2019,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 67.67
         Name_in_study: W-81
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: BL/Lack or AF/Frican American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I139:
         Age: 47
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -662,13 +2033,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 114.57
         Name_in_study: W-82
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I14:
         Age: 34
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -676,14 +2047,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 45.08
         Name_in_study: B-21
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I140:
         Age: 51
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -691,13 +2062,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 154.17
         Name_in_study: W-83
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I141:
         Age: 66
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -705,13 +2076,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 233.78
         Name_in_study: W-84
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I142:
         Age: 40
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -719,13 +2090,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 44.13
         Name_in_study: W-85
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Black or African American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I143:
         Age: 54
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -733,13 +2104,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 331.71
         Name_in_study: W-86
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I144:
         Age: 44
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -747,13 +2118,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 61.6
         Name_in_study: W-88
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I145:
         Age: 31
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -761,13 +2132,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 113.73
         Name_in_study: W-89
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian Indian
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I146:
         Age: 46
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -775,13 +2146,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 194.89
         Name_in_study: W-9
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Black or African American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I147:
         Age: 49
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -789,13 +2160,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 32.96
         Name_in_study: W-90
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/L/Latino
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I148:
         Age: 62
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -803,13 +2174,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 22.38
         Name_in_study: W-91
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I149:
         Age: 66
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -817,13 +2188,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 89.17
         Name_in_study: W-92
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I15:
         Age: 63
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -831,14 +2202,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 12.65
         Name_in_study: B-33
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I150:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -846,13 +2217,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 208.04
         Name_in_study: W-95
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I151:
         Age: 36
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -860,13 +2231,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 63.21
         Name_in_study: W-97
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I152:
         Age: 48
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -874,13 +2245,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 60.95
         Name_in_study: W-99
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic/L/Latino
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I16:
         Age: 56
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -888,14 +2259,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 18.8
         Name_in_study: B-35
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I17:
         Age: 58
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -903,14 +2274,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 17.62
         Name_in_study: B-36
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I18:
         Age: 43
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -918,13 +2289,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 7.62
         Name_in_study: B-37
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: INDIA/ARABIA/IRAN (AKA PERSIA)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I19:
         Age: 17
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -932,13 +2303,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 9.92
         Name_in_study: B-39
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: INDIA/ARABIA/IRAN (AKA PERSIA)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I2:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -946,13 +2317,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 38.86
         Name_in_study: B-104
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: INDIA/ARABIA/IRAN (AKA PERSIA)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I20:
         Age: 68
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -960,14 +2331,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 56.08
         Name_in_study: B-4
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I21:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -975,14 +2346,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 7.09
         Name_in_study: B-43
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I22:
         Age: 71
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -990,14 +2361,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 16.87
         Name_in_study: B-45
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I23:
         Age: 59
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1005,14 +2376,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 77.27
         Name_in_study: B-5
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I24:
         Age: 65
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1020,14 +2391,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 26.57
         Name_in_study: B-51
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I25:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1035,14 +2406,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 32.27
         Name_in_study: B-52
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I26:
         Age: 66
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1050,13 +2421,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 18.2
         Name_in_study: B-53
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I27:
         Age: 61
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1064,14 +2435,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 20.26
         Name_in_study: B-55
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I28:
         Age: 54
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1079,14 +2450,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 26.29
         Name_in_study: B-58
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I29:
         Age: 58
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1094,13 +2465,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 48.59
         Name_in_study: B-6
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: AFRICAN AMERICAN
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I3:
         Age: 38
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1108,13 +2479,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 32.32
         Name_in_study: B-105
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I30:
         Age: 48
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1122,13 +2493,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 153.31
         Name_in_study: B-60
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I31:
         Age: 39
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1136,14 +2507,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 21.59
         Name_in_study: B-62
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I32:
         Age: 26
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1151,13 +2522,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 20.32
         Name_in_study: B-65
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I33:
         Age: 54
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1165,13 +2536,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 33.76
         Name_in_study: B-68
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I34:
         Age: 55
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1179,13 +2550,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 170.7
         Name_in_study: B-69
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I35:
         Age: 43
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1193,14 +2564,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 30.83
         Name_in_study: B-70
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I36:
         Age: 37
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1208,14 +2579,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 57.84
         Name_in_study: B-73
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I37:
         Age: 69
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1223,14 +2594,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 67.8
         Name_in_study: B-74
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I38:
         Age: 48
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1238,13 +2609,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 75.98
         Name_in_study: B-75
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I39:
         Age: 62
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1252,13 +2623,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 95.44
         Name_in_study: B-77
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I4:
         Age: 39
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1266,13 +2637,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 26.94
         Name_in_study: B-107
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN + CENTRAL/SOUTH AMERICAN
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I40:
         Age: 55
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1280,14 +2651,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 56.18
         Name_in_study: B-85
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I41:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1295,14 +2666,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 51.89
         Name_in_study: B-86
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I42:
         Age: 49
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1310,14 +2681,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 51.89
         Name_in_study: B-87
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I43:
         Age: 46
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1325,14 +2696,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 149.4
         Name_in_study: B-89
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I44:
         Age: 59
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1340,14 +2711,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 96.62
         Name_in_study: B-92
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I45:
         Age: 50
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1355,14 +2726,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 85.37
         Name_in_study: B-93
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I46:
         Age: 22
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1370,13 +2741,13 @@ Studies:
         Grouped Ethnicity: Unknown
         IGH_coverage: 65.96
         Name_in_study: B-95
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: '#N/A'
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I47:
         Age: 32
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1384,13 +2755,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 83.55
         Name_in_study: SC-1
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I48:
         Age: 33
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1398,13 +2769,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 87.88
         Name_in_study: SC-11
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I49:
         Age: 23
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1412,13 +2783,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 60.84
         Name_in_study: SC-13
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I5:
         Age: 49
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1426,14 +2797,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 33.34
         Name_in_study: B-108
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I50:
         Age: 36
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1441,13 +2812,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 42.6
         Name_in_study: SC-14
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I51:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1455,13 +2826,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 90.16
         Name_in_study: SC-15
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I52:
         Age: 20
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1469,13 +2840,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 130.72
         Name_in_study: SC-16
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I53:
         Age: 28
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1483,13 +2854,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 76.72
         Name_in_study: SC-17
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I54:
         Age: 43
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1497,13 +2868,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 111.05
         Name_in_study: SC-18
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I55:
         Age: 34
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1511,13 +2882,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 84.57
         Name_in_study: SC-19
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: African American
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I56:
         Age: 27
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1525,13 +2896,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 169.28
         Name_in_study: SC-20
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I57:
         Age: 42
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1539,13 +2910,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 212.28
         Name_in_study: SC-21
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I58:
         Age: 44
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1553,13 +2924,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 151.95
         Name_in_study: SC-23
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I59:
         Age: 31
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1567,13 +2938,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 189.64
         Name_in_study: SC-24
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I6:
         Age: 19
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1581,14 +2952,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 17.17
         Name_in_study: B-109
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUEL
         Sex: male
       P25_I60:
         Age: 21
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1596,13 +2967,13 @@ Studies:
         Grouped Ethnicity: Unknown
         IGH_coverage: 68.61
         Name_in_study: SC-27
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Unknown
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I61:
         Age: 22
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1610,13 +2981,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 50.37
         Name_in_study: SC-4
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: female
       P25_I62:
         Age: 33
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1624,13 +2995,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 137.13
         Name_in_study: SC-6
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Caucasian
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I63:
         Age: 32
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1638,13 +3009,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 148.72
         Name_in_study: W-1
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I64:
         Age: 32
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1652,13 +3023,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 231.07
         Name_in_study: W-10
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I65:
         Age: 43
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1666,13 +3037,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 47.83
         Name_in_study: W-100
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I66:
         Age: 66
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1680,13 +3051,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 21.18
         Name_in_study: W-101
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I67:
         Age: 23
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1694,13 +3065,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 58.07
         Name_in_study: W-102
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: AF/Frican American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I68:
         Age: 60
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1708,13 +3079,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 89.31
         Name_in_study: W-103
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: African American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I69:
         Age: 56
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1722,13 +3093,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 58.35
         Name_in_study: W-104
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: African American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I7:
         Age: 28
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1736,13 +3107,13 @@ Studies:
         Grouped Ethnicity: East Asian
         IGH_coverage: 36.67
         Name_in_study: B-110
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: ASIAN/ORIENTAL/HAWAIIAN/ESKIMO
         Sequencing_platform: SEQUEL
         Sex: female
       P25_I70:
         Age: 39
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1750,13 +3121,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 22.32
         Name_in_study: W-105
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I71:
         Age: 45
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1764,13 +3135,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 41.62
         Name_in_study: W-107
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I72:
         Age: 24
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1778,13 +3149,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 2.36
         Name_in_study: W-109
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I73:
         Age: 29
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1792,13 +3163,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 65.08
         Name_in_study: W-11
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUEL
         Sex: not recorded
       P25_I74:
         Age: 48
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1806,13 +3177,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 65.81
         Name_in_study: W-110
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
         Sequencing_platform: SEQUEL
         Sex: not recorded
       P25_I75:
         Age: 54
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1820,13 +3191,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 25.28
         Name_in_study: W-111
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: African American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I76:
         Age: 32
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1834,13 +3205,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 58.76
         Name_in_study: W-112
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: AF/Frican American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I77:
         Age: 31
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1848,13 +3219,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 58.46
         Name_in_study: W-114
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I78:
         Age: 47
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1862,13 +3233,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 6.14
         Name_in_study: W-115
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: AF/Frican American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I79:
         Age: 35
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1876,13 +3247,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 114.47
         Name_in_study: W-117
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I8:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1890,14 +3261,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 58.57
         Name_in_study: B-111
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I80:
         Age: 30
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1905,13 +3276,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 73.35
         Name_in_study: W-119
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I81:
         Age: 26
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1919,13 +3290,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 35.08
         Name_in_study: W-120
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I82:
         Age: 20
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1933,13 +3304,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 67.78
         Name_in_study: W-121
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: African American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I83:
         Age: 37
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1947,13 +3318,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 31.4
         Name_in_study: W-122
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I84:
         Age: 36
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1961,13 +3332,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 22.47
         Name_in_study: W-123
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: AF/Frican American
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I85:
         Age: 30
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1975,13 +3346,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 9.27
         Name_in_study: W-124
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I86:
         Age: 40
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -1989,13 +3360,13 @@ Studies:
         Grouped Ethnicity: Black or African American
         IGH_coverage: 58.38
         Name_in_study: W-125
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: AF/Frican American
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I87:
         Age: 31
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2003,13 +3374,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 56.59
         Name_in_study: W-127
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I88:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2017,13 +3388,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 56.34
         Name_in_study: W-128
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I89:
         Age: 63
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2031,13 +3402,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 53.28
         Name_in_study: W-129
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I9:
         Age: 18
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2045,14 +3416,14 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 56.21
         Name_in_study: B-112
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: CAUCASIAN/CAUCASIAN EUROPEAN (INCLUDES TURKEY, SPAIN,
           GREECE, ISRAEL)
         Sequencing_platform: SEQUELII
         Sex: male
       P25_I90:
         Age: 29
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2060,13 +3431,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 63.03
         Name_in_study: W-130
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I91:
         Age: 42
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2074,13 +3445,13 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 39.17
         Name_in_study: W-131
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Chinese
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I92:
         Age: 50
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2088,13 +3459,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 35.28
         Name_in_study: W-132
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I93:
         Age: 21
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2102,13 +3473,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 58.27
         Name_in_study: W-133
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I94:
         Age: 39
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2116,13 +3487,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 54.42
         Name_in_study: W-134
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I95:
         Age: 57
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2130,13 +3501,13 @@ Studies:
         Grouped Ethnicity: Hispanic or Latino
         IGH_coverage: 85.29
         Name_in_study: W-135
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Hispanic
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I96:
         Age: 54
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2144,13 +3515,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 29.73
         Name_in_study: W-14
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
       P25_I97:
         Age: 30
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2158,13 +3529,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 92.6
         Name_in_study: W-15
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUEL
         Sex: not recorded
       P25_I98:
         Age: 28
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2172,13 +3543,13 @@ Studies:
         Grouped Ethnicity: White
         IGH_coverage: 141.21
         Name_in_study: W-19
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: White
         Sequencing_platform: SEQUELII
         Sex: not recorded
       P25_I99:
         Age: 25
-        Annotation_file: imported_genes.csv
+        Annotation_file: ../gene_lists/imported_genes.csv
         Annotation_format: IGenotyper
         Annotation_method: IGenotyper
         Annotation_reference: https://www.frontiersin.org/article/10.3389/fimmu.2020.02136
@@ -2186,7 +3557,7 @@ Studies:
         Grouped Ethnicity: South Asian
         IGH_coverage: 28.65
         Name_in_study: W-2
-        Reference_assembly: igh
+        Reference_assembly: chr22
         Self-reported Ethnicity: Asian - Chinese
-        Sequencing_platform: RS
+        Sequencing_platform: RSII
         Sex: not recorded
