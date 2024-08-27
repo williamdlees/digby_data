@@ -5,3 +5,7 @@ secret.cfg
 secret*.cfg
 app.log
 *.pickle
+chr2.fasta
+Human_chr2.fasta
+samples*.zip
+samples.zip
