@@ -1,0 +1,21 @@
+XReference_assemblies:
+  Human_IGK:
+    chromosome: 22
+    end: 0
+    locations:
+    name: chr22
+    reference: ''
+    sense: +
+    sequence_file: 
+    start: 0
+Reference_set_version: Project:2025-01-03
+Reference_sets:
+- V_gapped.fasta
+- J.fasta
+Studies:
+  P38:
+    metadata_file: P38_genomic_metadata.csv
+    annotation_file: P38_IGK_diggers.csv
+    annotation_method: 'Digger'
+    annotation_reference: 'https://doi.org/10.1093/bioinformatics/btae144'
+    bam_dir: 'F:/macaque_R24/contigs/IGK_contigs'

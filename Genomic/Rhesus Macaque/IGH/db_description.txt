@@ -1,1 +1,1 @@
-Analysis of Rhesus Macaque IGH assemblies
+Rhesus IGH genomic samples
