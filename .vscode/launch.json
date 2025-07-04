@@ -14,6 +14,16 @@
             "cwd": "${workspaceFolder}/Genomic/Human/IGH",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "json_metadata_to_csv",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/python/json_metadata_to_csv.py",
+            "args": [],
+            "cwd": "D:\\Research\\digby_private_data\\Genomic\\Rhesus Macaque\\IGH",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }
