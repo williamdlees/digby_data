@@ -1,476 +1,565 @@
 status: Importing reference alleles
 status: Importing studies
-Creating blank record for table <class 'db.vdjbase_airr_model.DataPro'> in sample P1_I100_S1
+Processing airr sample P1_I100_S1
+Processing airr sample P1_I10_S1
+Processing airr sample P1_I11_S1
+Processing airr sample P1_I12_S1
+Processing airr sample P1_I13_S1
+Processing airr sample P1_I14_S1
+Processing airr sample P1_I15_S1
+Processing airr sample P1_I16_S1
+Processing airr sample P1_I17_S1
+Processing airr sample P1_I18_S1
+Processing airr sample P1_I19_S1
+Processing airr sample P1_I1_S1
+Processing airr sample P1_I20_S1
+Processing airr sample P1_I21_S1
+Processing airr sample P1_I22_S1
+Processing airr sample P1_I23_S1
+Processing airr sample P1_I24_S1
+Processing airr sample P1_I25_S1
+Processing airr sample P1_I26_S1
+Processing airr sample P1_I27_S1
+Processing airr sample P1_I28_S1
+Processing airr sample P1_I29_S1
+Processing airr sample P1_I2_S1
+Processing airr sample P1_I30_S1
+Processing airr sample P1_I31_S1
+Processing airr sample P1_I32_S1
+Processing airr sample P1_I33_S1
+Processing airr sample P1_I34_S1
+Processing airr sample P1_I35_S1
+Processing airr sample P1_I36_S1
+Processing airr sample P1_I37_S1
+Processing airr sample P1_I38_S1
+Processing airr sample P1_I39_S1
+Processing airr sample P1_I3_S1
+Processing airr sample P1_I40_S1
+Processing airr sample P1_I41_S1
+Processing airr sample P1_I42_S1
+Processing airr sample P1_I43_S1
+Processing airr sample P1_I44_S1
+Processing airr sample P1_I45_S1
+Processing airr sample P1_I46_S1
+Processing airr sample P1_I47_S1
+Processing airr sample P1_I48_S1
+Processing airr sample P1_I49_S1
+Processing airr sample P1_I4_S1
+Processing airr sample P1_I50_S1
+Processing airr sample P1_I51_S1
+Processing airr sample P1_I52_S1
+Processing airr sample P1_I53_S1
+Processing airr sample P1_I54_S1
+Processing airr sample P1_I55_S1
+Processing airr sample P1_I56_S1
+Processing airr sample P1_I57_S1
+Processing airr sample P1_I58_S1
+Processing airr sample P1_I59_S1
+Processing airr sample P1_I5_S1
+Processing airr sample P1_I60_S1
+Processing airr sample P1_I61_S1
+Processing airr sample P1_I62_S1
+Processing airr sample P1_I63_S1
+Processing airr sample P1_I64_S1
+Processing airr sample P1_I65_S1
+Processing airr sample P1_I66_S1
+Processing airr sample P1_I67_S1
+Processing airr sample P1_I68_S1
+Processing airr sample P1_I69_S1
+Processing airr sample P1_I6_S1
+Processing airr sample P1_I70_S1
+Processing airr sample P1_I71_S1
+Processing airr sample P1_I72_S1
+Processing airr sample P1_I73_S1
+Processing airr sample P1_I74_S1
+Processing airr sample P1_I75_S1
+Processing airr sample P1_I76_S1
+Processing airr sample P1_I77_S1
+Processing airr sample P1_I78_S1
+Processing airr sample P1_I79_S1
+Processing airr sample P1_I7_S1
+Processing airr sample P1_I80_S1
+Processing airr sample P1_I81_S1
+Processing airr sample P1_I82_S1
+Processing airr sample P1_I83_S1
+Processing airr sample P1_I84_S1
+Processing airr sample P1_I85_S1
+Processing airr sample P1_I86_S1
+Processing airr sample P1_I87_S1
+Processing airr sample P1_I88_S1
+Processing airr sample P1_I89_S1
+Processing airr sample P1_I8_S1
+Processing airr sample P1_I90_S1
+Processing airr sample P1_I91_S1
+Processing airr sample P1_I92_S1
+Processing airr sample P1_I93_S1
+Processing airr sample P1_I94_S1
+Processing airr sample P1_I95_S1
+Processing airr sample P1_I96_S1
+Processing airr sample P1_I97_S1
+Processing airr sample P1_I99_S1
+Processing airr sample P1_I9_S1
+Committing metadata for sample P1_I100_S1
+Committing metadata for sample P1_I10_S1
+Committing metadata for sample P1_I11_S1
+Committing metadata for sample P1_I12_S1
+Committing metadata for sample P1_I13_S1
+Committing metadata for sample P1_I14_S1
+Committing metadata for sample P1_I15_S1
+Committing metadata for sample P1_I16_S1
+Committing metadata for sample P1_I17_S1
+Committing metadata for sample P1_I18_S1
+Committing metadata for sample P1_I19_S1
+Committing metadata for sample P1_I1_S1
+Committing metadata for sample P1_I20_S1
+Committing metadata for sample P1_I21_S1
+Committing metadata for sample P1_I22_S1
+Committing metadata for sample P1_I23_S1
+Committing metadata for sample P1_I24_S1
+Committing metadata for sample P1_I25_S1
+Committing metadata for sample P1_I26_S1
+Committing metadata for sample P1_I27_S1
+Committing metadata for sample P1_I28_S1
+Committing metadata for sample P1_I29_S1
+Committing metadata for sample P1_I2_S1
+Committing metadata for sample P1_I30_S1
+Committing metadata for sample P1_I31_S1
+Committing metadata for sample P1_I32_S1
+Committing metadata for sample P1_I33_S1
+Committing metadata for sample P1_I34_S1
+Committing metadata for sample P1_I35_S1
+Committing metadata for sample P1_I36_S1
+Committing metadata for sample P1_I37_S1
+Committing metadata for sample P1_I38_S1
+Committing metadata for sample P1_I39_S1
+Committing metadata for sample P1_I3_S1
+Committing metadata for sample P1_I40_S1
+Committing metadata for sample P1_I41_S1
+Committing metadata for sample P1_I42_S1
+Committing metadata for sample P1_I43_S1
+Committing metadata for sample P1_I44_S1
+Committing metadata for sample P1_I45_S1
+Committing metadata for sample P1_I46_S1
+Committing metadata for sample P1_I47_S1
+Committing metadata for sample P1_I48_S1
+Committing metadata for sample P1_I49_S1
+Committing metadata for sample P1_I4_S1
+Committing metadata for sample P1_I50_S1
+Committing metadata for sample P1_I51_S1
+Committing metadata for sample P1_I52_S1
+Committing metadata for sample P1_I53_S1
+Committing metadata for sample P1_I54_S1
+Committing metadata for sample P1_I55_S1
+Committing metadata for sample P1_I56_S1
+Committing metadata for sample P1_I57_S1
+Committing metadata for sample P1_I58_S1
+Committing metadata for sample P1_I59_S1
+Committing metadata for sample P1_I5_S1
+Committing metadata for sample P1_I60_S1
+Committing metadata for sample P1_I61_S1
+Committing metadata for sample P1_I62_S1
+Committing metadata for sample P1_I63_S1
+Committing metadata for sample P1_I64_S1
+Committing metadata for sample P1_I65_S1
+Committing metadata for sample P1_I66_S1
+Committing metadata for sample P1_I67_S1
+Committing metadata for sample P1_I68_S1
+Committing metadata for sample P1_I69_S1
+Committing metadata for sample P1_I6_S1
+Committing metadata for sample P1_I70_S1
+Committing metadata for sample P1_I71_S1
+Committing metadata for sample P1_I72_S1
+Committing metadata for sample P1_I73_S1
+Committing metadata for sample P1_I74_S1
+Committing metadata for sample P1_I75_S1
+Committing metadata for sample P1_I76_S1
+Committing metadata for sample P1_I77_S1
+Committing metadata for sample P1_I78_S1
+Committing metadata for sample P1_I79_S1
+Committing metadata for sample P1_I7_S1
+Committing metadata for sample P1_I80_S1
+Committing metadata for sample P1_I81_S1
+Committing metadata for sample P1_I82_S1
+Committing metadata for sample P1_I83_S1
+Committing metadata for sample P1_I84_S1
+Committing metadata for sample P1_I85_S1
+Committing metadata for sample P1_I86_S1
+Committing metadata for sample P1_I87_S1
+Committing metadata for sample P1_I88_S1
+Committing metadata for sample P1_I89_S1
+Committing metadata for sample P1_I8_S1
+Committing metadata for sample P1_I90_S1
+Committing metadata for sample P1_I91_S1
+Committing metadata for sample P1_I92_S1
+Committing metadata for sample P1_I93_S1
+Committing metadata for sample P1_I94_S1
+Committing metadata for sample P1_I95_S1
+Committing metadata for sample P1_I96_S1
+Committing metadata for sample P1_I97_S1
+Committing metadata for sample P1_I99_S1
+Committing metadata for sample P1_I9_S1
+Processing airr sample P35_I10_S1
+Processing airr sample P35_I11_S1
+Processing airr sample P35_I12_S1
+Processing airr sample P35_I13_S1
+Processing airr sample P35_I14_S1
+Processing airr sample P35_I15_S1
+Processing airr sample P35_I16_S1
+Processing airr sample P35_I17_S1
+Processing airr sample P35_I18_S1
+Processing airr sample P35_I19_S1
+Processing airr sample P35_I1_S1
+Processing airr sample P35_I20_S1
+Processing airr sample P35_I21_S1
+Processing airr sample P35_I22_S1
+Processing airr sample P35_I23_S1
+Processing airr sample P35_I24_S1
+Processing airr sample P35_I25_S1
+Processing airr sample P35_I26_S1
+Processing airr sample P35_I28_S1
+Processing airr sample P35_I29_S1
+Processing airr sample P35_I2_S1
+Processing airr sample P35_I30_S1
+Processing airr sample P35_I31_S1
+Processing airr sample P35_I32_S1
+Processing airr sample P35_I33_S1
+Processing airr sample P35_I34_S1
+Processing airr sample P35_I35_S1
+Processing airr sample P35_I36_S1
+Processing airr sample P35_I37_S1
+Processing airr sample P35_I38_S1
+Processing airr sample P35_I39_S1
+Processing airr sample P35_I3_S1
+Processing airr sample P35_I40_S1
+Processing airr sample P35_I41_S1
+Processing airr sample P35_I42_S1
+Processing airr sample P35_I43_S1
+Processing airr sample P35_I4_S1
+Processing airr sample P35_I5_S1
+Processing airr sample P35_I6_S1
+Processing airr sample P35_I7_S1
+Processing airr sample P35_I8_S1
+Processing airr sample P35_I9_S1
+Committing metadata for sample P35_I10_S1
+Committing metadata for sample P35_I11_S1
+Committing metadata for sample P35_I12_S1
+Committing metadata for sample P35_I13_S1
+Committing metadata for sample P35_I14_S1
+Committing metadata for sample P35_I15_S1
+Committing metadata for sample P35_I16_S1
+Committing metadata for sample P35_I17_S1
+Committing metadata for sample P35_I18_S1
+Committing metadata for sample P35_I19_S1
+Committing metadata for sample P35_I1_S1
+Committing metadata for sample P35_I20_S1
+Committing metadata for sample P35_I21_S1
+Committing metadata for sample P35_I22_S1
+Committing metadata for sample P35_I23_S1
+Committing metadata for sample P35_I24_S1
+Committing metadata for sample P35_I25_S1
+Committing metadata for sample P35_I26_S1
+Committing metadata for sample P35_I28_S1
+Committing metadata for sample P35_I29_S1
+Committing metadata for sample P35_I2_S1
+Committing metadata for sample P35_I30_S1
+Committing metadata for sample P35_I31_S1
+Committing metadata for sample P35_I32_S1
+Committing metadata for sample P35_I33_S1
+Committing metadata for sample P35_I34_S1
+Committing metadata for sample P35_I35_S1
+Committing metadata for sample P35_I36_S1
+Committing metadata for sample P35_I37_S1
+Committing metadata for sample P35_I38_S1
+Committing metadata for sample P35_I39_S1
+Committing metadata for sample P35_I3_S1
+Committing metadata for sample P35_I40_S1
+Committing metadata for sample P35_I41_S1
+Committing metadata for sample P35_I42_S1
+Committing metadata for sample P35_I43_S1
+Committing metadata for sample P35_I4_S1
+Committing metadata for sample P35_I5_S1
+Committing metadata for sample P35_I6_S1
+Committing metadata for sample P35_I7_S1
+Committing metadata for sample P35_I8_S1
+Committing metadata for sample P35_I9_S1
+Processing airr sample P17_I1_S1
+Processing airr sample P17_I2_S1
+Processing airr sample P17_I3_S1
+Processing airr sample P17_I4_S1
+Processing airr sample P17_I5_S1
+Processing airr sample P17_I6_S1
+Processing airr sample P17_I7_S1
+Processing airr sample P17_I8_S1
+Processing airr sample P17_I9_S1
+Processing airr sample P17_I10_S1
+Processing airr sample P17_I11_S1
+Processing airr sample P17_I12_S1
+Processing airr sample P17_I13_S1
+Processing airr sample P17_I14_S1
+Processing airr sample P17_I15_S1
+Committing metadata for sample P17_I1_S1
+Committing metadata for sample P17_I2_S1
+Committing metadata for sample P17_I3_S1
+Committing metadata for sample P17_I4_S1
+Committing metadata for sample P17_I5_S1
+Committing metadata for sample P17_I6_S1
+Committing metadata for sample P17_I7_S1
+Committing metadata for sample P17_I8_S1
+Committing metadata for sample P17_I9_S1
+Committing metadata for sample P17_I10_S1
+Committing metadata for sample P17_I11_S1
+Committing metadata for sample P17_I12_S1
+Committing metadata for sample P17_I13_S1
+Committing metadata for sample P17_I14_S1
+Committing metadata for sample P17_I15_S1
 status: Processing deleted alleles
 status: Processing genotypes
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I100_S1\P1_I100_S1_genotype.tsv
-adding  allele IGLV2-23*01_g170t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I10_S1\P1_I10_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I100_S1/P1_I100_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I10_S1/P1_I10_S1_genotype.tsv
 adding  allele IGLV2-11*01_t313a
-adding  allele IGLV3-25*03_g74c
-adding similar allele IGLV4-60*03EXT5
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I11_S1\P1_I11_S1_genotype.tsv
+adding  allele IGLV2-14*01_g168t_c337t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I11_S1/P1_I11_S1_genotype.tsv
 adding  allele IGLV2-8*01_c257t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I12_S1\P1_I12_S1_genotype.tsv
-adding  allele IGLV10-54*01_a228c
-adding  allele IGLV6-57*03_c21g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I13_S1\P1_I13_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I14_S1\P1_I14_S1_genotype.tsv
-adding  allele IGLV1-44*01_a207c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I15_S1\P1_I15_S1_genotype.tsv
-adding  allele IGLV1-40*01_g38a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I16_S1\P1_I16_S1_genotype.tsv
+adding  allele IGLV2-14*03_t336c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I12_S1/P1_I12_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I13_S1/P1_I13_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I14_S1/P1_I14_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I15_S1/P1_I15_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I16_S1/P1_I16_S1_genotype.tsv
 adding  allele IGLV1-40*01_c275g
-adding  allele IGLV2-23*01_t32a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I17_S1\P1_I17_S1_genotype.tsv
-adding  allele IGLV1-47*02_a207c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I18_S1\P1_I18_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I19_S1\P1_I19_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I17_S1/P1_I17_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I18_S1/P1_I18_S1_genotype.tsv
+adding  allele IGLV8-61*01_a334g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I19_S1/P1_I19_S1_genotype.tsv
+adding similar allele IGLV2-14*01_g168t_c337t
 adding  allele IGLV7-43*01_g159a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I1_S1\P1_I1_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I1_S1/P1_I1_S1_genotype.tsv
 adding  allele IGLV2-8*01_c136t
+adding  allele IGLV2-23*03_t32a
 adding  allele IGLV3-10*01_g115c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I20_S1\P1_I20_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I21_S1\P1_I21_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I22_S1\P1_I22_S1_genotype.tsv
-adding  allele IGLV5-37*01_g103a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I23_S1\P1_I23_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I24_S1\P1_I24_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I25_S1\P1_I25_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I26_S1\P1_I26_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I27_S1\P1_I27_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I20_S1/P1_I20_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I21_S1/P1_I21_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I22_S1/P1_I22_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I23_S1/P1_I23_S1_genotype.tsv
+adding  allele IGLV2-11*01_a334c
+adding  allele IGLV2-11*01_a334t_t336c
+adding  allele IGLV2-14*01_t336c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I24_S1/P1_I24_S1_genotype.tsv
+adding  allele IGLV2-18*02_g285a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I25_S1/P1_I25_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I26_S1/P1_I26_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I27_S1/P1_I27_S1_genotype.tsv
 adding  allele IGLV1-36*01_a110g_c133g_a138g_a142c_a194g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I28_S1\P1_I28_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I29_S1\P1_I29_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I2_S1\P1_I2_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I30_S1\P1_I30_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I31_S1\P1_I31_S1_genotype.tsv
+adding  allele IGLV10-54*04_g41c_a70g_c108g_a111c_g118a_c119t_a159g_g232a_a238c_a274g_a279g_c280g_g316a_a318g_g335a
+adding  allele IGLV2-8*01_t337g
+adding  allele IGLV2-8*01_t337c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I28_S1/P1_I28_S1_genotype.tsv
+adding  allele IGLV3-9*01_c126t_g297a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I29_S1/P1_I29_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I2_S1/P1_I2_S1_genotype.tsv
+adding  allele IGLV4-60*02_c16g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I30_S1/P1_I30_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I31_S1/P1_I31_S1_genotype.tsv
 adding  allele IGLV1-47*01_g39t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I32_S1\P1_I32_S1_genotype.tsv
-adding  allele IGLV3-1*01_g153a_g194a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I33_S1\P1_I33_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I34_S1\P1_I34_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I32_S1/P1_I32_S1_genotype.tsv
+adding  allele IGLV2-14*04_t336c
 adding  allele IGLV3-25*02_a81g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I35_S1\P1_I35_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I37_S1\P1_I37_S1_genotype.tsv
-adding  allele IGLV2-14*01_t213c_t214c_a220g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I38_S1\P1_I38_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I39_S1\P1_I39_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I3_S1\P1_I3_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I40_S1\P1_I40_S1_genotype.tsv
-adding  allele IGLV3-9*02_g52a_c82a_t106a_a107g_a194g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I41_S1\P1_I41_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I42_S1\P1_I42_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I43_S1\P1_I43_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I44_S1\P1_I44_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I45_S1\P1_I45_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I46_S1\P1_I46_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I47_S1\P1_I47_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I48_S1\P1_I48_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I49_S1\P1_I49_S1_genotype.tsv
-adding  allele IGLV3-1*01_g194c
+adding  allele IGLV4-69*01_a331c
+adding  allele IGLV4-69*01_a331t
+adding  allele IGLV9-49*01_g345c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I33_S1/P1_I33_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I34_S1/P1_I34_S1_genotype.tsv
+adding  allele IGLV1-44*01_a207c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I35_S1/P1_I35_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I36_S1/P1_I36_S1_genotype.tsv
+adding  allele IGLV2-11*01_a334t
+adding  allele IGLV2-11*01_a334g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I37_S1/P1_I37_S1_genotype.tsv
+adding  allele IGLV7-46*04_c334t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I38_S1/P1_I38_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I39_S1/P1_I39_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I3_S1/P1_I3_S1_genotype.tsv
+adding  allele IGLV9-49*01_g345t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I40_S1/P1_I40_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I41_S1/P1_I41_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I42_S1/P1_I42_S1_genotype.tsv
+adding  allele IGLV2-8*01_c117t_g198c_a331t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I43_S1/P1_I43_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I44_S1/P1_I44_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I45_S1/P1_I45_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I46_S1/P1_I46_S1_genotype.tsv
+adding  allele IGLV7-46*01_c334t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I47_S1/P1_I47_S1_genotype.tsv
+adding  allele IGLV2-14*03_a207c
+adding  allele IGLV8-61*01_g107a_t314c_g315a_g318t_a328g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I48_S1/P1_I48_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I49_S1/P1_I49_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I4_S1/P1_I4_S1_genotype.tsv
+adding  allele IGLV10-54*04_a207c
+adding  allele IGLV4-60*03_a331t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I50_S1/P1_I50_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I51_S1/P1_I51_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I52_S1/P1_I52_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I53_S1/P1_I53_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I54_S1/P1_I54_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I55_S1/P1_I55_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I56_S1/P1_I56_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I57_S1/P1_I57_S1_genotype.tsv
+adding  allele IGLV4-60*02_a331t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I58_S1/P1_I58_S1_genotype.tsv
 adding  allele IGLV3-1*01_g194a
-adding  allele IGLV3-9*02_g52a_c82a_t106a_a107g_g113t_a194g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I4_S1\P1_I4_S1_genotype.tsv
-adding  allele IGLV10-54*01_a207c_a228c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I50_S1\P1_I50_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I51_S1\P1_I51_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I52_S1\P1_I52_S1_genotype.tsv
-adding  allele IGLV1-51*01_g301a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I53_S1\P1_I53_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I54_S1\P1_I54_S1_genotype.tsv
-adding  allele IGLV1-36*01_c330g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I55_S1\P1_I55_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I56_S1\P1_I56_S1_genotype.tsv
-adding  allele IGLV1-47*01_g46a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I57_S1\P1_I57_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I58_S1\P1_I58_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I59_S1\P1_I59_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I5_S1\P1_I5_S1_genotype.tsv
-adding  allele IGLV2-14*04EXT3_t198g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I60_S1\P1_I60_S1_genotype.tsv
-adding  allele IGLV1-44*01_c146g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I61_S1\P1_I61_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I62_S1\P1_I62_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I63_S1\P1_I63_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I64_S1\P1_I64_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I65_S1\P1_I65_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I66_S1\P1_I66_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I67_S1\P1_I67_S1_genotype.tsv
-adding  allele IGLV4-60*02_c259t_t287c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I68_S1\P1_I68_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I69_S1\P1_I69_S1_genotype.tsv
+adding  allele IGLV3-1*01_g194c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I59_S1/P1_I59_S1_genotype.tsv
+adding  allele IGLV7-46*04_t333c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I5_S1/P1_I5_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I60_S1/P1_I60_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I61_S1/P1_I61_S1_genotype.tsv
+adding  allele IGLV1-40*01_g38a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I62_S1/P1_I62_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I63_S1/P1_I63_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I64_S1/P1_I64_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I65_S1/P1_I65_S1_genotype.tsv
 adding  allele IGLV3-21*04_t166g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I6_S1\P1_I6_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I70_S1\P1_I70_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I71_S1\P1_I71_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I72_S1\P1_I72_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I66_S1/P1_I66_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I67_S1/P1_I67_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I68_S1/P1_I68_S1_genotype.tsv
 adding  allele IGLV6-57*03_g54c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I73_S1\P1_I73_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I74_S1\P1_I74_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I75_S1\P1_I75_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I76_S1\P1_I76_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I77_S1\P1_I77_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I78_S1\P1_I78_S1_genotype.tsv
-adding  allele IGLV1-44*01_c215t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I79_S1\P1_I79_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I7_S1\P1_I7_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I69_S1/P1_I69_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I6_S1/P1_I6_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I70_S1/P1_I70_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I71_S1/P1_I71_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I72_S1/P1_I72_S1_genotype.tsv
+adding  allele IGLV1-51*01_c338t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I73_S1/P1_I73_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I74_S1/P1_I74_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I75_S1/P1_I75_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I76_S1/P1_I76_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I77_S1/P1_I77_S1_genotype.tsv
+adding  allele IGLV5-45*02_t334g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I78_S1/P1_I78_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I79_S1/P1_I79_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I7_S1/P1_I7_S1_genotype.tsv
 adding  allele IGLV1-36*01_c203t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I80_S1\P1_I80_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I81_S1\P1_I81_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I82_S1\P1_I82_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I83_S1\P1_I83_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I84_S1\P1_I84_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I85_S1\P1_I85_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I86_S1\P1_I86_S1_genotype.tsv
-adding  allele IGLV5-39*01_g198a
-adding  allele IGLV8-61*01_c223a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I87_S1\P1_I87_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I88_S1\P1_I88_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I89_S1\P1_I89_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I8_S1\P1_I8_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I90_S1\P1_I90_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I91_S1\P1_I91_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I92_S1\P1_I92_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I93_S1\P1_I93_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I94_S1\P1_I94_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I95_S1\P1_I95_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I96_S1\P1_I96_S1_genotype.tsv
-adding  allele IGLV2-14*01_a207c
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I97_S1\P1_I97_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I80_S1/P1_I80_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I81_S1/P1_I81_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I82_S1/P1_I82_S1_genotype.tsv
+adding  allele IGLV8-61*02_t223a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I83_S1/P1_I83_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I84_S1/P1_I84_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I85_S1/P1_I85_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I86_S1/P1_I86_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I87_S1/P1_I87_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I88_S1/P1_I88_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I89_S1/P1_I89_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I8_S1/P1_I8_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I90_S1/P1_I90_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I91_S1/P1_I91_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I92_S1/P1_I92_S1_genotype.tsv
+adding  allele IGLV3-25*03_t336c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I93_S1/P1_I93_S1_genotype.tsv
 adding  allele IGLV1-44*01_g33a
 adding  allele IGLV1-47*02_g291a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I98_S1\P1_I98_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I99_S1\P1_I99_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I9_S1\P1_I9_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I10_S1\P11_I10_S1_genotype.tsv
-adding  allele IGLV2-18*02_g168t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I11_S1\P11_I11_S1_genotype.tsv
-adding  allele IGLV7-46*01_a213g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I12_S1\P11_I12_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I13_S1\P11_I13_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I14_S1\P11_I14_S1_genotype.tsv
-adding  allele IGLV3-9*02_g52a_c82a_t106a_a107g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I15_S1\P11_I15_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I16_S1\P11_I16_S1_genotype.tsv
-adding  allele IGLV1-47*02_g284a_c288t
-adding  allele IGLV2-8*01_g271a
-adding  allele IGLV2-18*02_g234c
-adding  allele IGLV2-23*01_g168c_g170t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I17_S1\P11_I17_S1_genotype.tsv
-adding  allele IGLV2-18*02_c77t_g88a_g91c_t93a_g104c_a107c_c111t_c112t_g129a_c146g_g194c_g332a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I18_S1\P11_I18_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I19_S1\P11_I19_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I1_S1\P11_I1_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I20_S1\P11_I20_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I21_S1\P11_I21_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I22_S1\P11_I22_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I23_S1\P11_I23_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I24_S1\P11_I24_S1_genotype.tsv
-adding  allele IGLV2-5*01_a200g
-adding  allele IGLV3-27*01_t313c_c315a_t318a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I25_S1\P11_I25_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I26_S1\P11_I26_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I28_S1\P11_I28_S1_genotype.tsv
-adding similar allele IGLV2-5*01_a200g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I29_S1\P11_I29_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I2_S1\P11_I2_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I30_S1\P11_I30_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I94_S1/P1_I94_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I95_S1/P1_I95_S1_genotype.tsv
+adding  allele IGLV3-9*01_g7a_g9a_c154a_g169a_c195t_a285g_g329a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I96_S1/P1_I96_S1_genotype.tsv
+adding  allele IGLV3-1*01_g153a_g194a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I97_S1/P1_I97_S1_genotype.tsv
+adding  allele IGLV1-44*01_a27t_g31a_a106g_c113t_c120t_c127a_a152g_c162g_a193g_a326c_a335c
+adding  allele IGLV3-25*03_g224c_a225g_t226a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I99_S1/P1_I99_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P1/P1_I9_S1/P1_I9_S1_genotype.tsv
+adding  allele IGLV6-57*04_a106g_a113t_a125t_g168a_g169a_a193g_c195t_g225c_c255t_t256a_a268t_a308t_t319g_g329c_a332g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I10_S1/P35_I10_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I11_S1/P35_I11_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I12_S1/P35_I12_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I13_S1/P35_I13_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I14_S1/P35_I14_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I15_S1/P35_I15_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I16_S1/P35_I16_S1_genotype.tsv
+adding  allele IGLV2-14*01_c337g
+adding  allele IGLV2-23*02_g168c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I17_S1/P35_I17_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I18_S1/P35_I18_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I19_S1/P35_I19_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I1_S1/P35_I1_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I20_S1/P35_I20_S1_genotype.tsv
+adding  allele IGLV1-40*01_g338c
+adding  allele IGLV1-40*01_g338t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I21_S1/P35_I21_S1_genotype.tsv
+adding  allele IGLV1-51*01_t339g
+adding  allele IGLV2-14*01_c337t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I22_S1/P35_I22_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I23_S1/P35_I23_S1_genotype.tsv
+adding  allele IGLV2-8*01_a335c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I24_S1/P35_I24_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I25_S1/P35_I25_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I26_S1/P35_I26_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I28_S1/P35_I28_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I29_S1/P35_I29_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I2_S1/P35_I2_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I30_S1/P35_I30_S1_genotype.tsv
 adding  allele IGLV1-40*01_g286t
-adding  allele IGLV2-23*01_g93t_a103g_c112t_t113a_g168t_g170t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I31_S1\P11_I31_S1_genotype.tsv
+adding  allele IGLV2-23*04_a279g
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I31_S1/P35_I31_S1_genotype.tsv
 adding  allele IGLV2-11*01_t168g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I32_S1\P11_I32_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I33_S1\P11_I33_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I34_S1\P11_I34_S1_genotype.tsv
-adding  allele IGLV2-5*01_g309c
-adding  allele IGLV2-14*01_t198g_a322g_a325g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I35_S1\P11_I35_S1_genotype.tsv
-adding  allele IGLV3-25*02_c154t
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I36_S1\P11_I36_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I37_S1\P11_I37_S1_genotype.tsv
-adding  allele IGLV3-12*02_c195a_a267g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I38_S1\P11_I38_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I39_S1\P11_I39_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I3_S1\P11_I3_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I32_S1/P35_I32_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I33_S1/P35_I33_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I34_S1/P35_I34_S1_genotype.tsv
+adding  allele IGLV2-8*01_g271a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I35_S1/P35_I35_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I36_S1/P35_I36_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I37_S1/P35_I37_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I38_S1/P35_I38_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I39_S1/P35_I39_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I3_S1/P35_I3_S1_genotype.tsv
 adding  allele IGLV2-11*01_g259a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I40_S1\P11_I40_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I41_S1\P11_I41_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I42_S1\P11_I42_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I43_S1\P11_I43_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I40_S1/P35_I40_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I41_S1/P35_I41_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I42_S1/P35_I42_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I43_S1/P35_I43_S1_genotype.tsv
 adding  allele IGLV3-21*04_a27g
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I4_S1\P11_I4_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I5_S1\P11_I5_S1_genotype.tsv
-adding  allele IGLV2-23*01_g170t_a270c_t327c_t330c
-adding  allele IGLV3-16*01_t314a
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I6_S1\P11_I6_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I7_S1\P11_I7_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I8_S1\P11_I8_S1_genotype.tsv
-D:\Research\digby_data\AIRR-seq\Human\IGL\samples\P11\P11_I9_S1\P11_I9_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I4_S1/P35_I4_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I5_S1/P35_I5_S1_genotype.tsv
+adding  allele IGLV2-11*01_t331a_a332g
+adding  allele IGLV2-23*02_a270c_t327c_t330c
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I6_S1/P35_I6_S1_genotype.tsv
+adding  allele IGLV3-16*01_t257c_a264g_t314a
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I7_S1/P35_I7_S1_genotype.tsv
+adding  allele IGLV2-11*01_c77t_t89c_g103a_c111t_a113t_c146t_g194a_g291c_c315t_c323g_c330t_c335a
+adding  allele IGLV2-11*01_c77t_t89c_g103a_c111t_a113t_c146t_g194a_c315t_c323g_c330t_c335a
+adding  allele IGLV2-14*01_g168t_t198g_c337t_t15a_a48g_a75g_c77g_g88a_t106c_a113c_a134g_c146t
+adding  allele IGLV2-23*02_g168c_g194a_g198t_a220g_g332t
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I8_S1/P35_I8_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P35/P35_I9_S1/P35_I9_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I1_S1/P17_I1_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I2_S1/P17_I2_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I3_S1/P17_I3_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I4_S1/P17_I4_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I5_S1/P17_I5_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I6_S1/P17_I6_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I7_S1/P17_I7_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I8_S1/P17_I8_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I9_S1/P17_I9_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I10_S1/P17_I10_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I11_S1/P17_I11_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I12_S1/P17_I12_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I13_S1/P17_I13_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I14_S1/P17_I14_S1_genotype.tsv
+/misc/work/VDJbase/digby_dev_data/AIRR-seq/Human/IGL/samples/P17/P17_I15_S1/P17_I15_S1_genotype.tsv
+status: Processing alias sets
 status: Processing haplotypes
 status: Analyzing allele appearances
 status: Calculating gene frequencies
 status: Calculating patterns
 status: Creating confidence reports
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I100_S1/P1_I100_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I10_S1/P1_I10_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV2-11*01_T313A,IGLV3-25*03_G74C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I14_S1/P1_I14_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I17_S1/P1_I17_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C,IGLV1-47*02_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I19_S1/P1_I19_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV7-43*01_G159A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I20_S1/P1_I20_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I21_S1/P1_I21_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I22_S1/P1_I22_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G,IGLV5-37*01_G103A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I23_S1/P1_I23_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I24_S1/P1_I24_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I31_S1/P1_I31_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I37_S1/P1_I37_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C,IGLV2-14*01_T213C_T214C_A220G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I38_S1/P1_I38_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I3_S1/P1_I3_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV5-37*01_G103A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I41_S1/P1_I41_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I44_S1/P1_I44_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I45_S1/P1_I45_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I46_S1/P1_I46_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I47_S1/P1_I47_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I48_S1/P1_I48_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C,IGLV3-10*01_G115C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I49_S1/P1_I49_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV3-1*01_G194C,IGLV3-1*01_G194A,IGLV3-9*02_G52A_C82A_T106A_A107G_G113T_A194G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I4_S1/P1_I4_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV2-14*01_T213C_T214C_A220G,IGLV10-54*01_A207C_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I53_S1/P1_I53_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I54_S1/P1_I54_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-36*01_C330G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I57_S1/P1_I57_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I58_S1/P1_I58_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I59_S1/P1_I59_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I5_S1/P1_I5_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV2-14*04EXT3_T198G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I60_S1/P1_I60_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_C146G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I61_S1/P1_I61_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I62_S1/P1_I62_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C,IGLV5-37*01_G103A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I64_S1/P1_I64_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I65_S1/P1_I65_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G,IGLV1-40*01_G38A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I66_S1/P1_I66_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I67_S1/P1_I67_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV1-47*01_G39T,IGLV1-36*01_C330G,IGLV4-60*02_C259T_T287C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I68_S1/P1_I68_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV3-10*01_G115C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I69_S1/P1_I69_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C,IGLV3-21*04_T166G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I6_S1/P1_I6_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C,IGLV6-57*03_C21G,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I70_S1/P1_I70_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I71_S1/P1_I71_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV3-10*01_G115C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I72_S1/P1_I72_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_G54C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I74_S1/P1_I74_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I78_S1/P1_I78_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_C215T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I79_S1/P1_I79_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I80_S1/P1_I80_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I81_S1/P1_I81_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I83_S1/P1_I83_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV5-37*01_G103A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I85_S1/P1_I85_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV1-40*01_G38A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I86_S1/P1_I86_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV5-39*01_G198A,IGLV8-61*01_C223A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I87_S1/P1_I87_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV5-37*01_G103A,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I8_S1/P1_I8_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I92_S1/P1_I92_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I93_S1/P1_I93_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I94_S1/P1_I94_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I95_S1/P1_I95_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G,IGLV1-44*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I96_S1/P1_I96_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-44*01_A207C,IGLV2-14*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I98_S1/P1_I98_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I9_S1/P1_I9_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV1-47*01_G39T,IGLV2-14*01_T213C_T214C_A220G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I11_S1/P11_I11_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV7-46*01_A213G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I12_S1/P11_I12_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I13_S1/P11_I13_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I15_S1/P11_I15_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I17_S1/P11_I17_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-47*01_G39T,IGLV2-18*02_C77T_G88A_G91C_T93A_G104C_A107C_C111T_C112T_G129A_C146G_G194C_G332A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I18_S1/P11_I18_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I1_S1/P11_I1_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I20_S1/P11_I20_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I23_S1/P11_I23_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I24_S1/P11_I24_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV6-57*03_C21G,IGLV2-18*02_G234C,IGLV2-5*02_C255T|IGLV2-5*01_A200G,IGLV3-27*01_T313C_C315A_T318A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I25_S1/P11_I25_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I26_S1/P11_I26_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I2_S1/P11_I2_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-25*03_G74C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I30_S1/P11_I30_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-40*01_G286T,IGLV2-23*01_G93T_A103G_C112T_T113A_G168T_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I31_S1/P11_I31_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV2-14*04EXT3_T198G,IGLV2-11*01_T168G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I32_S1/P11_I32_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I33_S1/P11_I33_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I34_S1/P11_I34_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV6-57*03_C21G,IGLV1-47*01_G39T,IGLV2-8*01_G271A,IGLV2-18*02_G234C,IGLV2-5*01_G309C,IGLV2-14*01_T198G_A322G_A325G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I35_S1/P11_I35_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV1-47*01_G39T,IGLV3-25*02_C154T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I36_S1/P11_I36_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV1-40*01_G286T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I38_S1/P11_I38_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I39_S1/P11_I39_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I40_S1/P11_I40_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV2-5*01_G309C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I41_S1/P11_I41_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G,IGLV1-36*01_C330G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I42_S1/P11_I42_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I43_S1/P11_I43_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV2-14*04EXT3_T198G,IGLV1-47*02_G291A,IGLV3-21*04_A27G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I5_S1/P11_I5_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T,IGLV10-54*01_A228C,IGLV2-8*01_G271A,IGLV2-23*01_G170T_A270C_T327C_T330C,IGLV3-16*01_T314A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I7_S1/P11_I7_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I9_S1/P11_I9_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I12_S1/P1_I12_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV10-54*01_A228C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I26_S1/P1_I26_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I27_S1/P1_I27_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV10-54*01_A228C,IGLV1-36*01_A110G_C133G_A138G_A142C_A194G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I29_S1/P1_I29_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV10-54*01_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I30_S1/P1_I30_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I35_S1/P1_I35_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I39_S1/P1_I39_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV6-57*03_C21G,IGLV1-44*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I42_S1/P1_I42_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I50_S1/P1_I50_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV1-44*01_A207C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I51_S1/P1_I51_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I55_S1/P1_I55_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I56_S1/P1_I56_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV1-47*01_G46A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I73_S1/P1_I73_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I75_S1/P1_I75_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV2-23*01_T32A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I89_S1/P1_I89_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV1-40*01_C275G,IGLV3-9*02_G52A_C82A_T106A_A107G_A194G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I28_S1/P11_I28_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV2-23*01_T32A,IGLV2-5*02_C255T|IGLV2-5*01_A200G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I3_S1/P11_I3_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV6-57*03_C21G,IGLV3-10*01_G115C,IGLV2-11*01_G259A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I4_S1/P11_I4_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*03_G74C,IGLV6-57*03_C21G,IGLV3-10*01_G115C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I11_S1/P1_I11_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-8*01_C257T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I99_S1/P1_I99_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-8*01_C257T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I1_S1/P1_I1_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV10-54*01_A228C,IGLV2-23*01_T32A,IGLV2-8*01_C136T,IGLV3-10*01_G115C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I2_S1/P1_I2_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV10-54*01_A228C
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I43_S1/P1_I43_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I52_S1/P1_I52_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G,IGLV1-51*01_G301A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I7_S1/P1_I7_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G,IGLV1-36*01_C203T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I84_S1/P1_I84_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I88_S1/P1_I88_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I91_S1/P1_I91_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G,IGLV3-21*04_T166G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I97_S1/P1_I97_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G,IGLV1-44*01_G33A,IGLV1-47*02_G291A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I22_S1/P11_I22_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV6-57*03_C21G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I15_S1/P1_I15_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-44*01_A207C,IGLV1-40*01_G38A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I16_S1/P1_I16_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-40*01_C275G,IGLV2-23*01_T32A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I10_S1/P11_I10_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-40*01_C275G,IGLV2-18*02_G168T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I63_S1/P1_I63_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_T32A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I16_S1/P11_I16_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-23*01_T32A,IGLV1-47*02_G284A_C288T,IGLV2-8*01_G271A,IGLV2-18*02_G234C,IGLV2-23*01_G168C_G170T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I8_S1/P11_I8_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-10*01_G115C,IGLV2-8*01_G271A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I19_S1/P11_I19_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-47*01_G39T
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I32_S1/P1_I32_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-1*01_G153A_G194A
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I34_S1/P1_I34_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-25*02_A81G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I40_S1/P1_I40_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-9*02_G52A_C82A_T106A_A107G_A194G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I37_S1/P11_I37_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-1*01_G194C,IGLV3-1*01_G194A,IGLV2-23*01_G168C_G170T,IGLV3-12*02_C195A_A267G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P1/P1_I82_S1/P1_I82_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV1-36*01_C330G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I14_S1/P11_I14_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV3-9*02_G52A_C82A_T106A_A107G
-Error in ogrdbstats D:\Research\digby_data\AIRR-seq\Human\IGL\samples/P11/P11_I6_S1/P11_I6_S1_ogrdb_report.csv:
-missing novels , novels listed as non-novel: IGLV2-18*02_G234C,IGLV2-5*01_G309C,IGLV2-11*01_G259A,IGLV3-16*01_T314A
+Reference alleles added
+Processing metadata
+Adding deleted alleles
+Processing genotype files
+Alias sets processed
+Processing haplotype files
+Updating allele appearance counts
+Updating overall gene frequencies
+Calculating patterns
+Running confidence checks

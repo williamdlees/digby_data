@@ -73,7 +73,7 @@ ALPHA_ORDER = [
 "TRBV5-8",
 "TRBV6-1",
 "TRBV6-2",
-"TRBV6-3",
+"TRBV6-3"
 "TRBV6-4",
 "TRBV6-5",
 "TRBV6-6",
