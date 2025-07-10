@@ -7,3 +7,7 @@ for foo in *.bam; do samtools index $foo; done
 echo "indexing fasta files"
 for foo in *.fasta; do samtools faidx $foo; done
 echo "done"
+echo "checking bams"
+python ../../../../../digby_data/python/check_bams.py
+
+
