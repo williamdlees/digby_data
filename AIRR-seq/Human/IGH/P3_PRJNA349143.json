@@ -33,13 +33,15 @@
                 "lab_address": "Department of Immunobiology, Yale School of Medicine, New Haven, CT 06520",
                 "submitted_by": "Brandon Windsor, brandon.windsor@utsouthwestern.edu",
                 "pub_ids": "PMID:28179494",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "IB",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -73,59 +75,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -138,7 +88,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "-8",
+                    "collection_time_point_relative": -8,
                     "collection_time_point_relative_unit": {
                         "id": null,
                         "label": null
@@ -152,10 +102,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
+                    "single_cell": false,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -234,7 +184,6 @@
                     }
                 }
             ],
-            "filetype": "AIRR-seq",
             "combine_repertoire": "IB"
         },
         {
@@ -257,13 +206,15 @@
                 "lab_address": "Department of Immunobiology, Yale School of Medicine, New Haven, CT 06539",
                 "submitted_by": "Brandon Windsor, brandon.windsor@utsouthwestern.edu",
                 "pub_ids": "PMID:28179513",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "FV",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -297,59 +248,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -362,7 +261,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "28",
+                    "collection_time_point_relative": 28,
                     "collection_time_point_relative_unit": {
                         "id": null,
                         "label": null
@@ -376,10 +275,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
+                    "single_cell": false,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -458,7 +357,6 @@
                     }
                 }
             ],
-            "filetype": "AIRR-seq",
             "combine_repertoire": "FV"
         },
         {
@@ -481,13 +379,15 @@
                 "lab_address": "Department of Immunobiology, Yale School of Medicine, New Haven, CT 06540",
                 "submitted_by": "Brandon Windsor, brandon.windsor@utsouthwestern.edu",
                 "pub_ids": "PMID:28179514",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "GMC",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -521,59 +421,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -586,7 +434,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "-8",
+                    "collection_time_point_relative": -8,
                     "collection_time_point_relative_unit": {
                         "id": null,
                         "label": null
@@ -600,10 +448,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
+                    "single_cell": false,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -682,7 +530,6 @@
                     }
                 }
             ],
-            "filetype": "AIRR-seq",
             "combine_repertoire": "GMC"
         }
     ]

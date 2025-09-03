@@ -2,7 +2,7 @@
     "Info": {
         "title": "AIRR Data File",
         "description": "AIRR Data File written by AIRR Standards Python Library",
-        "version": 1.5,
+        "version": 1.4,
         "contact": {
             "name": "AIRR Community",
             "url": "https://github.com/airr-community"
@@ -42,14 +42,14 @@
             },
             "subject": {
                 "subject_id": "P1",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "54.6",
+                "age_max": 54.6,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -76,59 +76,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -158,10 +106,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -240,7 +188,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P1"
         },
         {
@@ -272,14 +219,14 @@
             },
             "subject": {
                 "subject_id": "P2",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "55.0",
+                "age_max": 55.0,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -306,59 +253,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -388,10 +283,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -470,7 +365,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P2"
         },
         {
@@ -502,14 +396,14 @@
             },
             "subject": {
                 "subject_id": "P3",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "35.7",
+                "age_max": 35.7,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -536,59 +430,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -618,10 +460,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -700,7 +542,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P3"
         },
         {
@@ -732,14 +573,14 @@
             },
             "subject": {
                 "subject_id": "P4",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "25.8",
+                "age_max": 25.8,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -766,59 +607,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -848,10 +637,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -930,7 +719,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P4"
         },
         {
@@ -962,14 +750,14 @@
             },
             "subject": {
                 "subject_id": "P5",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "55.7",
+                "age_max": 55.7,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -996,59 +784,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1078,10 +814,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1160,7 +896,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P5"
         },
         {
@@ -1192,14 +927,14 @@
             },
             "subject": {
                 "subject_id": "P6",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "57.3",
+                "age_max": 57.3,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -1226,59 +961,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1308,10 +991,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1390,7 +1073,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P6"
         },
         {
@@ -1422,14 +1104,14 @@
             },
             "subject": {
                 "subject_id": "P7",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "43.0",
+                "age_max": 43.0,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -1456,59 +1138,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1538,10 +1168,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1620,7 +1250,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P7"
         },
         {
@@ -1652,14 +1281,14 @@
             },
             "subject": {
                 "subject_id": "P8",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "57.8",
+                "age_max": 57.8,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -1686,59 +1315,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1768,10 +1345,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "17000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 17000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1850,7 +1427,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "P8"
         }
     ]

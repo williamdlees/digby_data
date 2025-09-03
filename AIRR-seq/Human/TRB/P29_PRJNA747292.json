@@ -2,7 +2,7 @@
     "Info": {
         "title": "AIRR Data File",
         "description": "AIRR Data File written by AIRR Standards Python Library",
-        "version": 1.5,
+        "version": 1.4,
         "contact": {
             "name": "AIRR Community",
             "url": "https://github.com/airr-community"
@@ -26,7 +26,7 @@
                 },
                 "study_description": "T cells are important in tumour immunity but a better understanding is needed of the differentiation of antigen-specific T cells in human cancer1,2. Here we studied CD8 T cells in patients with human papillomavirus (HPV)-positive head and neck cancer and identified several epitopes derived from HPV E2, E5 and E6 proteins that allowed us to analyse virus-specific CD8 T cells using major histocompatibility complex (MHC) class I tetramers. HPV-specific CD8 T cells expressed PD-1 and were detectable in the tumour at levels that ranged from 0.1% to 10% of tumour-infiltrating CD8 T lymphocytes (TILs) for a given epitope. Single-cell RNA-sequencing analyses of tetramer-sorted HPV-specific PD-1+ CD8 TILs revealed three transcriptionally distinct subsets. One subset expressed TCF7 and other genes associated with PD-1+ stem-like CD8 T cells that are critical for maintaining T cell responses in conditions of antigen persistence. The second subset expressed more effector molecules, representing a transitory cell population, and the third subset was characterized by a terminally differentiated gene signature. T cell receptor clonotypes were shared between the three subsets and pseudotime analysis suggested a hypothetical differentiation trajectory from stem-like to transitory to terminally differentiated cells. More notably, HPV-specific PD-1+TCF-1+ stem-like TILs proliferated and differentiated into more effector-like cells after in vitro stimulation with the cognate HPV peptide, whereas the more terminally differentiated cells did not proliferate. The presence of functional HPV-specific PD-1+TCF-1+CD45RO+ stem-like CD8 T cells with proliferative capacity shows that the cellular machinery to respond to PD-1 blockade exists in HPV-positive head and neck cancer, supporting the further investigation of PD-1 targeted therapies in this malignancy. Furthermore, HPV therapeutic vaccination efforts have focused on E6 and E7 proteins; our results suggest that E2 and E5 should also be considered for inclusion as vaccine antigens to elicit tumour-reactive CD8 T cell responses of maximal breadth.",
                 "inclusion_exclusion_criteria": "Untreated patients with stage I HPV-positive head and neck squamous cell carcinoma (HNSCC) were enrolled at Emory University Hospital between March 2017 and April 2019 in accordance with an approved Emory University Institutional Review Board protocol (WINSHIP4008-17), with all patients providing informed consent.",
-                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u05d2\u20ac\u201cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
+                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0080\u009cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
                 "study_contact": null,
                 "collected_by": null,
                 "lab_name": "Rafi Ahmed",
@@ -42,7 +42,7 @@
             },
             "subject": {
                 "subject_id": "HPV15",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -76,59 +76,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -158,10 +106,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
-                    "cells_per_reaction": "1",
-                    "cell_storage": "True",
+                    "cells_per_reaction": 1,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "tetramer sorted HLA-A*01:01-HPV E2(151-159) (peptide sequence QVDYYGLYY)_tetramer sorted HLA-A*01:01-HPV E2(329-337)(peptide sequence KSAIVTLTY)",
                     "cell_processing_protocol": null,
@@ -240,7 +188,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "HPV15"
         },
         {
@@ -256,7 +203,7 @@
                 },
                 "study_description": "T cells are important in tumour immunity but a better understanding is needed of the differentiation of antigen-specific T cells in human cancer1,2. Here we studied CD8 T cells in patients with human papillomavirus (HPV)-positive head and neck cancer and identified several epitopes derived from HPV E2, E5 and E6 proteins that allowed us to analyse virus-specific CD8 T cells using major histocompatibility complex (MHC) class I tetramers. HPV-specific CD8 T cells expressed PD-1 and were detectable in the tumour at levels that ranged from 0.1% to 10% of tumour-infiltrating CD8 T lymphocytes (TILs) for a given epitope. Single-cell RNA-sequencing analyses of tetramer-sorted HPV-specific PD-1+ CD8 TILs revealed three transcriptionally distinct subsets. One subset expressed TCF7 and other genes associated with PD-1+ stem-like CD8 T cells that are critical for maintaining T cell responses in conditions of antigen persistence. The second subset expressed more effector molecules, representing a transitory cell population, and the third subset was characterized by a terminally differentiated gene signature. T cell receptor clonotypes were shared between the three subsets and pseudotime analysis suggested a hypothetical differentiation trajectory from stem-like to transitory to terminally differentiated cells. More notably, HPV-specific PD-1+TCF-1+ stem-like TILs proliferated and differentiated into more effector-like cells after in vitro stimulation with the cognate HPV peptide, whereas the more terminally differentiated cells did not proliferate. The presence of functional HPV-specific PD-1+TCF-1+CD45RO+ stem-like CD8 T cells with proliferative capacity shows that the cellular machinery to respond to PD-1 blockade exists in HPV-positive head and neck cancer, supporting the further investigation of PD-1 targeted therapies in this malignancy. Furthermore, HPV therapeutic vaccination efforts have focused on E6 and E7 proteins; our results suggest that E2 and E5 should also be considered for inclusion as vaccine antigens to elicit tumour-reactive CD8 T cell responses of maximal breadth.",
                 "inclusion_exclusion_criteria": "Untreated patients with stage I HPV-positive head and neck squamous cell carcinoma (HNSCC) were enrolled at Emory University Hospital between March 2017 and April 2019 in accordance with an approved Emory University Institutional Review Board protocol (WINSHIP4008-17), with all patients providing informed consent.",
-                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u05d2\u20ac\u201cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
+                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0080\u009cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
                 "study_contact": null,
                 "collected_by": null,
                 "lab_name": "Rafi Ahmed",
@@ -272,7 +219,7 @@
             },
             "subject": {
                 "subject_id": "HPV34",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -306,59 +253,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -388,10 +283,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
-                    "cells_per_reaction": "1",
-                    "cell_storage": "True",
+                    "cells_per_reaction": 1,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "tetramer sorted HLA-A*01:01-HPV E2(329-337)(peptide sequence KSAIVTLTY)_PD-1+ sorted_tetramer sorted HLA-A*01:01-HPV E2(151-159) (peptide sequence QVDYYGLYY)",
                     "cell_processing_protocol": null,
@@ -470,7 +365,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "HPV34"
         },
         {
@@ -486,7 +380,7 @@
                 },
                 "study_description": "T cells are important in tumour immunity but a better understanding is needed of the differentiation of antigen-specific T cells in human cancer1,2. Here we studied CD8 T cells in patients with human papillomavirus (HPV)-positive head and neck cancer and identified several epitopes derived from HPV E2, E5 and E6 proteins that allowed us to analyse virus-specific CD8 T cells using major histocompatibility complex (MHC) class I tetramers. HPV-specific CD8 T cells expressed PD-1 and were detectable in the tumour at levels that ranged from 0.1% to 10% of tumour-infiltrating CD8 T lymphocytes (TILs) for a given epitope. Single-cell RNA-sequencing analyses of tetramer-sorted HPV-specific PD-1+ CD8 TILs revealed three transcriptionally distinct subsets. One subset expressed TCF7 and other genes associated with PD-1+ stem-like CD8 T cells that are critical for maintaining T cell responses in conditions of antigen persistence. The second subset expressed more effector molecules, representing a transitory cell population, and the third subset was characterized by a terminally differentiated gene signature. T cell receptor clonotypes were shared between the three subsets and pseudotime analysis suggested a hypothetical differentiation trajectory from stem-like to transitory to terminally differentiated cells. More notably, HPV-specific PD-1+TCF-1+ stem-like TILs proliferated and differentiated into more effector-like cells after in vitro stimulation with the cognate HPV peptide, whereas the more terminally differentiated cells did not proliferate. The presence of functional HPV-specific PD-1+TCF-1+CD45RO+ stem-like CD8 T cells with proliferative capacity shows that the cellular machinery to respond to PD-1 blockade exists in HPV-positive head and neck cancer, supporting the further investigation of PD-1 targeted therapies in this malignancy. Furthermore, HPV therapeutic vaccination efforts have focused on E6 and E7 proteins; our results suggest that E2 and E5 should also be considered for inclusion as vaccine antigens to elicit tumour-reactive CD8 T cell responses of maximal breadth.",
                 "inclusion_exclusion_criteria": "Untreated patients with stage I HPV-positive head and neck squamous cell carcinoma (HNSCC) were enrolled at Emory University Hospital between March 2017 and April 2019 in accordance with an approved Emory University Institutional Review Board protocol (WINSHIP4008-17), with all patients providing informed consent.",
-                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u05d2\u20ac\u201cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
+                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0080\u009cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
                 "study_contact": null,
                 "collected_by": null,
                 "lab_name": "Rafi Ahmed",
@@ -502,7 +396,7 @@
             },
             "subject": {
                 "subject_id": "HPV37",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -536,59 +430,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -618,10 +460,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
-                    "cells_per_reaction": "1",
-                    "cell_storage": "True",
+                    "cells_per_reaction": 1,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "tetramer sorted HLA-A*01:01-HPV E2(151-159) (peptide sequence QVDYYGLYY)",
                     "cell_processing_protocol": null,
@@ -700,7 +542,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "HPV37"
         },
         {
@@ -716,7 +557,7 @@
                 },
                 "study_description": "T cells are important in tumour immunity but a better understanding is needed of the differentiation of antigen-specific T cells in human cancer1,2. Here we studied CD8 T cells in patients with human papillomavirus (HPV)-positive head and neck cancer and identified several epitopes derived from HPV E2, E5 and E6 proteins that allowed us to analyse virus-specific CD8 T cells using major histocompatibility complex (MHC) class I tetramers. HPV-specific CD8 T cells expressed PD-1 and were detectable in the tumour at levels that ranged from 0.1% to 10% of tumour-infiltrating CD8 T lymphocytes (TILs) for a given epitope. Single-cell RNA-sequencing analyses of tetramer-sorted HPV-specific PD-1+ CD8 TILs revealed three transcriptionally distinct subsets. One subset expressed TCF7 and other genes associated with PD-1+ stem-like CD8 T cells that are critical for maintaining T cell responses in conditions of antigen persistence. The second subset expressed more effector molecules, representing a transitory cell population, and the third subset was characterized by a terminally differentiated gene signature. T cell receptor clonotypes were shared between the three subsets and pseudotime analysis suggested a hypothetical differentiation trajectory from stem-like to transitory to terminally differentiated cells. More notably, HPV-specific PD-1+TCF-1+ stem-like TILs proliferated and differentiated into more effector-like cells after in vitro stimulation with the cognate HPV peptide, whereas the more terminally differentiated cells did not proliferate. The presence of functional HPV-specific PD-1+TCF-1+CD45RO+ stem-like CD8 T cells with proliferative capacity shows that the cellular machinery to respond to PD-1 blockade exists in HPV-positive head and neck cancer, supporting the further investigation of PD-1 targeted therapies in this malignancy. Furthermore, HPV therapeutic vaccination efforts have focused on E6 and E7 proteins; our results suggest that E2 and E5 should also be considered for inclusion as vaccine antigens to elicit tumour-reactive CD8 T cell responses of maximal breadth.",
                 "inclusion_exclusion_criteria": "Untreated patients with stage I HPV-positive head and neck squamous cell carcinoma (HNSCC) were enrolled at Emory University Hospital between March 2017 and April 2019 in accordance with an approved Emory University Institutional Review Board protocol (WINSHIP4008-17), with all patients providing informed consent.",
-                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u05d2\u20ac\u201cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
+                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0080\u009cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
                 "study_contact": null,
                 "collected_by": null,
                 "lab_name": "Rafi Ahmed",
@@ -732,7 +573,7 @@
             },
             "subject": {
                 "subject_id": "HPV42",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -766,59 +607,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -848,10 +637,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
-                    "cells_per_reaction": "1",
-                    "cell_storage": "True",
+                    "cells_per_reaction": 1,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "tetramer sorted HLA-A*01:01-HPV E2(151-159) (peptide sequence QVDYYGLYY)",
                     "cell_processing_protocol": null,
@@ -930,7 +719,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "HPV42"
         },
         {
@@ -946,7 +734,7 @@
                 },
                 "study_description": "T cells are important in tumour immunity but a better understanding is needed of the differentiation of antigen-specific T cells in human cancer1,2. Here we studied CD8 T cells in patients with human papillomavirus (HPV)-positive head and neck cancer and identified several epitopes derived from HPV E2, E5 and E6 proteins that allowed us to analyse virus-specific CD8 T cells using major histocompatibility complex (MHC) class I tetramers. HPV-specific CD8 T cells expressed PD-1 and were detectable in the tumour at levels that ranged from 0.1% to 10% of tumour-infiltrating CD8 T lymphocytes (TILs) for a given epitope. Single-cell RNA-sequencing analyses of tetramer-sorted HPV-specific PD-1+ CD8 TILs revealed three transcriptionally distinct subsets. One subset expressed TCF7 and other genes associated with PD-1+ stem-like CD8 T cells that are critical for maintaining T cell responses in conditions of antigen persistence. The second subset expressed more effector molecules, representing a transitory cell population, and the third subset was characterized by a terminally differentiated gene signature. T cell receptor clonotypes were shared between the three subsets and pseudotime analysis suggested a hypothetical differentiation trajectory from stem-like to transitory to terminally differentiated cells. More notably, HPV-specific PD-1+TCF-1+ stem-like TILs proliferated and differentiated into more effector-like cells after in vitro stimulation with the cognate HPV peptide, whereas the more terminally differentiated cells did not proliferate. The presence of functional HPV-specific PD-1+TCF-1+CD45RO+ stem-like CD8 T cells with proliferative capacity shows that the cellular machinery to respond to PD-1 blockade exists in HPV-positive head and neck cancer, supporting the further investigation of PD-1 targeted therapies in this malignancy. Furthermore, HPV therapeutic vaccination efforts have focused on E6 and E7 proteins; our results suggest that E2 and E5 should also be considered for inclusion as vaccine antigens to elicit tumour-reactive CD8 T cell responses of maximal breadth.",
                 "inclusion_exclusion_criteria": "Untreated patients with stage I HPV-positive head and neck squamous cell carcinoma (HNSCC) were enrolled at Emory University Hospital between March 2017 and April 2019 in accordance with an approved Emory University Institutional Review Board protocol (WINSHIP4008-17), with all patients providing informed consent.",
-                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u05d2\u20ac\u201cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
+                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0080\u009cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
                 "study_contact": null,
                 "collected_by": null,
                 "lab_name": "Rafi Ahmed",
@@ -962,7 +750,7 @@
             },
             "subject": {
                 "subject_id": "HPV51",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -996,59 +784,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1078,10 +814,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
-                    "cells_per_reaction": "1",
-                    "cell_storage": "True",
+                    "cells_per_reaction": 1,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "tetramer sorted HLA-A*01:01-HPV E2(329-337)(peptide sequence KSAIVTLTY)_PD-1+ sorted_tetramer sorted HLA-A*01:01-HPV E2(151-159) (peptide sequence QVDYYGLYY)",
                     "cell_processing_protocol": null,
@@ -1160,7 +896,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "HPV51"
         },
         {
@@ -1176,7 +911,7 @@
                 },
                 "study_description": "T cells are important in tumour immunity but a better understanding is needed of the differentiation of antigen-specific T cells in human cancer1,2. Here we studied CD8 T cells in patients with human papillomavirus (HPV)-positive head and neck cancer and identified several epitopes derived from HPV E2, E5 and E6 proteins that allowed us to analyse virus-specific CD8 T cells using major histocompatibility complex (MHC) class I tetramers. HPV-specific CD8 T cells expressed PD-1 and were detectable in the tumour at levels that ranged from 0.1% to 10% of tumour-infiltrating CD8 T lymphocytes (TILs) for a given epitope. Single-cell RNA-sequencing analyses of tetramer-sorted HPV-specific PD-1+ CD8 TILs revealed three transcriptionally distinct subsets. One subset expressed TCF7 and other genes associated with PD-1+ stem-like CD8 T cells that are critical for maintaining T cell responses in conditions of antigen persistence. The second subset expressed more effector molecules, representing a transitory cell population, and the third subset was characterized by a terminally differentiated gene signature. T cell receptor clonotypes were shared between the three subsets and pseudotime analysis suggested a hypothetical differentiation trajectory from stem-like to transitory to terminally differentiated cells. More notably, HPV-specific PD-1+TCF-1+ stem-like TILs proliferated and differentiated into more effector-like cells after in vitro stimulation with the cognate HPV peptide, whereas the more terminally differentiated cells did not proliferate. The presence of functional HPV-specific PD-1+TCF-1+CD45RO+ stem-like CD8 T cells with proliferative capacity shows that the cellular machinery to respond to PD-1 blockade exists in HPV-positive head and neck cancer, supporting the further investigation of PD-1 targeted therapies in this malignancy. Furthermore, HPV therapeutic vaccination efforts have focused on E6 and E7 proteins; our results suggest that E2 and E5 should also be considered for inclusion as vaccine antigens to elicit tumour-reactive CD8 T cell responses of maximal breadth.",
                 "inclusion_exclusion_criteria": "Untreated patients with stage I HPV-positive head and neck squamous cell carcinoma (HNSCC) were enrolled at Emory University Hospital between March 2017 and April 2019 in accordance with an approved Emory University Institutional Review Board protocol (WINSHIP4008-17), with all patients providing informed consent.",
-                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u05d2\u20ac\u201cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
+                "grants": "This work was supported by funding from the Ambrose Monell Foundation (R.A.); the T. J. Martell Foundation (R.A.); NIH grants 5U19AI057266 and P01AI056299 (R.A.); the Oliver S. and Jennie R. Donaldson Charitable Trust (R.A.); a Winship Invest$ Pilot grant (R.A., Z.G.C. and N.F.S.); Swiss National Science Foundation grant P300PB_174483 (C.S.E.); a Eugenio Litta Foundation grant (C.S.E.); NCI grant 1-R00-CA197891 (H.T.K.); the James M. Cox Foundation and James C. Kennedy (H.T.K.); the Prostate Cancer Foundation (H.T.K. and N.P.); and a Triological Society Research Career Development Award (M.R.P.). We acknowledge the Emory Flow Cytometry Core supported by the National Center for Georgia Clinical and Translational Science Alliance of the NIH under award number UL1TR002378; the Integrated Cellular Imaging Microscopy Core of the Winship Cancer Institute of Emory University and the NIH\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0080\u009cNCI under award number, 2P30CA138292-04; and the Yerkes NHP Genomics Core, which is supported in part by NIH P51 OD011132. This research was supported in part by the Intramural Research Program of the NIH, the Frederick National Laboratory for Cancer Research and the Center for Cancer Research. The project has been funded in part with federal funds from the Frederick National Laboratory for Cancer Research, under contract no. HHSN261200800001E.",
                 "study_contact": null,
                 "collected_by": null,
                 "lab_name": "Rafi Ahmed",
@@ -1192,7 +927,7 @@
             },
             "subject": {
                 "subject_id": "HPV7",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
@@ -1226,59 +961,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1308,10 +991,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
-                    "cells_per_reaction": "1",
-                    "cell_storage": "True",
+                    "cells_per_reaction": 1,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "tetramer sorted HLA-A*01:01-HPV E2(329-337)(peptide sequence KSAIVTLTY)_PD-1+ sorted_tetramer sorted HLA-A*01:01-HPV E2(151-159) (peptide sequence QVDYYGLYY)",
                     "cell_processing_protocol": null,
@@ -1390,7 +1073,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "HPV7"
         }
     ]

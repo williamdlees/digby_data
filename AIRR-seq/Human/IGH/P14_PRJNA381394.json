@@ -21,30 +21,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:NCIT:C15197",
-                    "label": "Case-Control Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B10_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -73,59 +77,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -152,10 +104,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1766476",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1766476,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -176,17 +128,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1766476,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408029.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "1",
                         "read_direction": null,
                         "read_length": 300,
@@ -234,7 +186,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -245,30 +196,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B11_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -297,59 +252,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -376,10 +279,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1804895",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1804895,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -400,17 +303,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1804895,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408028.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "2",
                         "read_direction": null,
                         "read_length": 300,
@@ -458,7 +361,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -469,30 +371,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B12_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -521,59 +427,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -600,10 +454,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1823538",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1823538,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -624,17 +478,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1823538,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408027.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "3",
                         "read_direction": null,
                         "read_length": 300,
@@ -682,7 +536,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -693,30 +546,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B13_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -745,59 +602,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -824,10 +629,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1439815",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1439815,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -848,17 +653,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1439815,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408026.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "4",
                         "read_direction": null,
                         "read_length": 300,
@@ -906,7 +711,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -917,30 +721,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B14_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -969,59 +777,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1048,10 +804,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1699223",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1699223,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -1072,17 +828,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1699223,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408025.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "5",
                         "read_direction": null,
                         "read_length": 300,
@@ -1130,7 +886,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -1141,30 +896,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B16_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -1193,59 +952,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1272,10 +979,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1164340",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1164340,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -1296,17 +1003,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1164340,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408024.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "6",
                         "read_direction": null,
                         "read_length": 300,
@@ -1354,7 +1061,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -1365,30 +1071,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B17_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -1417,59 +1127,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1496,10 +1154,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1286813",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1286813,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -1520,17 +1178,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1286813,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408023.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "7",
                         "read_direction": null,
                         "read_length": 300,
@@ -1578,7 +1236,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -1589,30 +1246,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B18_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -1641,59 +1302,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1720,10 +1329,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1837250",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1837250,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -1744,17 +1353,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1837250,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408022.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "8",
                         "read_direction": null,
                         "read_length": 300,
@@ -1802,7 +1411,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -1813,30 +1421,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B19_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -1865,59 +1477,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1944,10 +1504,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1830652",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1830652,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -1968,17 +1528,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1830652,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408021.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "9",
                         "read_direction": null,
                         "read_length": 300,
@@ -2026,7 +1586,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -2037,30 +1596,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B20_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -2089,59 +1652,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2168,10 +1679,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1346116",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1346116,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -2192,17 +1703,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1346116,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408020.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "10",
                         "read_direction": null,
                         "read_length": 300,
@@ -2250,7 +1761,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         },
         {
@@ -2261,30 +1771,34 @@
                 "study_id": "PRJNA381394",
                 "study_title": "Vergani et al., Novel Method for High-Throughput Full-Length IGHV-D-J Sequencing of the Immune Repertoire from Bulk B-Cells with Single-Cell Resolution",
                 "study_type": {
-                    "id": "NCIT:C16084",
-                    "label": "Observational Study"
+                    "label": "Case-Control Study",
+                    "id": "NCIT:C15197"
                 },
                 "study_description": "Cancer Study",
                 "inclusion_exclusion_criteria": null,
                 "grants": null,
-                "study_contact": null,
+                "study_contact": "Davide Bagnara, davide.bagnara@edu.unige.it, https://orcid.org/0000-0001-7889-8103",
                 "collected_by": "davide.bagnara@edu.unige.it",
                 "lab_name": "Bagnara Lab, Department of Experimental Medicine, University of Genoa",
                 "lab_address": "University of Genoa, Genoa, Italy",
                 "submitted_by": "S. Vergani, I. Korunsky, D. Bagnara",
                 "pub_ids": "PMID: 28959265",
-                "keywords_study": "contains_ig",
-                "adc_publish_date": null,
-                "adc_update_date": null
+                "keywords_study": [
+                    "contains_ig",
+                    "contains_schema_rearrangement",
+                    "contains_paired_chain"
+                ],
+                "adc_publish_date": "2019-05-02T20:09:19",
+                "adc_update_date": "2022-11-14T19:12:11.173521"
             },
             "subject": {
                 "subject_id": "B21_N",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
-                "sex": "not collected",
+                "sex": null,
                 "age_min": null,
                 "age_max": null,
                 "age_unit": {
@@ -2313,59 +1827,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2392,10 +1854,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "TRUE",
-                    "cell_number": "1143485",
-                    "cells_per_reaction": "100000",
-                    "cell_storage": "TRUE",
+                    "single_cell": true,
+                    "cell_number": 1143485,
+                    "cells_per_reaction": 100000,
+                    "cell_storage": true,
                     "cell_quality": null,
                     "cell_isolation": "Dynabeads Oligo(dT)",
                     "cell_processing_protocol": null,
@@ -2416,17 +1878,17 @@
                             "reverse_pcr_primer_target_location": "IGHC"
                         }
                     ],
-                    "complete_sequences": "complete ",
+                    "complete_sequences": "complete",
                     "physical_linkage": "none",
                     "sequencing_run_id": null,
                     "total_reads_passing_qc_filter": 1143485,
                     "sequencing_platform": "Illumina MiSeq",
-                    "sequencing_facility": null,
-                    "sequencing_run_date": "Illumina Nextera XT kit",
-                    "sequencing_kit": "SRR5408019.fasta",
+                    "sequencing_facility": "Bagnara Lab",
+                    "sequencing_run_date": null,
+                    "sequencing_kit": "Illumina Nextera XT kit",
                     "sequencing_files": {
                         "sequencing_data_id": null,
-                        "file_type": null,
+                        "file_type": "fasta",
                         "filename": "11",
                         "read_direction": null,
                         "read_length": 300,
@@ -2474,7 +1936,6 @@
                     }
                 }
             ],
-            "organism": "Homo sapiens",
             "combine_repertoire": null
         }
     ]

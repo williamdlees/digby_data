@@ -33,13 +33,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "TET1-42",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -73,59 +75,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -152,10 +102,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1200658",
+                    "single_cell": false,
+                    "cell_number": 1200658,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -234,7 +184,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "756"
         },
         {
@@ -257,13 +206,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE3-292",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -297,59 +248,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -376,10 +275,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "4547836",
+                    "single_cell": false,
+                    "cell_number": 4547836,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -458,7 +357,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "SLE3-292"
         },
         {
@@ -481,13 +379,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "TET2-43",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -521,59 +421,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -600,10 +448,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1714912",
+                    "single_cell": false,
+                    "cell_number": 1714912,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -682,7 +530,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "758"
         },
         {
@@ -705,13 +552,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE6-161",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -745,59 +594,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -824,10 +621,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "8267194",
+                    "single_cell": false,
+                    "cell_number": 8267194,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -906,7 +703,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "759"
         },
         {
@@ -929,13 +725,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE7-730",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -969,59 +767,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1048,10 +794,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1455382",
+                    "single_cell": false,
+                    "cell_number": 1455382,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -1130,7 +876,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "760"
         },
         {
@@ -1153,13 +898,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "IGG2-337",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1193,59 +940,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1272,10 +967,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "791041",
+                    "single_cell": false,
+                    "cell_number": 791041,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -1354,7 +1049,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "761"
         },
         {
@@ -1377,13 +1071,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE5-262",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1417,59 +1113,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1496,10 +1140,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "5155612",
+                    "single_cell": false,
+                    "cell_number": 5155612,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -1578,7 +1222,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "762"
         },
         {
@@ -1601,13 +1244,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "FLU4-752",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1641,59 +1286,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1720,10 +1313,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "3682374",
+                    "single_cell": false,
+                    "cell_number": 3682374,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -1802,7 +1395,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "763"
         },
         {
@@ -1825,13 +1417,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "PEM2-20",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1865,59 +1459,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1944,10 +1486,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "717437",
+                    "single_cell": false,
+                    "cell_number": 717437,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -2026,7 +1568,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "764"
         },
         {
@@ -2049,13 +1590,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE4-2037",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2089,59 +1632,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2168,10 +1659,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1480663",
+                    "single_cell": false,
+                    "cell_number": 1480663,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -2250,7 +1741,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "765"
         },
         {
@@ -2273,13 +1763,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "FLU1-701",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2313,59 +1805,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2392,10 +1832,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "3763948",
+                    "single_cell": false,
+                    "cell_number": 3763948,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -2474,7 +1914,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "766"
         },
         {
@@ -2497,13 +1936,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "TET4-47",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2537,59 +1978,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2616,10 +2005,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "3139898",
+                    "single_cell": false,
+                    "cell_number": 3139898,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -2698,7 +2087,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "767"
         },
         {
@@ -2721,13 +2109,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "FLU2-185",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2761,59 +2151,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2840,10 +2178,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "544226",
+                    "single_cell": false,
+                    "cell_number": 544226,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -2922,7 +2260,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "768"
         },
         {
@@ -2945,13 +2282,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "IGG1-267",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2985,59 +2324,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3064,10 +2351,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "228184",
+                    "single_cell": false,
+                    "cell_number": 228184,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -3146,7 +2433,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "769"
         },
         {
@@ -3169,13 +2455,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE1-126",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -3209,59 +2497,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3288,10 +2524,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "990139",
+                    "single_cell": false,
+                    "cell_number": 990139,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -3370,7 +2606,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "770"
         },
         {
@@ -3393,13 +2628,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "TET3-45",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -3433,59 +2670,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3512,10 +2697,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1941454",
+                    "single_cell": false,
+                    "cell_number": 1941454,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -3594,7 +2779,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "772"
         },
         {
@@ -3617,13 +2801,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "PEM1-10",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -3657,59 +2843,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3736,10 +2870,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "85697",
+                    "single_cell": false,
+                    "cell_number": 85697,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -3818,7 +2952,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "771"
         },
         {
@@ -3841,13 +2974,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "SLE2-178",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -3881,59 +3016,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3960,10 +3043,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1551082",
+                    "single_cell": false,
+                    "cell_number": 1551082,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -4042,7 +3125,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "773"
         },
         {
@@ -4065,13 +3147,15 @@
                 "lab_address": "Emory University, Atlanta, GA, USA",
                 "submitted_by": "C.M. Tipton, C.F. Fucile, I. Sanz",
                 "pub_ids": "PMID: 26006014",
-                "keywords_study": "contains_ig",
+                "keywords_study": [
+                    "contains_ig"
+                ],
                 "adc_publish_date": null,
                 "adc_update_date": null
             },
             "subject": {
                 "subject_id": "FLU3-188",
-                "synthetic": "FALSE",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -4105,59 +3189,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -4184,10 +3216,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "FALSE",
-                    "cell_number": "1044698",
+                    "single_cell": false,
+                    "cell_number": 1044698,
                     "cells_per_reaction": null,
-                    "cell_storage": "FALSE",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": "PBMCs isolated using ficoll density gradient centrifugation",
                     "cell_processing_protocol": "PBMCs isolated using ficoll density gradient centrifugation, Cells stained with anti-human antibodies for multi-color flow cytometry and cell sorting, RNA isolated from total cells using RNeasy Micro kit, 2ng of RNA for Reverse Transcription",
@@ -4266,7 +3298,6 @@
                     }
                 }
             ],
-            "filetype": null,
             "combine_repertoire": "754"
         }
     ]

@@ -2,7 +2,7 @@
     "Info": {
         "title": "AIRR Data File",
         "description": "AIRR Data File written by AIRR Standards Python Library",
-        "version": 1.5,
+        "version": 1.4,
         "contact": {
             "name": "AIRR Community",
             "url": "https://github.com/airr-community"
@@ -29,7 +29,7 @@
                 "grants": "This study was supported by NIH grants R37 AI034206 (A.Y.R.), DP1-HD084071 (D.P.), R01CA164729 (D.P.), U54 CA209975 (A.Y.R, D.P.). Cancer Center Support Grant P30 CA008748, the Hilton-Ludwig Cancer Prevention Initiative funded by the Conrad N. Hilton Foundation, Ludwig Cancer Research, and Gerry Center for Metastasis and Tumor Ecosystems. E.A. was supported by an American Cancer Society - Fairfield County Roast Committee Postdoctoral Fellowship (PF-17-243-01-RMC), A.J.C. by a HHMI international graduate fellowship, G.P. by a Breast Cancer Alliance Young Investigator Grant and the Society of MSK Research Grant, C.K. by a Hutham S. Olayan Graduate Fellowship, and P.T.M. by a Boehringer Ingelheim SHINE Fellowship. CyTOF experiments were supported with funds from the Boehringer Ingelheim SHINE Program (A.Y.R.). A.Y.R. is an investigator with the Howard Hughes Medical Institute.",
                 "study_contact": null,
                 "collected_by": null,
-                "lab_name": "Dana Pe\u05d2\u20ac\u2122er",
+                "lab_name": "Dana Pe\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2er",
                 "lab_address": "Program for Computational and Systems Biology, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA",
                 "submitted_by": "Scott Christley, scott.christley@utsouthwestern.edu, UT Southwestern Medical Center",
                 "pub_ids": "PMID: 29961579",
@@ -42,14 +42,14 @@
             },
             "subject": {
                 "subject_id": "BC09",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "65",
+                "age_max": 65,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -76,59 +76,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -158,10 +106,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "12000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 12000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -240,7 +188,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "BC09"
         },
         {
@@ -259,7 +206,7 @@
                 "grants": "This study was supported by NIH grants R37 AI034206 (A.Y.R.), DP1-HD084071 (D.P.), R01CA164729 (D.P.), U54 CA209975 (A.Y.R, D.P.). Cancer Center Support Grant P30 CA008748, the Hilton-Ludwig Cancer Prevention Initiative funded by the Conrad N. Hilton Foundation, Ludwig Cancer Research, and Gerry Center for Metastasis and Tumor Ecosystems. E.A. was supported by an American Cancer Society - Fairfield County Roast Committee Postdoctoral Fellowship (PF-17-243-01-RMC), A.J.C. by a HHMI international graduate fellowship, G.P. by a Breast Cancer Alliance Young Investigator Grant and the Society of MSK Research Grant, C.K. by a Hutham S. Olayan Graduate Fellowship, and P.T.M. by a Boehringer Ingelheim SHINE Fellowship. CyTOF experiments were supported with funds from the Boehringer Ingelheim SHINE Program (A.Y.R.). A.Y.R. is an investigator with the Howard Hughes Medical Institute.",
                 "study_contact": null,
                 "collected_by": null,
-                "lab_name": "Dana Pe\u05d2\u20ac\u2122er",
+                "lab_name": "Dana Pe\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2er",
                 "lab_address": "Program for Computational and Systems Biology, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA",
                 "submitted_by": "Scott Christley, scott.christley@utsouthwestern.edu, UT Southwestern Medical Center",
                 "pub_ids": "PMID: 29961579",
@@ -272,14 +219,14 @@
             },
             "subject": {
                 "subject_id": "BC10",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "73",
+                "age_max": 73,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -306,59 +253,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -388,10 +283,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "12000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 12000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -470,7 +365,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "BC10"
         },
         {
@@ -489,7 +383,7 @@
                 "grants": "This study was supported by NIH grants R37 AI034206 (A.Y.R.), DP1-HD084071 (D.P.), R01CA164729 (D.P.), U54 CA209975 (A.Y.R, D.P.). Cancer Center Support Grant P30 CA008748, the Hilton-Ludwig Cancer Prevention Initiative funded by the Conrad N. Hilton Foundation, Ludwig Cancer Research, and Gerry Center for Metastasis and Tumor Ecosystems. E.A. was supported by an American Cancer Society - Fairfield County Roast Committee Postdoctoral Fellowship (PF-17-243-01-RMC), A.J.C. by a HHMI international graduate fellowship, G.P. by a Breast Cancer Alliance Young Investigator Grant and the Society of MSK Research Grant, C.K. by a Hutham S. Olayan Graduate Fellowship, and P.T.M. by a Boehringer Ingelheim SHINE Fellowship. CyTOF experiments were supported with funds from the Boehringer Ingelheim SHINE Program (A.Y.R.). A.Y.R. is an investigator with the Howard Hughes Medical Institute.",
                 "study_contact": null,
                 "collected_by": null,
-                "lab_name": "Dana Pe\u05d2\u20ac\u2122er",
+                "lab_name": "Dana Pe\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2er",
                 "lab_address": "Program for Computational and Systems Biology, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA",
                 "submitted_by": "Scott Christley, scott.christley@utsouthwestern.edu, UT Southwestern Medical Center",
                 "pub_ids": "PMID: 29961579",
@@ -502,14 +396,14 @@
             },
             "subject": {
                 "subject_id": "BC11",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "id": "NCBITAXON:9606",
                     "label": "Homo sapiens"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "50",
+                "age_max": 50,
                 "age_unit": {
                     "id": "UO:0000036",
                     "label": "year"
@@ -536,59 +430,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -618,10 +460,10 @@
                         "id": null,
                         "label": null
                     },
-                    "single_cell": "True",
-                    "cell_number": "12000",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 12000,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -700,7 +542,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "BC11"
         }
     ]

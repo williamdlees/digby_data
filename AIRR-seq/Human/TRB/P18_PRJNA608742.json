@@ -2,7 +2,7 @@
     "Info": {
         "title": "AIRR Data File",
         "description": "AIRR Data File written by AIRR Standards Python Library",
-        "version": 1.5,
+        "version": 1.4,
         "contact": {
             "name": "AIRR Community",
             "url": "https://github.com/airr-community"
@@ -25,7 +25,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -42,7 +42,7 @@
             },
             "subject": {
                 "subject_id": "S6",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -76,59 +76,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -141,7 +89,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -158,10 +106,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -173,7 +121,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -240,8 +188,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 46,
             "combine_repertoire": null
         },
         {
@@ -256,7 +202,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -273,7 +219,7 @@
             },
             "subject": {
                 "subject_id": "M2",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -307,59 +253,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -372,7 +266,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -389,10 +283,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -404,7 +298,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -471,8 +365,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 37,
             "combine_repertoire": null
         },
         {
@@ -487,7 +379,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -504,7 +396,7 @@
             },
             "subject": {
                 "subject_id": "S5",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -538,59 +430,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -603,7 +443,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -620,10 +460,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -635,7 +475,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -702,8 +542,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 57,
             "combine_repertoire": null
         },
         {
@@ -718,7 +556,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -735,7 +573,7 @@
             },
             "subject": {
                 "subject_id": "S2",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -769,59 +607,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -834,7 +620,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -851,10 +637,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -866,7 +652,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -933,8 +719,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 66,
             "combine_repertoire": null
         },
         {
@@ -949,7 +733,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -966,7 +750,7 @@
             },
             "subject": {
                 "subject_id": "M3",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1000,59 +784,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1065,7 +797,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -1082,10 +814,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1097,7 +829,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -1164,8 +896,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 35,
             "combine_repertoire": null
         },
         {
@@ -1180,7 +910,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -1197,7 +927,7 @@
             },
             "subject": {
                 "subject_id": "S1",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1231,59 +961,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1296,7 +974,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -1313,10 +991,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1328,7 +1006,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -1395,8 +1073,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 62,
             "combine_repertoire": null
         },
         {
@@ -1411,7 +1087,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -1428,7 +1104,7 @@
             },
             "subject": {
                 "subject_id": "S3",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1462,59 +1138,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1527,7 +1151,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -1544,10 +1168,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1559,7 +1183,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -1626,8 +1250,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 63,
             "combine_repertoire": null
         },
         {
@@ -1642,7 +1264,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -1659,7 +1281,7 @@
             },
             "subject": {
                 "subject_id": "M1",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1693,59 +1315,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1758,7 +1328,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -1775,10 +1345,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1790,7 +1360,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -1857,8 +1427,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 36,
             "combine_repertoire": null
         },
         {
@@ -1873,7 +1441,7 @@
                     "label": "Observational Study"
                 },
                 "study_description": "Respiratory immune characteristics associated with Coronavirus Disease 2019 (COVID-19) severity are currently unclear. We characterized bronchoalveolar lavage fluid immune cells from patients with varying severity of COVID-19 and from healthy people by using single-cell RNA sequencing. Proinflammatory monocyte-derived macrophages were abundant in the bronchoalveolar lavage fluid from patients with severe COVID-9. Moderate cases were characterized by the presence of highly clonally expanded CD8+ T cells. This atlas of the bronchoalveolar immune microenvironment suggests potential mechanisms underlying pathogenesis and recovery in COVID-19.",
-                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u05d2\u20ac\u2122s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
+                "inclusion_exclusion_criteria": "This study was conducted according to the principles expressed in the Declaration of Helsinki. Ethical approval was obtained from the Research Ethics Committee of Shenzhen Third People\u00d7\u0092\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Hospital (2020-112). All participants provided written informed consent for sample collection and subsequent analyses.",
                 "grants": "This study was supported by the Science and Technology Innovation Committee of Shenzhen Municipality (202002073000002) and the National Natural Science Foundation of China (91442127 to Z.Z.; 81700540 to Y.L.).",
                 "study_contact": null,
                 "collected_by": "Mingfeng Liao, Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital, Shenzhen, China",
@@ -1890,7 +1458,7 @@
             },
             "subject": {
                 "subject_id": "S4",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -1924,59 +1492,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "TRB",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1989,7 +1505,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "id": "UO:0000033",
                         "label": "day"
@@ -2006,10 +1522,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
+                    "single_cell": true,
                     "cell_number": null,
                     "cells_per_reaction": null,
-                    "cell_storage": "False",
+                    "cell_storage": false,
                     "cell_quality": null,
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -2021,7 +1537,7 @@
                         "label": "microliter"
                     },
                     "library_generation_method": "RT(oligo-dT)+TS+PCR",
-                    "library_generation_protocol": "Total 11 \u05b2\u00b5l of single cell suspension and 40 \u05b2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
+                    "library_generation_protocol": "Total 11 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l of single cell suspension and 40 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0096\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b5l barcoded Gel Beads were loaded to Chromium Chip A to generate single-cell gel bead-in-emulsion (GEM). The poly-adenylated transcripts were reverse-transcribed later. The single-cell capturing and downstream library constructions were performed using the Chromium Single Cell 5' library preparation kit with full length TCR V(D)J segment enrichment with a Chromium Single-Cell V(D)J Enrichment kit. Both kits were used accourding to 10X Genomic's protocol. Full-length cDNA along with cell-barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized to 3 nM.",
                     "library_generation_kit_version": "Chromium Single Cell V(D)J Reagent kits (10x Genomics; PN-1000006, PN-1000014, PN-1000020, PN-1000005)",
                     "pcr_target": [
                         {
@@ -2088,8 +1604,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
-            "age": 65,
             "combine_repertoire": null
         }
     ]

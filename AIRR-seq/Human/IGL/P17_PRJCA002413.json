@@ -2,7 +2,7 @@
     "Info": {
         "title": "AIRR Data File",
         "description": "AIRR Data File written by AIRR Standards Python Library",
-        "version": 1.5,
+        "version": 1.4,
         "contact": {
             "name": "AIRR Community",
             "url": "https://github.com/airr-community"
@@ -32,7 +32,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -43,14 +43,14 @@
             },
             "subject": {
                 "subject_id": "ERS1",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "male",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -77,59 +77,7 @@
                         "medical_history": "coronary heart disease"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -142,7 +90,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "7",
+                    "collection_time_point_relative": 7,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -159,10 +107,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "468",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 468,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -174,7 +122,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -241,7 +189,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "ERS1"
         },
         {
@@ -263,7 +210,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -274,14 +221,14 @@
             },
             "subject": {
                 "subject_id": "ERS2",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "male",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -308,59 +255,7 @@
                         "medical_history": "tumor, gastritis"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -373,7 +268,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "7",
+                    "collection_time_point_relative": 7,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -390,10 +285,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "602",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 602,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -405,7 +300,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -472,7 +367,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "ERS2"
         },
         {
@@ -494,7 +388,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -505,14 +399,14 @@
             },
             "subject": {
                 "subject_id": "ERS3",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -539,59 +433,7 @@
                         "medical_history": "HBV"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -604,7 +446,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "7",
+                    "collection_time_point_relative": 7,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -621,10 +463,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "430",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 430,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -636,7 +478,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -703,7 +545,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "ERS3"
         },
         {
@@ -725,7 +566,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -736,14 +577,14 @@
             },
             "subject": {
                 "subject_id": "ERS4",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -770,59 +611,7 @@
                         "medical_history": "diabetes"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -835,7 +624,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "7",
+                    "collection_time_point_relative": 7,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -852,10 +641,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "628",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 628,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -867,7 +656,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -934,7 +723,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "ERS4"
         },
         {
@@ -956,7 +744,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -967,14 +755,14 @@
             },
             "subject": {
                 "subject_id": "ERS5",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -1001,59 +789,7 @@
                         "medical_history": "hypertension"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1066,7 +802,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "7",
+                    "collection_time_point_relative": 7,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -1083,10 +819,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "843",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 843,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1098,7 +834,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -1165,7 +901,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "ERS5"
         },
         {
@@ -1187,7 +922,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -1198,14 +933,14 @@
             },
             "subject": {
                 "subject_id": "LRS1",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "male",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -1232,59 +967,7 @@
                         "medical_history": "hypertension, coronary heart disease"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1297,7 +980,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "14",
+                    "collection_time_point_relative": 14,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -1314,10 +997,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "221",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 221,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1329,7 +1012,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -1396,7 +1079,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "LRS1"
         },
         {
@@ -1418,7 +1100,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -1429,14 +1111,14 @@
             },
             "subject": {
                 "subject_id": "LRS2",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "male",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -1463,59 +1145,7 @@
                         "medical_history": "hypertension, coronary heart disease, HBV"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1528,7 +1158,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "14",
+                    "collection_time_point_relative": 14,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -1545,10 +1175,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "568",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 568,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1560,7 +1190,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -1627,7 +1257,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "LRS2"
         },
         {
@@ -1649,7 +1278,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -1660,14 +1289,14 @@
             },
             "subject": {
                 "subject_id": "LRS3",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "male",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -1694,59 +1323,7 @@
                         "medical_history": "hypertension"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1759,7 +1336,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "14",
+                    "collection_time_point_relative": 14,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -1776,10 +1353,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "656",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 656,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -1791,7 +1368,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -1858,7 +1435,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "LRS3"
         },
         {
@@ -1880,7 +1456,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -1891,14 +1467,14 @@
             },
             "subject": {
                 "subject_id": "LRS4",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -1925,59 +1501,7 @@
                         "medical_history": "hypertension, coronary heart disease, diabetes"
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -1990,7 +1514,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "14",
+                    "collection_time_point_relative": 14,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -2007,10 +1531,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "1186",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 1186,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -2022,7 +1546,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -2089,7 +1613,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "LRS4"
         },
         {
@@ -2111,7 +1634,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -2122,14 +1645,14 @@
             },
             "subject": {
                 "subject_id": "LRS5",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
                 },
                 "sex": "female",
                 "age_min": null,
-                "age_max": "80.0",
+                "age_max": 80.0,
                 "age_unit": {
                     "label": "year",
                     "id": "UO:0000036"
@@ -2156,59 +1679,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2221,7 +1692,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "14",
+                    "collection_time_point_relative": 14,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -2238,10 +1709,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "1559",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 1559,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -2253,7 +1724,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -2320,7 +1791,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "LRS5"
         },
         {
@@ -2342,7 +1812,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -2353,7 +1823,7 @@
             },
             "subject": {
                 "subject_id": "Healthy_Control_1",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2387,59 +1857,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2452,7 +1870,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -2469,10 +1887,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "542",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 542,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -2484,7 +1902,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -2551,7 +1969,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "Healthy_Control_1"
         },
         {
@@ -2573,7 +1990,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -2584,7 +2001,7 @@
             },
             "subject": {
                 "subject_id": "Healthy_Control_2",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2618,59 +2035,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2683,7 +2048,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -2700,10 +2065,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "895",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 895,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -2715,7 +2080,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -2782,7 +2147,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "Healthy_Control_2"
         },
         {
@@ -2804,7 +2168,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -2815,7 +2179,7 @@
             },
             "subject": {
                 "subject_id": "Healthy_Control_3",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -2849,59 +2213,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -2914,7 +2226,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -2931,10 +2243,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "1259",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 1259,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -2946,7 +2258,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -3013,7 +2325,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "Healthy_Control_3"
         },
         {
@@ -3035,7 +2346,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -3046,7 +2357,7 @@
             },
             "subject": {
                 "subject_id": "Healthy_Control_4",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -3080,59 +2391,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3145,7 +2404,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -3162,10 +2421,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "776",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 776,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -3177,7 +2436,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -3244,7 +2503,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "Healthy_Control_4"
         },
         {
@@ -3266,7 +2524,7 @@
                 "lab_name": "National Center for Liver Cancer, Second Military Medical University",
                 "lab_address": "Second Military Medical University, 200438 Shanghai, China",
                 "submitted_by": "Chuanle Xiao, xiaochuanle@126.com",
-                "pub_ids": "PMID:\u05b2\u00a032377375",
+                "pub_ids": "PMID:\u00d6\u00b2\u00c2\u00a032377375",
                 "keywords_study": [
                     "contains_ig",
                     "contains_paired_chain",
@@ -3277,7 +2535,7 @@
             },
             "subject": {
                 "subject_id": "Healthy_Control_5",
-                "synthetic": "False",
+                "synthetic": false,
                 "species": {
                     "label": "Homo sapiens",
                     "id": "NCBITAXON:9606"
@@ -3311,59 +2569,7 @@
                         "medical_history": null
                     }
                 ],
-                "genotype": {
-                    "receptor_genotype_set": {
-                        "receptor_genotype_set_id": null,
-                        "genotype_class_list": [
-                            {
-                                "receptor_genotype_id": null,
-                                "locus": "IGH",
-                                "documented_alleles": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "undocumented_alleles": [
-                                    {
-                                        "allele_name": null,
-                                        "sequence": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "deleted_genes": [
-                                    {
-                                        "label": null,
-                                        "germline_set_ref": null,
-                                        "phasing": null
-                                    }
-                                ],
-                                "inference_process": null
-                            }
-                        ]
-                    },
-                    "mhc_genotype_set": {
-                        "mhc_genotype_set_id": null,
-                        "mhc_genotype_list": [
-                            {
-                                "mhc_genotype_id": null,
-                                "mhc_class": "MHC-I",
-                                "mhc_alleles": [
-                                    {
-                                        "allele_designation": null,
-                                        "gene": {
-                                            "id": null,
-                                            "label": null
-                                        },
-                                        "reference_set_ref": null
-                                    }
-                                ],
-                                "mhc_genotyping_method": null
-                            }
-                        ]
-                    }
-                }
+                "genotype": null
             },
             "sample": [
                 {
@@ -3376,7 +2582,7 @@
                     },
                     "anatomic_site": null,
                     "disease_state_sample": null,
-                    "collection_time_point_relative": "0",
+                    "collection_time_point_relative": 0,
                     "collection_time_point_relative_unit": {
                         "label": "day",
                         "id": "UO:0000033"
@@ -3393,10 +2599,10 @@
                         "label": "Homo sapiens",
                         "id": "NCBITAXON:9606"
                     },
-                    "single_cell": "True",
-                    "cell_number": "695",
-                    "cells_per_reaction": "1",
-                    "cell_storage": "False",
+                    "single_cell": true,
+                    "cell_number": 695,
+                    "cells_per_reaction": 1,
+                    "cell_storage": false,
                     "cell_quality": "Viability exceeded 80%",
                     "cell_isolation": null,
                     "cell_processing_protocol": null,
@@ -3408,7 +2614,7 @@
                         "id": null
                     },
                     "library_generation_method": "RT(oligo-dT)+TS(UMI)+PCR",
-                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u05d2\u20ac\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u05d2\u20ac\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u05d2\u20ac\u2122s protocol.",
+                    "library_generation_protocol": "Single-cell suspensions of samples were converted to barcoded scRNA-seq libraries using the Chromium Single Cell 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 Library and Gel Bead Kit v2 (PN-120237), Multiplex Kit, and Chip Kit (10x Genomics). Full-length TCR/BCR V(D)J segments were enriched from amplified cDNA from 5\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b2 libraries via PCR amplification using a Chromium Single-Cell V(D)J Enrichment kit (10x Genomics) according to the manufacturer\u00c3\u0083\u00c2\u0097\u00c3\u0082\u00c2\u0092\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0082\u00c3\u0082\u00c2\u00ac\u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0084\u00c3\u0082\u00c2\u00a2s protocol.",
                     "library_generation_kit_version": null,
                     "pcr_target": [
                         {
@@ -3475,7 +2681,6 @@
                     }
                 }
             ],
-            "ir_sra_run_id": null,
             "combine_repertoire": "Healthy_Control_5"
         }
     ]
