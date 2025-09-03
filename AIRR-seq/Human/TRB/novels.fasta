@@ -20,6 +20,10 @@ gatgctggagttatccagtcaccccggcacgaggtgacagagatgggacaagaagtgactctgagatgtaaaccaatttc
 gatgctagagtcacccagacaccaagggacaaggtgacagagatgggacaagaagtaacaatgagatgtcagccaattttaggccac.....................aatactgttttctggtacagacagaccatgatgcaaggactggagttgctggcttacttccgcaac............cgggctcctctagatgattcggggatgccgaaggatcgattctcagcagagatgcct...gatgcaactttagccactctgaagatccagccctcagaacccagggactcagctgtgtatttttgtgctagtggtttggt
 >TRBV12-5*01_c28g_t140a
 gatgctagagtcacccagacaccaagggacaaggtgacagagatgggacaagaagtaacaatgagatgtcagccaattttaggccac.....................aatactgttttctggtacagacagaccatgaagcaaggactggagttgctggcttacttccgcaac............cgggctcctctagatgattcggggatgccgaaggatcgattctcagcagagatgcct...gatgcaactttagccactctgaagatccagccctcagaacccagggactcagctgtgtatttttgtgctagtggtttggt
+>TRBV13*01_c79t
+gctgctggagtcatccagtccccaagacatctgatcaaagaaaagagggaaacagccactctgaaatgctatcctatctctagacac.....................gacactgtctactggtaccagcagggtccaggtcaggacccccagttcctcatttcgttttatgaa............aagatgcagagcgataaaggaagcatccct...gatcgattctcagctcaacagttc...agtgactatcattctgaactgaacatgagctccttggagctgggggactcagccctgtacttctgtgccagcagcttagg
+>TRBV14*01_a150t
+gaagctggagttactcagttccccagccacagcgtaatagagaagggccagactgtgactctgagatgtgacccaatttctggacat.....................gataatctttattggtatcgacgtgttatgggaaaagaaattaaatttctgttacattttgtgaaa............gagtctaaacaggatgagtccggtatgcccaacaatcgattcttagctgaaaggact...ggagggacgtattctactctgaaggtgcagcctgcagaactggaggattctggagtttatttctgtgccagcagccaaga
 >TRBV14*02_322caaga326
 gaagctggagttactcagttccccagccacagcgtaatagagaagggccagactgtgactctgagatgtgacccaatttctggacat.....................gataatctttattggtatcgacgtgttatgggaaaagaaataaaatttctgttacattttgtgaaa............gagtctaaacaggatgaatccggtatgcccaacaatcgattcttagctgaaaggact...ggagggacgtattctactctgaaggtgcagcctgcagaactggaggattctggagtttatttctgtgccagcagccaaga
 >TRBV15*02_a271g
@@ -28,6 +32,10 @@ gatgccatggtcatccagaacccaagataccaggttacccagtttggaaagccagtgaccctgagttgttctcagacttt
 gatgccatggtcatccagaacccaagataccaggttacccagtttggaaagccagtgaccctgagttgttctcagactttgaaccat.....................aacgtcatgtactggtaccagcagaagtcaagtcaggccccaaagctgctgttccactactatgac............aaagattttaacaatgaagcagacacccct...gataacttccaatccaggaggccg...aacacttctttctgctttcttgacatccactcaccaggcctgggggacgcagccatgtacctgtgtgccaccagcagaga
 >TRBV15*02_t302g
 gatgccatggtcatccagaacccaagataccaggttacccagtttggaaagccagtgaccctgagttgttctcagactttgaaccat.....................aacgtcatgtactggtaccagcagaagtcaagtcaggccccaaagctgctgttccactactatgac............aaagattttaacaatgaagcagacacccct...gataacttccaatccaggaggccg...aacacttctttctgctttcttgacatccgctcaccaggcctgggggacgcagccaggtacctgtgtgccaccagcagaga
+>TRBV18*01_a24c
+aatgccggcgtcatgcagaaccccagacacctggtcaggaggaggggacaggaggcaagactgagatgcagcccaatgaaaggacac.....................agtcatgtttactggtatcggcagctcccagaggaaggtctgaaattcatggtttatctccagaaa............gaaaatatcatagatgagtcaggaatgccaaaggaacgattttctgctgaatttccc...aaagagggccccagcatcctgaggatccagcaggtagtgcgaggagattcggcagcttatttctgtgccagctcaccacc
+>TRBV18*01_a76g
+aatgccggcgtcatgcagaacccaagacacctggtcaggaggaggggacaggaggcaagactgagatgcagcccagtgaaaggacac.....................agtcatgtttactggtatcggcagctcccagaggaaggtctgaaattcatggtttatctccagaaa............gaaaatatcatagatgagtcaggaatgccaaaggaacgattttctgctgaatttccc...aaagagggccccagcatcctgaggatccagcaggtagtgcgaggagattcggcagcttatttctgtgccagctcaccacc
 >TRBV18*01_g8a
 aatgccgacgtcatgcagaacccaagacacctggtcaggaggaggggacaggaggcaagactgagatgcagcccaatgaaaggacac.....................agtcatgtttactggtatcggcagctcccagaggaaggtctgaaattcatggtttatctccagaaa............gaaaatatcatagatgagtcaggaatgccaaaggaacgattttctgctgaatttccc...aaagagggccccagcatcctgaggatccagcaggtagtgcgaggagattcggcagcttatttctgtgccagctcaccacc
 >TRBV19*01_a24g
@@ -50,6 +58,10 @@ agtgctgtcatctctcaaaagccaagcagggatatctgtcaacgtggaacctccctgacgatccagtgtcaagtcgatag
 .........................................................acgatccagtgtcaagtcgatagccaagtc.....................accatgatattctggtaccgtcagcaacctggacagagcctgacactgatcgcaactgcaaatcagggc.........tctgaggccacatatgagagtggatttgtcattgacaagtttcccatcagccgccca...aacctaacattctcaactctgactgtgagcaacctgagccctgaagacagcagcatatatctctgcagcgcgggc
 >TRBV29-1*03_c315t
 .........................................................acgatccagtgtcaagtcgatagccaagtc.....................accatgatattctggtaccgtcagcaacctggacagagcctgacactgatcgcaactgcaaatcagggc.........tctgaggccacatatgagagtggatttgtcattgacaagtttcccatcagccgccca...aacctaacattctcaactctgactgtgagcaacatgagccctgaagacagcagcatatatctctgcagtgcgggc
+>TRBV30*01_a142c_g143c_c150g
+tctcagactattcatcaatggccagcgaccctggtgcagcctgtgggcagcccgctctctctggagtgcactgtggagggaacatca..................aaccccaacctatactggtaccgacaggctgcaggcccgggcctgcagctgctcttctactccgttggt...............attggccagatcagctctgaggtgccc...cagaatctctcagcctccagaccc...caggaccggcagttcatcctgagttctaagaagctccttctcagtgactctggcttctatctctgtgcctggagtgt
+>TRBV30*01_c137g_a142c_g143c
+tctcagactattcatcaatggccagcgaccctggtgcagcctgtgggcagcccgctctctctggagtgcactgtggagggaacatca..................aaccccaacctatactggtaccgacaggctggaggcccgggcctccagctgctcttctactccgttggt...............attggccagatcagctctgaggtgccc...cagaatctctcagcctccagaccc...caggaccggcagttcatcctgagttctaagaagctccttctcagtgactctggcttctatctctgtgcctggagtgt
 >TRBV30*01_c253t
 tctcagactattcatcaatggccagcgaccctggtgcagcctgtgggcagcccgctctctctggagtgcactgtggagggaacatca..................aaccccaacctatactggtaccgacaggctgcaggcaggggcctccagctgctcttctactccgttggt...............attggccagatcagctctgaggtgccc...cagaatctctcagcctccagaccc...caggactggcagttcatcctgagttctaagaagctccttctcagtgactctggcttctatctctgtgcctggagtgt
 >TRBV30*01_g298a
