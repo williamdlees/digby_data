@@ -41,8 +41,8 @@
                 "subject_id": "33967",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -205,8 +205,8 @@
                 "subject_id": "125_13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -369,8 +369,8 @@
                 "subject_id": "133_13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -533,8 +533,8 @@
                 "subject_id": "13D132",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -697,8 +697,8 @@
                 "subject_id": "146_13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -861,8 +861,8 @@
                 "subject_id": "15C172",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -1025,8 +1025,8 @@
                 "subject_id": "174-13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -1189,8 +1189,8 @@
                 "subject_id": "194_13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -1353,8 +1353,8 @@
                 "subject_id": "275_12",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -1517,8 +1517,8 @@
                 "subject_id": "315_04",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -1681,8 +1681,8 @@
                 "subject_id": "6S0",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -1845,8 +1845,8 @@
                 "subject_id": "DHIC",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": null,
                 "age_min": null,
@@ -2009,8 +2009,8 @@
                 "subject_id": "K397",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": null,
                 "age_min": null,
@@ -2173,8 +2173,8 @@
                 "subject_id": "K410",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": null,
                 "age_min": null,
@@ -2337,8 +2337,8 @@
                 "subject_id": "K916",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": null,
                 "age_min": null,
@@ -2501,8 +2501,8 @@
                 "subject_id": "L211",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": null,
                 "age_min": null,
@@ -2665,8 +2665,8 @@
                 "subject_id": "M21",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -2829,8 +2829,8 @@
                 "subject_id": "MA277",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -2993,8 +2993,8 @@
                 "subject_id": "O3J",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -3157,8 +3157,8 @@
                 "subject_id": "RAi15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -3321,8 +3321,8 @@
                 "subject_id": "RBj16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -3485,8 +3485,8 @@
                 "subject_id": "RBo18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -3649,8 +3649,8 @@
                 "subject_id": "RBr15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -3813,8 +3813,8 @@
                 "subject_id": "RBw15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -3977,8 +3977,8 @@
                 "subject_id": "RCj20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -4141,8 +4141,8 @@
                 "subject_id": "RCn18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -4305,8 +4305,8 @@
                 "subject_id": "RCp16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -4469,8 +4469,8 @@
                 "subject_id": "RCs15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -4633,8 +4633,8 @@
                 "subject_id": "RCv16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -4797,8 +4797,8 @@
                 "subject_id": "RCz16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -4961,8 +4961,8 @@
                 "subject_id": "RDe18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -5125,8 +5125,8 @@
                 "subject_id": "RDq15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -5289,8 +5289,8 @@
                 "subject_id": "RDr15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -5453,8 +5453,8 @@
                 "subject_id": "RDt18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -5617,8 +5617,8 @@
                 "subject_id": "REk15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -5781,8 +5781,8 @@
                 "subject_id": "RFj17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -5945,8 +5945,8 @@
                 "subject_id": "RFq19",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -6109,8 +6109,8 @@
                 "subject_id": "RFr13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -6273,8 +6273,8 @@
                 "subject_id": "RGi17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -6437,8 +6437,8 @@
                 "subject_id": "RGq13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -6601,8 +6601,8 @@
                 "subject_id": "RGr15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -6765,8 +6765,8 @@
                 "subject_id": "RGt19",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -6929,8 +6929,8 @@
                 "subject_id": "RGw18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -7093,8 +7093,8 @@
                 "subject_id": "RHe16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -7257,8 +7257,8 @@
                 "subject_id": "RHu20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -7421,8 +7421,8 @@
                 "subject_id": "RIb18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -7585,8 +7585,8 @@
                 "subject_id": "RIr15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -7749,8 +7749,8 @@
                 "subject_id": "RIy10",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -7913,8 +7913,8 @@
                 "subject_id": "RJb19",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -8077,8 +8077,8 @@
                 "subject_id": "RJs14",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -8241,8 +8241,8 @@
                 "subject_id": "RJv17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -8405,8 +8405,8 @@
                 "subject_id": "RKb19",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -8569,8 +8569,8 @@
                 "subject_id": "RKq18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -8733,8 +8733,8 @@
                 "subject_id": "RLf17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -8897,8 +8897,8 @@
                 "subject_id": "RLi17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -9061,8 +9061,8 @@
                 "subject_id": "RLi18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -9225,8 +9225,8 @@
                 "subject_id": "RLk15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -9389,8 +9389,8 @@
                 "subject_id": "RLk17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -9553,8 +9553,8 @@
                 "subject_id": "RLs14",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -9717,8 +9717,8 @@
                 "subject_id": "RLw17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -9881,8 +9881,8 @@
                 "subject_id": "RNo15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -10045,8 +10045,8 @@
                 "subject_id": "ROa17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -10209,8 +10209,8 @@
                 "subject_id": "ROi16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -10373,8 +10373,8 @@
                 "subject_id": "ROi17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -10537,8 +10537,8 @@
                 "subject_id": "ROv16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -10701,8 +10701,8 @@
                 "subject_id": "RPe16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -10865,8 +10865,8 @@
                 "subject_id": "RPh17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -11029,8 +11029,8 @@
                 "subject_id": "RPs18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -11193,8 +11193,8 @@
                 "subject_id": "RPw17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -11357,8 +11357,8 @@
                 "subject_id": "RPz16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -11521,8 +11521,8 @@
                 "subject_id": "RQa19",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -11685,8 +11685,8 @@
                 "subject_id": "RQh20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -11849,8 +11849,8 @@
                 "subject_id": "RQp17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -12013,8 +12013,8 @@
                 "subject_id": "RQr11",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -12177,8 +12177,8 @@
                 "subject_id": "RQr20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -12341,8 +12341,8 @@
                 "subject_id": "RQw15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -12505,8 +12505,8 @@
                 "subject_id": "RRb11",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -12669,8 +12669,8 @@
                 "subject_id": "RRb17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -12833,8 +12833,8 @@
                 "subject_id": "RRb19",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -12997,8 +12997,8 @@
                 "subject_id": "RRr14",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -13161,8 +13161,8 @@
                 "subject_id": "RRt20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -13325,8 +13325,8 @@
                 "subject_id": "RRv14",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -13489,8 +13489,8 @@
                 "subject_id": "RSb17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -13653,8 +13653,8 @@
                 "subject_id": "RSf16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -13817,8 +13817,8 @@
                 "subject_id": "RSo20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -13981,8 +13981,8 @@
                 "subject_id": "RSq16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -14145,8 +14145,8 @@
                 "subject_id": "RSq17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -14309,8 +14309,8 @@
                 "subject_id": "RTe17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -14473,8 +14473,8 @@
                 "subject_id": "RTm17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -14637,8 +14637,8 @@
                 "subject_id": "RTo20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -14801,8 +14801,8 @@
                 "subject_id": "RTt13",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -14965,8 +14965,8 @@
                 "subject_id": "RUg16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -15129,8 +15129,8 @@
                 "subject_id": "RUL20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -15293,8 +15293,8 @@
                 "subject_id": "RUp16",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -15457,8 +15457,8 @@
                 "subject_id": "RVe17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -15621,8 +15621,8 @@
                 "subject_id": "RVh17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -15785,8 +15785,8 @@
                 "subject_id": "RVi14",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -15949,8 +15949,8 @@
                 "subject_id": "RVn17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
@@ -16113,8 +16113,8 @@
                 "subject_id": "RVu20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -16277,8 +16277,8 @@
                 "subject_id": "RWb17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -16441,8 +16441,8 @@
                 "subject_id": "RWc20",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -16605,8 +16605,8 @@
                 "subject_id": "RWq18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -16769,8 +16769,8 @@
                 "subject_id": "RYf17",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -16933,8 +16933,8 @@
                 "subject_id": "RYk15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -17097,8 +17097,8 @@
                 "subject_id": "RYL18",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "female",
                 "age_min": null,
@@ -17261,8 +17261,8 @@
                 "subject_id": "RYs15",
                 "synthetic": false,
                 "species": {
-                    "id": "NCBITAXON: 9544",
-                    "label": "Rhesus macaque"
+                    "label": "Macaca mulatta",
+                    "id": "NCBITAXON:9544"
                 },
                 "sex": "male",
                 "age_min": null,
