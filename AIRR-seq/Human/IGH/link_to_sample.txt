@@ -1,1 +1,1 @@
-http://vdjbase-distribution.s3-website-us-east-1.amazonaws.com/samples_20250903-122430.zip
+http://vdjbase-distribution.s3-website-us-east-1.amazonaws.com/samples_20260128-153443.zip
