@@ -7,7 +7,7 @@
 
         {
             "name": "make_genomic_yml_human_igh",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/python/make_genomic_yml_human_igh.py",
             "args": ["imported_genes.csv","sample_metadata_from_paper.csv","human_igh.yml","study_details.csv"],
@@ -16,8 +16,18 @@
             "justMyCode": true
         },
         {
+            "name": "null_disease_diagnosis.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/python/null_disease_diagnosis.py",
+            "args": ["P1_PRJEB26509.json","test.json"],
+            "cwd": "${workspaceFolder}/AIRR-seq/Human/IGH",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
             "name": "json_metadata_to_csv",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/python/json_metadata_to_csv.py",
             "args": [],

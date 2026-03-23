@@ -425,8 +425,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -608,8 +608,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -791,8 +791,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -1157,8 +1157,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -1523,8 +1523,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -1706,8 +1706,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -1889,8 +1889,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -2255,8 +2255,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -2438,8 +2438,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -2804,8 +2804,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -3170,8 +3170,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -3353,8 +3353,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -3536,8 +3536,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -3719,8 +3719,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -3902,8 +3902,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -4268,8 +4268,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -4451,8 +4451,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -5000,8 +5000,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -5183,8 +5183,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -5366,8 +5366,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -5732,8 +5732,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -6647,8 +6647,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -7379,8 +7379,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -7562,8 +7562,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -7745,8 +7745,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -8294,8 +8294,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -8477,8 +8477,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -8660,8 +8660,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -8843,8 +8843,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -9026,8 +9026,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -9209,8 +9209,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -9392,8 +9392,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -9575,8 +9575,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -9758,8 +9758,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -10124,8 +10124,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -10490,8 +10490,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -10673,8 +10673,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -10856,8 +10856,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -11039,8 +11039,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -11222,8 +11222,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -11405,8 +11405,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -11588,8 +11588,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -11771,8 +11771,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -12137,8 +12137,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -12320,8 +12320,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -12503,8 +12503,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -12686,8 +12686,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -12869,8 +12869,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -13052,8 +13052,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
@@ -13601,8 +13601,8 @@
                     {
                         "study_group_description": "Celiac",
                         "disease_diagnosis": {
-                            "label": "celiac disease",
-                            "id": "DOID:10608"
+                            "label": null,
+                            "id": null
                         },
                         "disease_length": null,
                         "disease_stage": null,
