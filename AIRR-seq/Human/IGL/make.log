@@ -1,3 +1,5 @@
+/home/ayelet/miniconda3/envs/digby/lib/python3.9/site-packages/sqlalchemy/sql/sqltypes.py:661: SAWarning: Dialect sqlite+pysqlite does *not* support Decimal objects natively, and SQLAlchemy must convert from floating point - rounding errors and other issues may occur. Please consider storing Decimal numbers as strings or integers on this platform for lossless storage.
+  util.warn(
 status: Importing reference alleles
 status: Importing studies
 Processing airr sample P1_I100_S1
@@ -312,248 +314,671 @@ Committing metadata for sample P17_I12_S1
 Committing metadata for sample P17_I13_S1
 Committing metadata for sample P17_I14_S1
 Committing metadata for sample P17_I15_S1
+Processing airr sample P28_I100_S1
+Processing airr sample P28_I103_S1
+Processing airr sample P28_I104_S1
+Processing airr sample P28_I105_S1
+Processing airr sample P28_I106_S1
+Processing airr sample P28_I107_S1
+Processing airr sample P28_I108_S1
+Processing airr sample P28_I109_S1
+Processing airr sample P28_I10_S1
+Processing airr sample P28_I110_S1
+Processing airr sample P28_I111_S1
+Processing airr sample P28_I112_S1
+Processing airr sample P28_I113_S1
+Processing airr sample P28_I115_S1
+Processing airr sample P28_I116_S1
+Processing airr sample P28_I117_S1
+Processing airr sample P28_I118_S1
+Processing airr sample P28_I119_S1
+Processing airr sample P28_I11_S1
+Processing airr sample P28_I120_S1
+Processing airr sample P28_I121_S1
+Processing airr sample P28_I123_S1
+Processing airr sample P28_I124_S1
+Processing airr sample P28_I125_S1
+Processing airr sample P28_I127_S1
+Processing airr sample P28_I128_S1
+Processing airr sample P28_I129_S1
+Processing airr sample P28_I130_S1
+Processing airr sample P28_I131_S1
+Processing airr sample P28_I132_S1
+Processing airr sample P28_I133_S1
+Processing airr sample P28_I134_S1
+Processing airr sample P28_I138_S1
+Processing airr sample P28_I139_S1
+Processing airr sample P28_I140_S1
+Processing airr sample P28_I141_S1
+Processing airr sample P28_I142_S1
+Processing airr sample P28_I143_S1
+Processing airr sample P28_I145_S1
+Processing airr sample P28_I146_S1
+Processing airr sample P28_I147_S1
+Processing airr sample P28_I149_S1
+Processing airr sample P28_I14_S1
+Processing airr sample P28_I151_S1
+Processing airr sample P28_I152_S1
+Processing airr sample P28_I154_S1
+Processing airr sample P28_I155_S1
+Processing airr sample P28_I156_S1
+Processing airr sample P28_I157_S1
+Processing airr sample P28_I158_S1
+Processing airr sample P28_I159_S1
+Processing airr sample P28_I160_S1
+Processing airr sample P28_I161_S1
+Processing airr sample P28_I162_S1
+Processing airr sample P28_I163_S1
+Processing airr sample P28_I164_S1
+Processing airr sample P28_I165_S1
+Processing airr sample P28_I166_S1
+Processing airr sample P28_I167_S1
+Processing airr sample P28_I168_S1
+Processing airr sample P28_I169_S1
+Processing airr sample P28_I16_S1
+Processing airr sample P28_I170_S1
+Processing airr sample P28_I171_S1
+Processing airr sample P28_I173_S1
+Processing airr sample P28_I174_S1
+Processing airr sample P28_I175_S1
+Processing airr sample P28_I176_S1
+Processing airr sample P28_I17_S1
+Processing airr sample P28_I18_S1
+Processing airr sample P28_I19_S1
+Processing airr sample P28_I1_S1
+Processing airr sample P28_I20_S1
+Processing airr sample P28_I21_S1
+Processing airr sample P28_I22_S1
+Processing airr sample P28_I23_S1
+Processing airr sample P28_I24_S1
+Processing airr sample P28_I25_S1
+Processing airr sample P28_I26_S1
+Processing airr sample P28_I27_S1
+Processing airr sample P28_I28_S1
+Processing airr sample P28_I29_S1
+Processing airr sample P28_I2_S1
+Processing airr sample P28_I30_S1
+Processing airr sample P28_I32_S1
+Processing airr sample P28_I34_S1
+Processing airr sample P28_I36_S1
+Processing airr sample P28_I37_S1
+Processing airr sample P28_I39_S1
+Processing airr sample P28_I40_S1
+Processing airr sample P28_I41_S1
+Processing airr sample P28_I44_S1
+Processing airr sample P28_I45_S1
+Processing airr sample P28_I46_S1
+Processing airr sample P28_I48_S1
+Processing airr sample P28_I49_S1
+Processing airr sample P28_I50_S1
+Processing airr sample P28_I51_S1
+Processing airr sample P28_I52_S1
+Processing airr sample P28_I53_S1
+Processing airr sample P28_I54_S1
+Processing airr sample P28_I57_S1
+Processing airr sample P28_I58_S1
+Processing airr sample P28_I59_S1
+Processing airr sample P28_I5_S1
+Processing airr sample P28_I60_S1
+Processing airr sample P28_I61_S1
+Processing airr sample P28_I63_S1
+Processing airr sample P28_I64_S1
+Processing airr sample P28_I65_S1
+Processing airr sample P28_I66_S1
+Processing airr sample P28_I67_S1
+Processing airr sample P28_I68_S1
+Processing airr sample P28_I69_S1
+Processing airr sample P28_I6_S1
+Processing airr sample P28_I70_S1
+Processing airr sample P28_I71_S1
+Processing airr sample P28_I72_S1
+Processing airr sample P28_I73_S1
+Processing airr sample P28_I74_S1
+Processing airr sample P28_I75_S1
+Processing airr sample P28_I76_S1
+Processing airr sample P28_I77_S1
+Processing airr sample P28_I78_S1
+Processing airr sample P28_I79_S1
+Processing airr sample P28_I7_S1
+Processing airr sample P28_I81_S1
+Processing airr sample P28_I82_S1
+Processing airr sample P28_I83_S1
+Processing airr sample P28_I85_S1
+Processing airr sample P28_I86_S1
+Processing airr sample P28_I87_S1
+Processing airr sample P28_I88_S1
+Processing airr sample P28_I89_S1
+Processing airr sample P28_I90_S1
+Processing airr sample P28_I91_S1
+Processing airr sample P28_I92_S1
+Processing airr sample P28_I93_S1
+Processing airr sample P28_I94_S1
+Processing airr sample P28_I95_S1
+Processing airr sample P28_I96_S1
+Processing airr sample P28_I97_S1
+Processing airr sample P28_I98_S1
+Processing airr sample P28_I99_S1
+Processing airr sample P28_I9_S1
+Committing metadata for sample P28_I100_S1
+Committing metadata for sample P28_I103_S1
+Committing metadata for sample P28_I104_S1
+Committing metadata for sample P28_I105_S1
+Committing metadata for sample P28_I106_S1
+Committing metadata for sample P28_I107_S1
+Committing metadata for sample P28_I108_S1
+Committing metadata for sample P28_I109_S1
+Committing metadata for sample P28_I10_S1
+Committing metadata for sample P28_I110_S1
+Committing metadata for sample P28_I111_S1
+Committing metadata for sample P28_I112_S1
+Committing metadata for sample P28_I113_S1
+Committing metadata for sample P28_I115_S1
+Committing metadata for sample P28_I116_S1
+Committing metadata for sample P28_I117_S1
+Committing metadata for sample P28_I118_S1
+Committing metadata for sample P28_I119_S1
+Committing metadata for sample P28_I11_S1
+Committing metadata for sample P28_I120_S1
+Committing metadata for sample P28_I121_S1
+Committing metadata for sample P28_I123_S1
+Committing metadata for sample P28_I124_S1
+Committing metadata for sample P28_I125_S1
+Committing metadata for sample P28_I127_S1
+Committing metadata for sample P28_I128_S1
+Committing metadata for sample P28_I129_S1
+Committing metadata for sample P28_I130_S1
+Committing metadata for sample P28_I131_S1
+Committing metadata for sample P28_I132_S1
+Committing metadata for sample P28_I133_S1
+Committing metadata for sample P28_I134_S1
+Committing metadata for sample P28_I138_S1
+Committing metadata for sample P28_I139_S1
+Committing metadata for sample P28_I140_S1
+Committing metadata for sample P28_I141_S1
+Committing metadata for sample P28_I142_S1
+Committing metadata for sample P28_I143_S1
+Committing metadata for sample P28_I145_S1
+Committing metadata for sample P28_I146_S1
+Committing metadata for sample P28_I147_S1
+Committing metadata for sample P28_I149_S1
+Committing metadata for sample P28_I14_S1
+Committing metadata for sample P28_I151_S1
+Committing metadata for sample P28_I152_S1
+Committing metadata for sample P28_I154_S1
+Committing metadata for sample P28_I155_S1
+Committing metadata for sample P28_I156_S1
+Committing metadata for sample P28_I157_S1
+Committing metadata for sample P28_I158_S1
+Committing metadata for sample P28_I159_S1
+Committing metadata for sample P28_I160_S1
+Committing metadata for sample P28_I161_S1
+Committing metadata for sample P28_I162_S1
+Committing metadata for sample P28_I163_S1
+Committing metadata for sample P28_I164_S1
+Committing metadata for sample P28_I165_S1
+Committing metadata for sample P28_I166_S1
+Committing metadata for sample P28_I167_S1
+Committing metadata for sample P28_I168_S1
+Committing metadata for sample P28_I169_S1
+Committing metadata for sample P28_I16_S1
+Committing metadata for sample P28_I170_S1
+Committing metadata for sample P28_I171_S1
+Committing metadata for sample P28_I173_S1
+Committing metadata for sample P28_I174_S1
+Committing metadata for sample P28_I175_S1
+Committing metadata for sample P28_I176_S1
+Committing metadata for sample P28_I17_S1
+Committing metadata for sample P28_I18_S1
+Committing metadata for sample P28_I19_S1
+Committing metadata for sample P28_I1_S1
+Committing metadata for sample P28_I20_S1
+Committing metadata for sample P28_I21_S1
+Committing metadata for sample P28_I22_S1
+Committing metadata for sample P28_I23_S1
+Committing metadata for sample P28_I24_S1
+Committing metadata for sample P28_I25_S1
+Committing metadata for sample P28_I26_S1
+Committing metadata for sample P28_I27_S1
+Committing metadata for sample P28_I28_S1
+Committing metadata for sample P28_I29_S1
+Committing metadata for sample P28_I2_S1
+Committing metadata for sample P28_I30_S1
+Committing metadata for sample P28_I32_S1
+Committing metadata for sample P28_I34_S1
+Committing metadata for sample P28_I36_S1
+Committing metadata for sample P28_I37_S1
+Committing metadata for sample P28_I39_S1
+Committing metadata for sample P28_I40_S1
+Committing metadata for sample P28_I41_S1
+Committing metadata for sample P28_I44_S1
+Committing metadata for sample P28_I45_S1
+Committing metadata for sample P28_I46_S1
+Committing metadata for sample P28_I48_S1
+Committing metadata for sample P28_I49_S1
+Committing metadata for sample P28_I50_S1
+Committing metadata for sample P28_I51_S1
+Committing metadata for sample P28_I52_S1
+Committing metadata for sample P28_I53_S1
+Committing metadata for sample P28_I54_S1
+Committing metadata for sample P28_I57_S1
+Committing metadata for sample P28_I58_S1
+Committing metadata for sample P28_I59_S1
+Committing metadata for sample P28_I5_S1
+Committing metadata for sample P28_I60_S1
+Committing metadata for sample P28_I61_S1
+Committing metadata for sample P28_I63_S1
+Committing metadata for sample P28_I64_S1
+Committing metadata for sample P28_I65_S1
+Committing metadata for sample P28_I66_S1
+Committing metadata for sample P28_I67_S1
+Committing metadata for sample P28_I68_S1
+Committing metadata for sample P28_I69_S1
+Committing metadata for sample P28_I6_S1
+Committing metadata for sample P28_I70_S1
+Committing metadata for sample P28_I71_S1
+Committing metadata for sample P28_I72_S1
+Committing metadata for sample P28_I73_S1
+Committing metadata for sample P28_I74_S1
+Committing metadata for sample P28_I75_S1
+Committing metadata for sample P28_I76_S1
+Committing metadata for sample P28_I77_S1
+Committing metadata for sample P28_I78_S1
+Committing metadata for sample P28_I79_S1
+Committing metadata for sample P28_I7_S1
+Committing metadata for sample P28_I81_S1
+Committing metadata for sample P28_I82_S1
+Committing metadata for sample P28_I83_S1
+Committing metadata for sample P28_I85_S1
+Committing metadata for sample P28_I86_S1
+Committing metadata for sample P28_I87_S1
+Committing metadata for sample P28_I88_S1
+Committing metadata for sample P28_I89_S1
+Committing metadata for sample P28_I90_S1
+Committing metadata for sample P28_I91_S1
+Committing metadata for sample P28_I92_S1
+Committing metadata for sample P28_I93_S1
+Committing metadata for sample P28_I94_S1
+Committing metadata for sample P28_I95_S1
+Committing metadata for sample P28_I96_S1
+Committing metadata for sample P28_I97_S1
+Committing metadata for sample P28_I98_S1
+Committing metadata for sample P28_I99_S1
+Committing metadata for sample P28_I9_S1
 status: Processing deleted alleles
 status: Processing genotypes
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I100_S1\P1_I100_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I10_S1\P1_I10_S1_genotype.tsv
-adding  allele IGLV2-11*01_t313a
-adding  allele IGLV2-14*01_g168t_c337t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I11_S1\P1_I11_S1_genotype.tsv
-adding  allele IGLV2-8*01_c257t
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I100_S1/P1_I100_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I10_S1/P1_I10_S1_genotype.tsv
+adding similar allele IGLV2-14*01_g168t_t198g_c337t_g198t
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I11_S1/P1_I11_S1_genotype.tsv
 adding  allele IGLV2-14*03_t336c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I12_S1\P1_I12_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I13_S1\P1_I13_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I14_S1\P1_I14_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I15_S1\P1_I15_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I16_S1\P1_I16_S1_genotype.tsv
-adding  allele IGLV1-40*01_c275g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I17_S1\P1_I17_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I18_S1\P1_I18_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I12_S1/P1_I12_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I13_S1/P1_I13_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I14_S1/P1_I14_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I15_S1/P1_I15_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I16_S1/P1_I16_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I17_S1/P1_I17_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I18_S1/P1_I18_S1_genotype.tsv
 adding  allele IGLV8-61*01_a334g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I19_S1\P1_I19_S1_genotype.tsv
-adding similar allele IGLV2-14*01_g168t_c337t
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I19_S1/P1_I19_S1_genotype.tsv
 adding  allele IGLV7-43*01_g159a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I1_S1\P1_I1_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I1_S1/P1_I1_S1_genotype.tsv
 adding  allele IGLV2-8*01_c136t
-adding  allele IGLV2-23*03_t32a
-adding  allele IGLV3-10*01_g115c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I20_S1\P1_I20_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I21_S1\P1_I21_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I22_S1\P1_I22_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I23_S1\P1_I23_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I20_S1/P1_I20_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I21_S1/P1_I21_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I22_S1/P1_I22_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I23_S1/P1_I23_S1_genotype.tsv
 adding  allele IGLV2-11*01_a334c
 adding  allele IGLV2-11*01_a334t_t336c
 adding  allele IGLV2-14*01_t336c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I24_S1\P1_I24_S1_genotype.tsv
-adding  allele IGLV2-18*02_g285a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I25_S1\P1_I25_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I26_S1\P1_I26_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I27_S1\P1_I27_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I24_S1/P1_I24_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I25_S1/P1_I25_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I26_S1/P1_I26_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I27_S1/P1_I27_S1_genotype.tsv
 adding  allele IGLV1-36*01_a110g_c133g_a138g_a142c_a194g
 adding  allele IGLV10-54*04_g41c_a70g_c108g_a111c_g118a_c119t_a159g_g232a_a238c_a274g_a279g_c280g_g316a_a318g_g335a
 adding  allele IGLV2-8*01_t337g
 adding  allele IGLV2-8*01_t337c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I28_S1\P1_I28_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I28_S1/P1_I28_S1_genotype.tsv
 adding  allele IGLV3-9*01_c126t_g297a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I29_S1\P1_I29_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I2_S1\P1_I2_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I29_S1/P1_I29_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I2_S1/P1_I2_S1_genotype.tsv
 adding  allele IGLV4-60*02_c16g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I30_S1\P1_I30_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I31_S1\P1_I31_S1_genotype.tsv
-adding  allele IGLV1-47*01_g39t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I32_S1\P1_I32_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I30_S1/P1_I30_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I31_S1/P1_I31_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I32_S1/P1_I32_S1_genotype.tsv
 adding  allele IGLV2-14*04_t336c
 adding  allele IGLV3-25*02_a81g
 adding  allele IGLV4-69*01_a331c
 adding  allele IGLV4-69*01_a331t
 adding  allele IGLV9-49*01_g345c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I33_S1\P1_I33_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I34_S1\P1_I34_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I33_S1/P1_I33_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I34_S1/P1_I34_S1_genotype.tsv
 adding  allele IGLV1-44*01_a207c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I35_S1\P1_I35_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I36_S1\P1_I36_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I35_S1/P1_I35_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I36_S1/P1_I36_S1_genotype.tsv
 adding  allele IGLV2-11*01_a334t
 adding  allele IGLV2-11*01_a334g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I37_S1\P1_I37_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I37_S1/P1_I37_S1_genotype.tsv
 adding  allele IGLV7-46*04_c334t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I38_S1\P1_I38_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I39_S1\P1_I39_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I3_S1\P1_I3_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I38_S1/P1_I38_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I39_S1/P1_I39_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I3_S1/P1_I3_S1_genotype.tsv
 adding  allele IGLV9-49*01_g345t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I40_S1\P1_I40_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I41_S1\P1_I41_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I42_S1\P1_I42_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I40_S1/P1_I40_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I41_S1/P1_I41_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I42_S1/P1_I42_S1_genotype.tsv
 adding  allele IGLV2-8*01_c117t_g198c_a331t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I43_S1\P1_I43_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I44_S1\P1_I44_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I45_S1\P1_I45_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I46_S1\P1_I46_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I43_S1/P1_I43_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I44_S1/P1_I44_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I45_S1/P1_I45_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I46_S1/P1_I46_S1_genotype.tsv
 adding  allele IGLV7-46*01_c334t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I47_S1\P1_I47_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I47_S1/P1_I47_S1_genotype.tsv
 adding  allele IGLV2-14*03_a207c
 adding  allele IGLV8-61*01_g107a_t314c_g315a_g318t_a328g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I48_S1\P1_I48_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I49_S1\P1_I49_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I4_S1\P1_I4_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I48_S1/P1_I48_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I49_S1/P1_I49_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I4_S1/P1_I4_S1_genotype.tsv
 adding  allele IGLV10-54*04_a207c
 adding  allele IGLV4-60*03_a331t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I50_S1\P1_I50_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I51_S1\P1_I51_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I52_S1\P1_I52_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I53_S1\P1_I53_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I54_S1\P1_I54_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I55_S1\P1_I55_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I56_S1\P1_I56_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I57_S1\P1_I57_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I50_S1/P1_I50_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I51_S1/P1_I51_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I52_S1/P1_I52_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I53_S1/P1_I53_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I54_S1/P1_I54_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I55_S1/P1_I55_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I56_S1/P1_I56_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I57_S1/P1_I57_S1_genotype.tsv
 adding  allele IGLV4-60*02_a331t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I58_S1\P1_I58_S1_genotype.tsv
-adding  allele IGLV3-1*01_g194a
-adding  allele IGLV3-1*01_g194c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I59_S1\P1_I59_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I58_S1/P1_I58_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I59_S1/P1_I59_S1_genotype.tsv
 adding  allele IGLV7-46*04_t333c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I5_S1\P1_I5_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I60_S1\P1_I60_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I61_S1\P1_I61_S1_genotype.tsv
-adding  allele IGLV1-40*01_g38a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I62_S1\P1_I62_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I63_S1\P1_I63_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I64_S1\P1_I64_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I65_S1\P1_I65_S1_genotype.tsv
-adding  allele IGLV3-21*04_t166g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I66_S1\P1_I66_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I67_S1\P1_I67_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I68_S1\P1_I68_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I5_S1/P1_I5_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I60_S1/P1_I60_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I61_S1/P1_I61_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I62_S1/P1_I62_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I63_S1/P1_I63_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I64_S1/P1_I64_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I65_S1/P1_I65_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I66_S1/P1_I66_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I67_S1/P1_I67_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I68_S1/P1_I68_S1_genotype.tsv
 adding  allele IGLV6-57*03_g54c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I69_S1\P1_I69_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I6_S1\P1_I6_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I70_S1\P1_I70_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I71_S1\P1_I71_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I72_S1\P1_I72_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I69_S1/P1_I69_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I6_S1/P1_I6_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I70_S1/P1_I70_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I71_S1/P1_I71_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I72_S1/P1_I72_S1_genotype.tsv
 adding  allele IGLV1-51*01_c338t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I73_S1\P1_I73_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I74_S1\P1_I74_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I75_S1\P1_I75_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I76_S1\P1_I76_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I77_S1\P1_I77_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I73_S1/P1_I73_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I74_S1/P1_I74_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I75_S1/P1_I75_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I76_S1/P1_I76_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I77_S1/P1_I77_S1_genotype.tsv
 adding  allele IGLV5-45*02_t334g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I78_S1\P1_I78_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I79_S1\P1_I79_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I7_S1\P1_I7_S1_genotype.tsv
-adding  allele IGLV1-36*01_c203t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I80_S1\P1_I80_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I81_S1\P1_I81_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I82_S1\P1_I82_S1_genotype.tsv
-adding  allele IGLV8-61*02_t223a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I83_S1\P1_I83_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I84_S1\P1_I84_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I85_S1\P1_I85_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I86_S1\P1_I86_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I87_S1\P1_I87_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I88_S1\P1_I88_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I89_S1\P1_I89_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I8_S1\P1_I8_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I90_S1\P1_I90_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I91_S1\P1_I91_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I92_S1\P1_I92_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I78_S1/P1_I78_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I79_S1/P1_I79_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I7_S1/P1_I7_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I80_S1/P1_I80_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I81_S1/P1_I81_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I82_S1/P1_I82_S1_genotype.tsv
+adding similar allele IGLV8-61*01_c223a
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I83_S1/P1_I83_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I84_S1/P1_I84_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I85_S1/P1_I85_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I86_S1/P1_I86_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I87_S1/P1_I87_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I88_S1/P1_I88_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I89_S1/P1_I89_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I8_S1/P1_I8_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I90_S1/P1_I90_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I91_S1/P1_I91_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I92_S1/P1_I92_S1_genotype.tsv
 adding  allele IGLV3-25*03_t336c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I93_S1\P1_I93_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I93_S1/P1_I93_S1_genotype.tsv
 adding  allele IGLV1-44*01_g33a
-adding  allele IGLV1-47*02_g291a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I94_S1\P1_I94_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I95_S1\P1_I95_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I94_S1/P1_I94_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I95_S1/P1_I95_S1_genotype.tsv
 adding  allele IGLV3-9*01_g7a_g9a_c154a_g169a_c195t_a285g_g329a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I96_S1\P1_I96_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I96_S1/P1_I96_S1_genotype.tsv
 adding  allele IGLV3-1*01_g153a_g194a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I97_S1\P1_I97_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I97_S1/P1_I97_S1_genotype.tsv
 adding  allele IGLV1-44*01_a27t_g31a_a106g_c113t_c120t_c127a_a152g_c162g_a193g_a326c_a335c
 adding  allele IGLV3-25*03_g224c_a225g_t226a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I99_S1\P1_I99_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P1\P1_I9_S1\P1_I9_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I99_S1/P1_I99_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P1/P1_I9_S1/P1_I9_S1_genotype.tsv
 adding  allele IGLV6-57*04_a106g_a113t_a125t_g168a_g169a_a193g_c195t_g225c_c255t_t256a_a268t_a308t_t319g_g329c_a332g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I10_S1\P35_I10_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I11_S1\P35_I11_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I12_S1\P35_I12_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I13_S1\P35_I13_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I14_S1\P35_I14_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I15_S1\P35_I15_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I16_S1\P35_I16_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I10_S1/P35_I10_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I11_S1/P35_I11_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I12_S1/P35_I12_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I13_S1/P35_I13_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I14_S1/P35_I14_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I15_S1/P35_I15_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I16_S1/P35_I16_S1_genotype.tsv
 adding  allele IGLV2-14*01_c337g
-adding  allele IGLV2-23*02_g168c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I17_S1\P35_I17_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I18_S1\P35_I18_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I19_S1\P35_I19_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I1_S1\P35_I1_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I20_S1\P35_I20_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I17_S1/P35_I17_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I18_S1/P35_I18_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I19_S1/P35_I19_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I1_S1/P35_I1_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I20_S1/P35_I20_S1_genotype.tsv
 adding  allele IGLV1-40*01_g338c
 adding  allele IGLV1-40*01_g338t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I21_S1\P35_I21_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I21_S1/P35_I21_S1_genotype.tsv
 adding  allele IGLV1-51*01_t339g
 adding  allele IGLV2-14*01_c337t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I22_S1\P35_I22_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I23_S1\P35_I23_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I22_S1/P35_I22_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I23_S1/P35_I23_S1_genotype.tsv
 adding  allele IGLV2-8*01_a335c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I24_S1\P35_I24_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I25_S1\P35_I25_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I26_S1\P35_I26_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I28_S1\P35_I28_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I29_S1\P35_I29_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I2_S1\P35_I2_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I30_S1\P35_I30_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I24_S1/P35_I24_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I25_S1/P35_I25_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I26_S1/P35_I26_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I28_S1/P35_I28_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I29_S1/P35_I29_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I2_S1/P35_I2_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I30_S1/P35_I30_S1_genotype.tsv
 adding  allele IGLV1-40*01_g286t
-adding  allele IGLV2-23*04_a279g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I31_S1\P35_I31_S1_genotype.tsv
-adding  allele IGLV2-11*01_t168g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I32_S1\P35_I32_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I33_S1\P35_I33_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I34_S1\P35_I34_S1_genotype.tsv
-adding  allele IGLV2-8*01_g271a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I35_S1\P35_I35_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I36_S1\P35_I36_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I37_S1\P35_I37_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I38_S1\P35_I38_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I39_S1\P35_I39_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I3_S1\P35_I3_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I31_S1/P35_I31_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I32_S1/P35_I32_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I33_S1/P35_I33_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I34_S1/P35_I34_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I35_S1/P35_I35_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I36_S1/P35_I36_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I37_S1/P35_I37_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I38_S1/P35_I38_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I39_S1/P35_I39_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I3_S1/P35_I3_S1_genotype.tsv
 adding  allele IGLV2-11*01_g259a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I40_S1\P35_I40_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I41_S1\P35_I41_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I42_S1\P35_I42_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I43_S1\P35_I43_S1_genotype.tsv
-adding  allele IGLV3-21*04_a27g
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I4_S1\P35_I4_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I5_S1\P35_I5_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I40_S1/P35_I40_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I41_S1/P35_I41_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I42_S1/P35_I42_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I43_S1/P35_I43_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I4_S1/P35_I4_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I5_S1/P35_I5_S1_genotype.tsv
 adding  allele IGLV2-11*01_t331a_a332g
 adding  allele IGLV2-23*02_a270c_t327c_t330c
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I6_S1\P35_I6_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I6_S1/P35_I6_S1_genotype.tsv
 adding  allele IGLV3-16*01_t257c_a264g_t314a
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I7_S1\P35_I7_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I7_S1/P35_I7_S1_genotype.tsv
 adding  allele IGLV2-11*01_c77t_t89c_g103a_c111t_a113t_c146t_g194a_g291c_c315t_c323g_c330t_c335a
 adding  allele IGLV2-11*01_c77t_t89c_g103a_c111t_a113t_c146t_g194a_c315t_c323g_c330t_c335a
 adding  allele IGLV2-14*01_g168t_t198g_c337t_t15a_a48g_a75g_c77g_g88a_t106c_a113c_a134g_c146t
 adding  allele IGLV2-23*02_g168c_g194a_g198t_a220g_g332t
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I8_S1\P35_I8_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P35\P35_I9_S1\P35_I9_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I1_S1\P17_I1_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I2_S1\P17_I2_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I3_S1\P17_I3_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I4_S1\P17_I4_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I5_S1\P17_I5_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I6_S1\P17_I6_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I7_S1\P17_I7_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I8_S1\P17_I8_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I9_S1\P17_I9_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I10_S1\P17_I10_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I11_S1\P17_I11_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I12_S1\P17_I12_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I13_S1\P17_I13_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I14_S1\P17_I14_S1_genotype.tsv
-d:\Research\digby_data\AIRR-seq\Human\IGL\samples\P17\P17_I15_S1\P17_I15_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I8_S1/P35_I8_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P35/P35_I9_S1/P35_I9_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I1_S1/P17_I1_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I2_S1/P17_I2_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I3_S1/P17_I3_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I4_S1/P17_I4_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I5_S1/P17_I5_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I6_S1/P17_I6_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I7_S1/P17_I7_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I8_S1/P17_I8_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I9_S1/P17_I9_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I10_S1/P17_I10_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I11_S1/P17_I11_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I12_S1/P17_I12_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I13_S1/P17_I13_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I14_S1/P17_I14_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P17/P17_I15_S1/P17_I15_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I100_S1/P28_I100_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I103_S1/P28_I103_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I104_S1/P28_I104_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I105_S1/P28_I105_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I106_S1/P28_I106_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I107_S1/P28_I107_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I108_S1/P28_I108_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I109_S1/P28_I109_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I10_S1/P28_I10_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I110_S1/P28_I110_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I111_S1/P28_I111_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I112_S1/P28_I112_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I113_S1/P28_I113_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I115_S1/P28_I115_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I116_S1/P28_I116_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I117_S1/P28_I117_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I118_S1/P28_I118_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I119_S1/P28_I119_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I11_S1/P28_I11_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I120_S1/P28_I120_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I121_S1/P28_I121_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I123_S1/P28_I123_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I124_S1/P28_I124_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I125_S1/P28_I125_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I127_S1/P28_I127_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I128_S1/P28_I128_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I129_S1/P28_I129_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I130_S1/P28_I130_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I131_S1/P28_I131_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I132_S1/P28_I132_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I133_S1/P28_I133_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I134_S1/P28_I134_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I138_S1/P28_I138_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I139_S1/P28_I139_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I140_S1/P28_I140_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I141_S1/P28_I141_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I142_S1/P28_I142_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I143_S1/P28_I143_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I145_S1/P28_I145_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I146_S1/P28_I146_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I147_S1/P28_I147_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I149_S1/P28_I149_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I14_S1/P28_I14_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I151_S1/P28_I151_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I152_S1/P28_I152_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I154_S1/P28_I154_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I155_S1/P28_I155_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I156_S1/P28_I156_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I157_S1/P28_I157_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I158_S1/P28_I158_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I159_S1/P28_I159_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I160_S1/P28_I160_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I161_S1/P28_I161_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I162_S1/P28_I162_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I163_S1/P28_I163_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I164_S1/P28_I164_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I165_S1/P28_I165_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I166_S1/P28_I166_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I167_S1/P28_I167_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I168_S1/P28_I168_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I169_S1/P28_I169_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I16_S1/P28_I16_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I170_S1/P28_I170_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I171_S1/P28_I171_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I173_S1/P28_I173_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I174_S1/P28_I174_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I175_S1/P28_I175_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I176_S1/P28_I176_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I17_S1/P28_I17_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I18_S1/P28_I18_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I19_S1/P28_I19_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I1_S1/P28_I1_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I20_S1/P28_I20_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I21_S1/P28_I21_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I22_S1/P28_I22_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I23_S1/P28_I23_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I24_S1/P28_I24_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I25_S1/P28_I25_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I26_S1/P28_I26_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I27_S1/P28_I27_S1_genotype.tsv
+adding  allele IGLV8-61*01_c223c_g331a_g332t_c333a_a334t_t335g_t336g_t337g_c338t
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I28_S1/P28_I28_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I29_S1/P28_I29_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I2_S1/P28_I2_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I30_S1/P28_I30_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I32_S1/P28_I32_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I34_S1/P28_I34_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I36_S1/P28_I36_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I37_S1/P28_I37_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I39_S1/P28_I39_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I40_S1/P28_I40_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I41_S1/P28_I41_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I44_S1/P28_I44_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I45_S1/P28_I45_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I46_S1/P28_I46_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I48_S1/P28_I48_S1_genotype.tsv
+/home/ayelet/miniconda3/envs/digby/lib/python3.9/site-packages/Bio/Seq.py:2879: BiopythonWarning: Partial codon, len(sequence) not a multiple of three. Explicitly trim the sequence or add trailing N before translation. This may become an error in future.
+  warnings.warn(
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I49_S1/P28_I49_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I50_S1/P28_I50_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I51_S1/P28_I51_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I52_S1/P28_I52_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I53_S1/P28_I53_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I54_S1/P28_I54_S1_genotype.tsv
+adding similar allele IGLV3-9*01_g289a_337-----341
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I57_S1/P28_I57_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I58_S1/P28_I58_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I59_S1/P28_I59_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I5_S1/P28_I5_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I60_S1/P28_I60_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I61_S1/P28_I61_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I63_S1/P28_I63_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I64_S1/P28_I64_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I65_S1/P28_I65_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I66_S1/P28_I66_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I67_S1/P28_I67_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I68_S1/P28_I68_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I69_S1/P28_I69_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I6_S1/P28_I6_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I70_S1/P28_I70_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I71_S1/P28_I71_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I72_S1/P28_I72_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I73_S1/P28_I73_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I74_S1/P28_I74_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I75_S1/P28_I75_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I76_S1/P28_I76_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I77_S1/P28_I77_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I78_S1/P28_I78_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I79_S1/P28_I79_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I7_S1/P28_I7_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I81_S1/P28_I81_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I82_S1/P28_I82_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I83_S1/P28_I83_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I85_S1/P28_I85_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I86_S1/P28_I86_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I87_S1/P28_I87_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I88_S1/P28_I88_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I89_S1/P28_I89_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I90_S1/P28_I90_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I91_S1/P28_I91_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I92_S1/P28_I92_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I93_S1/P28_I93_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I94_S1/P28_I94_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I95_S1/P28_I95_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I96_S1/P28_I96_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I97_S1/P28_I97_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I98_S1/P28_I98_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I99_S1/P28_I99_S1_genotype.tsv
+/mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I9_S1/P28_I9_S1_genotype.tsv
 status: Processing alias sets
 status: Processing haplotypes
 status: Analyzing allele appearances
 status: Calculating gene frequencies
 status: Calculating patterns
 status: Creating confidence reports
-Reference alleles added
+Issues in ogrdbstats /mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/AIRR-seq/Human/IGL/samples/P28/P28_I27_S1/P28_I27_S1_ogrdb_report.csv:
+ Novels listed in the INF_FILE but having no unambiguous calls in the repertoire: 
+ Novels not listed in the INF_FILE: IGLV8-61*01_C223C_G331A_G332T_C333A_A334T_T335G_T336G_T337G_C338T
+Reference alleles added: 393 from the reference table, 0 from FASTA, 52 genes
 Processing metadata
 Adding deleted alleles
 Processing genotype files
@@ -563,3 +988,4 @@ Updating allele appearance counts
 Updating overall gene frequencies
 Calculating patterns
 Running confidence checks
+BUILD_EXIT=0
