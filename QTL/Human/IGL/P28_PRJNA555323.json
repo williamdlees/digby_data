@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:09:38Z",
+  "generated_at": "2026-09-11T15:01:13Z",
   "source_run": "/mnt/data/BIU Dropbox/Ayelet Peres/husa_manuscript/results/igqtl/2026-09-10",
   "locus": "IGL",
   "annotation_release": "251106",
@@ -21,50 +21,55 @@
   ],
   "files": [
     "usage_associations_IGL.tsv.gz",
-    "variant_features.tsv",
+    "variant_features.tsv.gz",
+    "asc_features.tsv.gz",
     "asc_usage.tsv.gz",
-    "genotypes.matrix"
+    "genotypes.matrix.gz"
   ],
   "schema": {
     "usage_associations_IGL.tsv.gz": {
       "columns": [
         "variant",
-        "pos",
-        "maf",
         "asc",
-        "segment",
-        "n",
         "beta",
         "se",
         "t_stat",
         "p_value",
-        "locus",
-        "asc_position",
-        "asc_span",
-        "n_member",
         "distance_to_asc",
-        "threshold",
         "significant",
-        "chrom",
-        "missing_rate",
-        "min_genotype_group",
-        "well_powered",
         "is_cis",
         "is_lead"
       ],
       "n_rows": 160055
     },
-    "variant_features.tsv": {
+    "variant_features.tsv.gz": {
       "columns": [
         "variant",
         "pos",
+        "maf",
+        "n",
+        "threshold",
+        "chrom",
+        "missing_rate",
+        "min_genotype_group",
+        "well_powered",
+        "locus",
         "gene",
         "feature",
         "sub_feature",
-        "distance_to_gene",
-        "locus"
+        "distance_to_gene"
       ],
-      "n_rows": 16453
+      "n_rows": 4573
+    },
+    "asc_features.tsv.gz": {
+      "columns": [
+        "asc",
+        "segment",
+        "asc_position",
+        "asc_span",
+        "n_member"
+      ],
+      "n_rows": 35
     },
     "asc_usage.tsv.gz": {
       "columns": [
@@ -78,9 +83,9 @@
         "usage",
         "logit_usage"
       ],
-      "n_rows": 18477
+      "n_rows": 4970
     },
-    "genotypes.matrix": {
+    "genotypes.matrix.gz": {
       "columns": [
         "snp",
         "110040277",
@@ -261,7 +266,7 @@
         "SCT8995047",
         "SCT9160998"
       ],
-      "n_rows": 16453
+      "n_rows": 4573
     }
   }
 }
