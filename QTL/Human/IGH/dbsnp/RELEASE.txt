@@ -1,0 +1,20 @@
+GRCh38 / IGH locus-relative / dbSNP identifier map
+
+Source: GRCh38_igh_dbSNP_id.tsv, supplied 2026-09-01.
+245,473 rows, chr14 only. Columns: GRCh38, GRCh38_pos, igh_pos, db_SNP_id.
+
+COORDINATE FRAME. Both position columns are 0-BASED. Established two ways and
+recorded here because nothing in the file says so:
+
+  1. Against Ensembl, 4 of 4 rsIDs sit one base higher than this file:
+     rs1778 106606198 -> 106606199, rs1780 106606150 -> 106606151,
+     rs453878 106297835 -> 106297836, rs690537 106298178 -> 106298179.
+  2. Against qtl_variant.pos (1-based), matching on igh_pos - 1 resolves 73.3%
+     of IGH variants against 20.6% expected by chance at this dbSNP density.
+     Matching as-is resolves 26.5%, which is chance.
+
+So: qtl_variant.pos = igh_pos + 1, and public GRCh38 = GRCh38_pos + 1.
+A join that skips the +1 attaches a wrong rsID to most of what it resolves.
+
+7,107 positions carry more than one rsID; they are kept, not collapsed.
+The file covers igh_pos 6-1,144,123; 115 guQTL variants fall beyond it.

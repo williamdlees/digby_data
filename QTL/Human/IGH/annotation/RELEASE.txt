@@ -1,0 +1,8 @@
+immune_receptor_genomics release 251106
+
+Reference: http://immunogenomics.louisville.edu/wasp/251106/reference.fasta
+Copied from husa_manuscript/external/immune_receptor_genomics/251106 on 2026-08-31.
+
+This is the same annotation release the guQTL analysis was run against, which is
+what makes the coordinates comparable. Replacing it with a different release
+without rebuilding the QTL databases would silently move every feature call.

@@ -1,0 +1,15 @@
+Human IGH [P28]:
+    thresholds                     3
+    usage_associations       667,542
+    variants                   9,402
+    ascs                          71
+    annotated                  9,402
+    summarised                 9,402
+    asc_usage                  8,733
+    dosage                 1,008,121
+    subjects                     123
+    pairing_associations     288,096
+    cell_tests                99,300
+    dj_enrichment             18,240
+    -> /mnt/data/BIU Dropbox/Ayelet Peres/vdjbase_github/digby_data/QTL/Human/IGH/db.sqlite3 (191 MB), 1 study
+BUILD_EXIT=0

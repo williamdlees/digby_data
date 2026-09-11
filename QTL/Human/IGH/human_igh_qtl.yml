@@ -1,0 +1,7 @@
+Analysis_method: igqtl
+Analysis_reference: https://github.com/ayeletperes/piglet
+Annotation_release: 251106
+Studies:
+  P28:
+    run_dir: studies/P28
+    manifest_file: P28_PRJNA555323.json
