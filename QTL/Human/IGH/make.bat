@@ -5,3 +5,5 @@ cd ..
 cd dbsnp
 zip -r ../dbsnp.zip *
 cd ..
+zip db.zip db.sqlite3
+python ../../../../digby_data/python/commit_sample_file.py --file db.zip

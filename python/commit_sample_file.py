@@ -6,9 +6,19 @@ import os
 import time
 import subprocess
 import requests
+import argparse
+
+parser = argparse.ArgumentParser(description="Upload sample file to AWS S3 and create a link.")
+parser.add_argument("--file", type=str, default="samples.zip", help="The sample file to upload (must be a .zip file).")
+args = parser.parse_args()
+
+if not args.file.endswith(".zip"):
+    print("The sample file must be a .zip file.")
+    exit(1)
 
 bucket_link = "http://vdjbase-distribution.s3-website-us-east-1.amazonaws.com/"
 bucket_name = "vdjbase-distribution"
+archive_name = args.file.replace(".zip", "")
 
 # Get the current timestamp
 
@@ -16,8 +26,8 @@ timestamp = time.strftime("%Y%m%d-%H%M%S")
 
 # Rename the sample file
 
-ts_filename = "samples_" + timestamp + ".zip"
-os.rename("samples.zip", ts_filename)
+ts_filename = archive_name + "_" + timestamp + ".zip"
+os.rename(args.file, ts_filename)
 
 # Copy the renamed file to aws
 
@@ -44,5 +54,5 @@ if not url_valid:
 
 # Create a file containing a link to the file on aws
 
-with open("link_to_sample.txt", "w") as f:
+with open(f"link_to_{archive_name}.txt", "w") as f:
     f.write(bucket_link + ts_filename)
