@@ -11,6 +11,7 @@ samples*.zip
 samples.zip
 samples/
 *diggers.csv
+db*.zip
 
 # guQTL databases are rebuilt by make.bat: IGH alone is 191MB, over GitHub limit
 QTL/Human/*/db.sqlite3
